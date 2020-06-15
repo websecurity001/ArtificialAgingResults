@@ -1,0 +1,1757 @@
+{
+    "info": {
+        "added": 1586881322.299697, 
+        "started": 1586881329.755297, 
+        "duration": 128, 
+        "ended": 1586881458.578496, 
+        "owner": null, 
+        "score": 0.2, 
+        "id": 18, 
+        "category": "file", 
+        "git": {
+            "head": "13cbe0d9e457be3673304533043e992ead1ea9b2", 
+            "fetch_head": "13cbe0d9e457be3673304533043e992ead1ea9b2"
+        }, 
+        "monitor": "2deb9ccd75d5a7a3fe05b2625b03a8639d6ee36b", 
+        "package": "", 
+        "route": "none", 
+        "custom": null, 
+        "machine": {
+            "status": "stopped", 
+            "name": "physical1", 
+            "label": "physical1", 
+            "manager": "Physical", 
+            "started_on": "2020-04-14 16:22:09", 
+            "shutdown_on": "2020-04-14 16:24:18"
+        }, 
+        "platform": null, 
+        "version": "2.0.7", 
+        "options": ""
+    }, 
+    "signatures": [
+        {
+            "families": [], 
+            "description": "This executable has a PDB path", 
+            "severity": 1, 
+            "ttp": {}, 
+            "markcount": 1, 
+            "references": [], 
+            "marks": [
+                {
+                    "category": "pdb_path", 
+                    "ioc": "C:\\Work\\Dropbox\\RIT\\Capstone Project\\Programs\\ArtificialAgingFactory\\ArtificialAgainMalware\\obj\\Debug\\ArtificialAgingMalware.pdb", 
+                    "type": "ioc", 
+                    "description": null
+                }
+            ], 
+            "name": "has_pdb"
+        }
+    ], 
+    "target": {
+        "category": "file", 
+        "file": {
+            "yara": [], 
+            "sha1": "abf913943bbc29b0e971eb0d2de4f64925d4ce6a", 
+            "name": "ArtificialAgingMalware.exe", 
+            "type": "PE32+ executable (GUI) x86-64 Mono/.Net assembly, for MS Windows", 
+            "sha256": "0a3fc80f031dcbb2fa737ee6934c8c48ad40b7ac24f1daa943ea795d749ab64c", 
+            "urls": [], 
+            "crc32": "593C91DC", 
+            "path": "/home/student/.cuckoo/storage/binaries/0a3fc80f031dcbb2fa737ee6934c8c48ad40b7ac24f1daa943ea795d749ab64c", 
+            "ssdeep": null, 
+            "size": 32256, 
+            "sha512": "ef42cd47ebb7a3265174496e6e28b56030513391c1280fd6a2a53e9cc257baf4403ffab5f72539c779132791353d2bfd7961770a8a7253dc685ea334cfaaf162", 
+            "md5": "466e0c1a934dc9ca9778ab2781d3def3"
+        }
+    }, 
+    "network": {
+        "tls": [], 
+        "udp": [
+            {
+                "src": "192.168.202.169", 
+                "dst": "192.168.207.255", 
+                "offset": 24, 
+                "time": 0.0, 
+                "dport": 137, 
+                "sport": 137
+            }
+        ], 
+        "dns_servers": [], 
+        "http": [], 
+        "icmp": [], 
+        "smtp": [], 
+        "tcp": [], 
+        "smtp_ex": [], 
+        "mitm": [], 
+        "hosts": [], 
+        "pcap_sha256": "0d98b7e11feee9bac2eee0c0993f4f9757a59be3ee33a81ff6dd654c65203cc0", 
+        "dns": [], 
+        "http_ex": [], 
+        "domains": [], 
+        "dead_hosts": [], 
+        "sorted_pcap_sha256": "f074bc2d1898105568a3f10ec0711a1da078944ab4733e01b108f1c58ebdf44a", 
+        "irc": [], 
+        "https_ex": []
+    }, 
+    "static": {
+        "pdb_path": "C:\\Work\\Dropbox\\RIT\\Capstone Project\\Programs\\ArtificialAgingFactory\\ArtificialAgainMalware\\obj\\Debug\\ArtificialAgingMalware.pdb", 
+        "pe_imports": [], 
+        "peid_signatures": null, 
+        "keys": [], 
+        "signature": [], 
+        "pe_timestamp": "2097-04-02 15:50:01", 
+        "pe_exports": [], 
+        "imported_dll_count": 0, 
+        "pe_imphash": "", 
+        "pe_resources": [
+            {
+                "name": "RT_VERSION", 
+                "language": "LANG_NEUTRAL", 
+                "filetype": "PGP symmetric key encrypted data - Plaintext or unencrypted data", 
+                "sublanguage": "SUBLANG_NEUTRAL", 
+                "offset": "0x0000a090", 
+                "size": "0x0000038c"
+            }, 
+            {
+                "name": "RT_MANIFEST", 
+                "language": "LANG_NEUTRAL", 
+                "filetype": "XML 1.0 document, UTF-8 Unicode (with BOM) text, with CRLF line terminators", 
+                "sublanguage": "SUBLANG_NEUTRAL", 
+                "offset": "0x0000a42c", 
+                "size": "0x000001ea"
+            }
+        ], 
+        "pe_versioninfo": [
+            {
+                "name": "Translation", 
+                "value": "0x0000 0x04b0"
+            }, 
+            {
+                "name": "LegalCopyright", 
+                "value": "Copyright \\xa9  2020"
+            }, 
+            {
+                "name": "Assembly Version", 
+                "value": "1.0.0.0"
+            }, 
+            {
+                "name": "InternalName", 
+                "value": "ArtificialAgingMalware.exe"
+            }, 
+            {
+                "name": "FileVersion", 
+                "value": "1.0.0.0"
+            }, 
+            {
+                "name": "CompanyName", 
+                "value": ""
+            }, 
+            {
+                "name": "LegalTrademarks", 
+                "value": ""
+            }, 
+            {
+                "name": "Comments", 
+                "value": ""
+            }, 
+            {
+                "name": "ProductName", 
+                "value": "ArtificialAgainMalware"
+            }, 
+            {
+                "name": "ProductVersion", 
+                "value": "1.0.0.0"
+            }, 
+            {
+                "name": "FileDescription", 
+                "value": "ArtificialAgainMalware"
+            }, 
+            {
+                "name": "OriginalFilename", 
+                "value": "ArtificialAgingMalware.exe"
+            }
+        ], 
+        "pe_sections": [
+            {
+                "size_of_data": "0x00007400", 
+                "virtual_address": "0x00002000", 
+                "entropy": 5.850706488818386, 
+                "name": ".text", 
+                "virtual_size": "0x00007351"
+            }, 
+            {
+                "size_of_data": "0x00000800", 
+                "virtual_address": "0x0000a000", 
+                "entropy": 3.4410395901882866, 
+                "name": ".rsrc", 
+                "virtual_size": "0x0000061c"
+            }
+        ]
+    }, 
+    "behavior": {
+        "generic": [
+            {
+                "process_path": "C:\\Windows\\System32\\lsass.exe", 
+                "process_name": "lsass.exe", 
+                "pid": 616, 
+                "summary": {}, 
+                "first_seen": 1586881322.503374, 
+                "ppid": 476
+            }, 
+            {
+                "process_path": "C:\\Users\\Student\\AppData\\Local\\Temp\\ArtificialAgingMalware.exe", 
+                "process_name": "ArtificialAgingMalware.exe", 
+                "pid": 6924, 
+                "summary": {}, 
+                "first_seen": 1586881323.300255, 
+                "ppid": 5236
+            }
+        ], 
+        "apistats": {
+            "6924": {
+                "NtProtectVirtualMemory": 1
+            }
+        }, 
+        "processes": [
+            {
+                "process_path": "C:\\Windows\\System32\\lsass.exe", 
+                "calls": [], 
+                "track": false, 
+                "pid": 616, 
+                "process_name": "lsass.exe", 
+                "command_line": "C:\\WINDOWS\\system32\\lsass.exe", 
+                "modules": [
+                    {
+                        "basename": "lsass.exe", 
+                        "imgsize": 69632, 
+                        "baseaddr": "0x7ff704ae0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\lsass.exe"
+                    }, 
+                    {
+                        "basename": "ntdll.dll", 
+                        "imgsize": 2031616, 
+                        "baseaddr": "0x7ff818ea0000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\ntdll.dll"
+                    }, 
+                    {
+                        "basename": "KERNEL32.DLL", 
+                        "imgsize": 729088, 
+                        "baseaddr": "0x7ff818c90000", 
+                        "filepath": "C:\\WINDOWS\\System32\\KERNEL32.DLL"
+                    }, 
+                    {
+                        "basename": "KERNELBASE.dll", 
+                        "imgsize": 2764800, 
+                        "baseaddr": "0x7ff816960000", 
+                        "filepath": "C:\\WINDOWS\\System32\\KERNELBASE.dll"
+                    }, 
+                    {
+                        "basename": "RPCRT4.dll", 
+                        "imgsize": 1179648, 
+                        "baseaddr": "0x7ff817910000", 
+                        "filepath": "C:\\WINDOWS\\System32\\RPCRT4.dll"
+                    }, 
+                    {
+                        "basename": "lsasrv.dll", 
+                        "imgsize": 1703936, 
+                        "baseaddr": "0x7ff815960000", 
+                        "filepath": "C:\\WINDOWS\\system32\\lsasrv.dll"
+                    }, 
+                    {
+                        "basename": "msvcrt.dll", 
+                        "imgsize": 647168, 
+                        "baseaddr": "0x7ff818dc0000", 
+                        "filepath": "C:\\WINDOWS\\System32\\msvcrt.dll"
+                    }, 
+                    {
+                        "basename": "WS2_32.dll", 
+                        "imgsize": 454656, 
+                        "baseaddr": "0x7ff817d50000", 
+                        "filepath": "C:\\WINDOWS\\System32\\WS2_32.dll"
+                    }, 
+                    {
+                        "basename": "sechost.dll", 
+                        "imgsize": 618496, 
+                        "baseaddr": "0x7ff817a30000", 
+                        "filepath": "C:\\WINDOWS\\System32\\sechost.dll"
+                    }, 
+                    {
+                        "basename": "WLDAP32.dll", 
+                        "imgsize": 425984, 
+                        "baseaddr": "0x7ff818d50000", 
+                        "filepath": "C:\\WINDOWS\\System32\\WLDAP32.dll"
+                    }, 
+                    {
+                        "basename": "ucrtbase.dll", 
+                        "imgsize": 1024000, 
+                        "baseaddr": "0x7ff816660000", 
+                        "filepath": "C:\\WINDOWS\\System32\\ucrtbase.dll"
+                    }, 
+                    {
+                        "basename": "SspiCli.dll", 
+                        "imgsize": 192512, 
+                        "baseaddr": "0x7ff815c80000", 
+                        "filepath": "C:\\WINDOWS\\system32\\SspiCli.dll"
+                    }, 
+                    {
+                        "basename": "MSASN1.dll", 
+                        "imgsize": 73728, 
+                        "baseaddr": "0x7ff815dc0000", 
+                        "filepath": "C:\\WINDOWS\\System32\\MSASN1.dll"
+                    }, 
+                    {
+                        "basename": "samsrv.dll", 
+                        "imgsize": 958464, 
+                        "baseaddr": "0x7ff815870000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\samsrv.dll"
+                    }, 
+                    {
+                        "basename": "bcrypt.dll", 
+                        "imgsize": 155648, 
+                        "baseaddr": "0x7ff8165b0000", 
+                        "filepath": "C:\\WINDOWS\\System32\\bcrypt.dll"
+                    }, 
+                    {
+                        "basename": "CRYPT32.dll", 
+                        "imgsize": 1347584, 
+                        "baseaddr": "0x7ff816810000", 
+                        "filepath": "C:\\WINDOWS\\System32\\CRYPT32.dll"
+                    }, 
+                    {
+                        "basename": "ncrypt.dll", 
+                        "imgsize": 155648, 
+                        "baseaddr": "0x7ff815840000", 
+                        "filepath": "C:\\WINDOWS\\system32\\ncrypt.dll"
+                    }, 
+                    {
+                        "basename": "NTASN1.dll", 
+                        "imgsize": 241664, 
+                        "baseaddr": "0x7ff815800000", 
+                        "filepath": "C:\\WINDOWS\\system32\\NTASN1.dll"
+                    }, 
+                    {
+                        "basename": "Wldp.dll", 
+                        "imgsize": 167936, 
+                        "baseaddr": "0x7ff8157d0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\Wldp.dll"
+                    }, 
+                    {
+                        "basename": "combase.dll", 
+                        "imgsize": 3366912, 
+                        "baseaddr": "0x7ff817000000", 
+                        "filepath": "C:\\WINDOWS\\System32\\combase.dll"
+                    }, 
+                    {
+                        "basename": "bcryptPrimitives.dll", 
+                        "imgsize": 524288, 
+                        "baseaddr": "0x7ff8165e0000", 
+                        "filepath": "C:\\WINDOWS\\System32\\bcryptPrimitives.dll"
+                    }, 
+                    {
+                        "basename": "WINTRUST.dll", 
+                        "imgsize": 376832, 
+                        "baseaddr": "0x7ff816ed0000", 
+                        "filepath": "C:\\WINDOWS\\System32\\WINTRUST.dll"
+                    }, 
+                    {
+                        "basename": "msprivs.DLL", 
+                        "imgsize": 12288, 
+                        "baseaddr": "0x25b279c0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\msprivs.DLL"
+                    }, 
+                    {
+                        "basename": "netprovfw.dll", 
+                        "imgsize": 86016, 
+                        "baseaddr": "0x7ff8157b0000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\netprovfw.dll"
+                    }, 
+                    {
+                        "basename": "JOINUTIL.DLL", 
+                        "imgsize": 172032, 
+                        "baseaddr": "0x7ff815780000", 
+                        "filepath": "C:\\WINDOWS\\system32\\JOINUTIL.DLL"
+                    }, 
+                    {
+                        "basename": "negoexts.DLL", 
+                        "imgsize": 151552, 
+                        "baseaddr": "0x7ff815750000", 
+                        "filepath": "C:\\WINDOWS\\system32\\negoexts.DLL"
+                    }, 
+                    {
+                        "basename": "CRYPTSP.dll", 
+                        "imgsize": 94208, 
+                        "baseaddr": "0x7ff816f30000", 
+                        "filepath": "C:\\WINDOWS\\System32\\CRYPTSP.dll"
+                    }, 
+                    {
+                        "basename": "CRYPTBASE.dll", 
+                        "imgsize": 49152, 
+                        "baseaddr": "0x7ff815740000", 
+                        "filepath": "C:\\WINDOWS\\system32\\CRYPTBASE.dll"
+                    }, 
+                    {
+                        "basename": "kerberos.DLL", 
+                        "imgsize": 1060864, 
+                        "baseaddr": "0x7ff815630000", 
+                        "filepath": "C:\\WINDOWS\\system32\\kerberos.DLL"
+                    }, 
+                    {
+                        "basename": "msvcp_win.dll", 
+                        "imgsize": 647168, 
+                        "baseaddr": "0x7ff816c90000", 
+                        "filepath": "C:\\WINDOWS\\System32\\msvcp_win.dll"
+                    }, 
+                    {
+                        "basename": "KerbClientShared.dll", 
+                        "imgsize": 163840, 
+                        "baseaddr": "0x7ff815600000", 
+                        "filepath": "C:\\WINDOWS\\system32\\KerbClientShared.dll"
+                    }, 
+                    {
+                        "basename": "cryptdll.dll", 
+                        "imgsize": 81920, 
+                        "baseaddr": "0x7ff8155e0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\cryptdll.dll"
+                    }, 
+                    {
+                        "basename": "mswsock.dll", 
+                        "imgsize": 421888, 
+                        "baseaddr": "0x7ff815570000", 
+                        "filepath": "C:\\WINDOWS\\system32\\mswsock.dll"
+                    }, 
+                    {
+                        "basename": "msv1_0.DLL", 
+                        "imgsize": 487424, 
+                        "baseaddr": "0x7ff8154f0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\msv1_0.DLL"
+                    }, 
+                    {
+                        "basename": "NtlmShared.dll", 
+                        "imgsize": 53248, 
+                        "baseaddr": "0x7ff8154e0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\NtlmShared.dll"
+                    }, 
+                    {
+                        "basename": "netlogon.DLL", 
+                        "imgsize": 888832, 
+                        "baseaddr": "0x7ff815400000", 
+                        "filepath": "C:\\WINDOWS\\system32\\netlogon.DLL"
+                    }, 
+                    {
+                        "basename": "powrprof.dll", 
+                        "imgsize": 303104, 
+                        "baseaddr": "0x7ff815de0000", 
+                        "filepath": "C:\\WINDOWS\\System32\\powrprof.dll"
+                    }, 
+                    {
+                        "basename": "UMPDC.dll", 
+                        "imgsize": 65536, 
+                        "baseaddr": "0x7ff815d60000", 
+                        "filepath": "C:\\WINDOWS\\System32\\UMPDC.dll"
+                    }, 
+                    {
+                        "basename": "advapi32.dll", 
+                        "imgsize": 667648, 
+                        "baseaddr": "0x7ff818950000", 
+                        "filepath": "C:\\WINDOWS\\System32\\advapi32.dll"
+                    }, 
+                    {
+                        "basename": "logoncli.dll", 
+                        "imgsize": 270336, 
+                        "baseaddr": "0x7ff8153b0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\logoncli.dll"
+                    }, 
+                    {
+                        "basename": "USERENV.dll", 
+                        "imgsize": 151552, 
+                        "baseaddr": "0x7ff815c50000", 
+                        "filepath": "C:\\WINDOWS\\system32\\USERENV.dll"
+                    }, 
+                    {
+                        "basename": "profapi.dll", 
+                        "imgsize": 143360, 
+                        "baseaddr": "0x7ff815d70000", 
+                        "filepath": "C:\\WINDOWS\\System32\\profapi.dll"
+                    }, 
+                    {
+                        "basename": "gmsaclient.dll", 
+                        "imgsize": 57344, 
+                        "baseaddr": "0x7ff8153a0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\gmsaclient.dll"
+                    }, 
+                    {
+                        "basename": "netutils.dll", 
+                        "imgsize": 49152, 
+                        "baseaddr": "0x7ff815390000", 
+                        "filepath": "C:\\WINDOWS\\system32\\netutils.dll"
+                    }, 
+                    {
+                        "basename": "DNSAPI.dll", 
+                        "imgsize": 827392, 
+                        "baseaddr": "0x7ff8152c0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\DNSAPI.dll"
+                    }, 
+                    {
+                        "basename": "NSI.dll", 
+                        "imgsize": 32768, 
+                        "baseaddr": "0x7ff818800000", 
+                        "filepath": "C:\\WINDOWS\\System32\\NSI.dll"
+                    }, 
+                    {
+                        "basename": "IPHLPAPI.DLL", 
+                        "imgsize": 237568, 
+                        "baseaddr": "0x7ff815280000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\IPHLPAPI.DLL"
+                    }, 
+                    {
+                        "basename": "tspkg.DLL", 
+                        "imgsize": 172032, 
+                        "baseaddr": "0x7ff815250000", 
+                        "filepath": "C:\\WINDOWS\\system32\\tspkg.DLL"
+                    }, 
+                    {
+                        "basename": "pku2u.DLL", 
+                        "imgsize": 278528, 
+                        "baseaddr": "0x7ff815200000", 
+                        "filepath": "C:\\WINDOWS\\system32\\pku2u.DLL"
+                    }, 
+                    {
+                        "basename": "cloudAP.DLL", 
+                        "imgsize": 487424, 
+                        "baseaddr": "0x7ff815180000", 
+                        "filepath": "C:\\WINDOWS\\system32\\cloudAP.DLL"
+                    }, 
+                    {
+                        "basename": "MicrosoftAccountCloudAP.dll", 
+                        "imgsize": 294912, 
+                        "baseaddr": "0x7ff815130000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\MicrosoftAccountCloudAP.dll"
+                    }, 
+                    {
+                        "basename": "DPAPI.DLL", 
+                        "imgsize": 40960, 
+                        "baseaddr": "0x7ff815120000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\DPAPI.DLL"
+                    }, 
+                    {
+                        "basename": "rsaenh.dll", 
+                        "imgsize": 208896, 
+                        "baseaddr": "0x7ff8150e0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\rsaenh.dll"
+                    }, 
+                    {
+                        "basename": "wdigest.DLL", 
+                        "imgsize": 241664, 
+                        "baseaddr": "0x7ff8150a0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\wdigest.DLL"
+                    }, 
+                    {
+                        "basename": "schannel.DLL", 
+                        "imgsize": 557056, 
+                        "baseaddr": "0x7ff815010000", 
+                        "filepath": "C:\\WINDOWS\\system32\\schannel.DLL"
+                    }, 
+                    {
+                        "basename": "efslsaext.dll", 
+                        "imgsize": 106496, 
+                        "baseaddr": "0x7ff814ff0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\efslsaext.dll"
+                    }, 
+                    {
+                        "basename": "shcore.dll", 
+                        "imgsize": 692224, 
+                        "baseaddr": "0x7ff816f50000", 
+                        "filepath": "C:\\WINDOWS\\System32\\shcore.dll"
+                    }, 
+                    {
+                        "basename": "dpapisrv.dll", 
+                        "imgsize": 225280, 
+                        "baseaddr": "0x7ff814fb0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\dpapisrv.dll"
+                    }, 
+                    {
+                        "basename": "SspiSrv.dll", 
+                        "imgsize": 49152, 
+                        "baseaddr": "0x7ff814fa0000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\SspiSrv.dll"
+                    }, 
+                    {
+                        "basename": "KDCPW.DLL", 
+                        "imgsize": 49152, 
+                        "baseaddr": "0x7ff814f90000", 
+                        "filepath": "C:\\WINDOWS\\system32\\KDCPW.DLL"
+                    }, 
+                    {
+                        "basename": "scecli.DLL", 
+                        "imgsize": 299008, 
+                        "baseaddr": "0x7ff814f40000", 
+                        "filepath": "C:\\WINDOWS\\system32\\scecli.DLL"
+                    }, 
+                    {
+                        "basename": "winsta.dll", 
+                        "imgsize": 376832, 
+                        "baseaddr": "0x7ff815b00000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\winsta.dll"
+                    }, 
+                    {
+                        "basename": "ncryptsslp.dll", 
+                        "imgsize": 151552, 
+                        "baseaddr": "0x7ff809f10000", 
+                        "filepath": "C:\\WINDOWS\\system32\\ncryptsslp.dll"
+                    }, 
+                    {
+                        "basename": "ncryptprov.dll", 
+                        "imgsize": 364544, 
+                        "baseaddr": "0x7ff809eb0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\ncryptprov.dll"
+                    }, 
+                    {
+                        "basename": "dssenh.dll", 
+                        "imgsize": 159744, 
+                        "baseaddr": "0x7ff809e80000", 
+                        "filepath": "C:\\WINDOWS\\system32\\dssenh.dll"
+                    }, 
+                    {
+                        "basename": "gpapi.dll", 
+                        "imgsize": 139264, 
+                        "baseaddr": "0x7ff814980000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\gpapi.dll"
+                    }, 
+                    {
+                        "basename": "mskeyprotect.dll", 
+                        "imgsize": 86016, 
+                        "baseaddr": "0x7ff809e60000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\mskeyprotect.dll"
+                    }, 
+                    {
+                        "basename": "wevtapi.dll", 
+                        "imgsize": 389120, 
+                        "baseaddr": "0x7ff810240000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\wevtapi.dll"
+                    }, 
+                    {
+                        "basename": "DSPARSE.dll", 
+                        "imgsize": 49152, 
+                        "baseaddr": "0x7ff80ef70000", 
+                        "filepath": "C:\\WINDOWS\\system32\\DSPARSE.dll"
+                    }, 
+                    {
+                        "basename": "keyiso.dll", 
+                        "imgsize": 106496, 
+                        "baseaddr": "0x7ff801ca0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\keyiso.dll"
+                    }, 
+                    {
+                        "basename": "AUTHZ.dll", 
+                        "imgsize": 303104, 
+                        "baseaddr": "0x7ff814d30000", 
+                        "filepath": "C:\\WINDOWS\\system32\\AUTHZ.dll"
+                    }, 
+                    {
+                        "basename": "SecureTimeAggregator.dll", 
+                        "imgsize": 139264, 
+                        "baseaddr": "0x7ffffeee0000", 
+                        "filepath": "C:\\Windows\\System32\\SecureTimeAggregator.dll"
+                    }, 
+                    {
+                        "basename": "DSROLE.dll", 
+                        "imgsize": 40960, 
+                        "baseaddr": "0x7ff812480000", 
+                        "filepath": "C:\\WINDOWS\\system32\\DSROLE.dll"
+                    }, 
+                    {
+                        "basename": "kernel.appcore.dll", 
+                        "imgsize": 69632, 
+                        "baseaddr": "0x7ff815da0000", 
+                        "filepath": "C:\\WINDOWS\\System32\\kernel.appcore.dll"
+                    }, 
+                    {
+                        "basename": "cryptnet.dll", 
+                        "imgsize": 192512, 
+                        "baseaddr": "0x7ffffebc0000", 
+                        "filepath": "C:\\Windows\\System32\\cryptnet.dll"
+                    }, 
+                    {
+                        "basename": "ngcpopkeysrv.dll", 
+                        "imgsize": 303104, 
+                        "baseaddr": "0x7ffff2700000", 
+                        "filepath": "C:\\WINDOWS\\System32\\ngcpopkeysrv.dll"
+                    }, 
+                    {
+                        "basename": "OLEAUT32.dll", 
+                        "imgsize": 802816, 
+                        "baseaddr": "0x7ff817dc0000", 
+                        "filepath": "C:\\WINDOWS\\System32\\OLEAUT32.dll"
+                    }, 
+                    {
+                        "basename": "PCPKsp.dll", 
+                        "imgsize": 978944, 
+                        "baseaddr": "0x7ff80efe0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\PCPKsp.dll"
+                    }, 
+                    {
+                        "basename": "ntmarta.dll", 
+                        "imgsize": 200704, 
+                        "baseaddr": "0x7ff814e40000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\ntmarta.dll"
+                    }, 
+                    {
+                        "basename": "tbs.dll", 
+                        "imgsize": 57344, 
+                        "baseaddr": "0x7ff80efd0000", 
+                        "filepath": "C:\\WINDOWS\\system32\\tbs.dll"
+                    }, 
+                    {
+                        "basename": "imagehlp.dll", 
+                        "imgsize": 118784, 
+                        "baseaddr": "0x7ff817ad0000", 
+                        "filepath": "C:\\WINDOWS\\System32\\imagehlp.dll"
+                    }, 
+                    {
+                        "basename": "cryptngc.dll", 
+                        "imgsize": 499712, 
+                        "baseaddr": "0x7ff80f360000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\cryptngc.dll"
+                    }, 
+                    {
+                        "basename": "vaultsvc.dll", 
+                        "imgsize": 385024, 
+                        "baseaddr": "0x7fffe7a40000", 
+                        "filepath": "C:\\Windows\\System32\\vaultsvc.dll"
+                    }, 
+                    {
+                        "basename": "secur32.dll", 
+                        "imgsize": 49152, 
+                        "baseaddr": "0x7ff80be10000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\secur32.dll"
+                    }, 
+                    {
+                        "basename": "monitor-x64.dll", 
+                        "imgsize": 2269184, 
+                        "baseaddr": "0x5e500000", 
+                        "filepath": "C:\\fwwmr\\bin\\monitor-x64.dll"
+                    }
+                ], 
+                "time": 0, 
+                "tid": 5440, 
+                "first_seen": 1586881322.503374, 
+                "ppid": 476, 
+                "type": "process"
+            }, 
+            {
+                "process_path": "C:\\Users\\Student\\AppData\\Local\\Temp\\ArtificialAgingMalware.exe", 
+                "calls": [
+                    {
+                        "category": "process", 
+                        "status": 1, 
+                        "stacktrace": [], 
+                        "api": "NtProtectVirtualMemory", 
+                        "return_value": 0, 
+                        "arguments": {
+                            "process_identifier": 6924, 
+                            "stack_dep_bypass": 0, 
+                            "stack_pivoted": 0, 
+                            "heap_dep_bypass": 0, 
+                            "length": 4096, 
+                            "protection": 4, 
+                            "process_handle": "0xffffffffffffffff", 
+                            "base_address": "0x00007ffffd301000"
+                        }, 
+                        "time": 1586881323.394255, 
+                        "tid": 3188, 
+                        "flags": {
+                            "protection": "PAGE_READWRITE"
+                        }
+                    }
+                ], 
+                "track": true, 
+                "pid": 6924, 
+                "process_name": "ArtificialAgingMalware.exe", 
+                "command_line": "\"C:\\Users\\Student\\AppData\\Local\\Temp\\ArtificialAgingMalware.exe\" ", 
+                "modules": [
+                    {
+                        "basename": "ArtificialAgingMalware.exe", 
+                        "imgsize": 49152, 
+                        "baseaddr": "0x1e6f3000000", 
+                        "filepath": "C:\\Users\\Student\\AppData\\Local\\Temp\\ArtificialAgingMalware.exe"
+                    }, 
+                    {
+                        "basename": "ntdll.dll", 
+                        "imgsize": 2031616, 
+                        "baseaddr": "0x7ff818ea0000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\ntdll.dll"
+                    }, 
+                    {
+                        "basename": "MSCOREE.DLL", 
+                        "imgsize": 409600, 
+                        "baseaddr": "0x7ffffd2a0000", 
+                        "filepath": "C:\\WINDOWS\\SYSTEM32\\MSCOREE.DLL"
+                    }, 
+                    {
+                        "basename": "KERNEL32.dll", 
+                        "imgsize": 729088, 
+                        "baseaddr": "0x7ff818c90000", 
+                        "filepath": "C:\\WINDOWS\\System32\\KERNEL32.dll"
+                    }, 
+                    {
+                        "basename": "KERNELBASE.dll", 
+                        "imgsize": 2764800, 
+                        "baseaddr": "0x7ff816960000", 
+                        "filepath": "C:\\WINDOWS\\System32\\KERNELBASE.dll"
+                    }, 
+                    {
+                        "basename": "monitor-x64.dll", 
+                        "imgsize": 2269184, 
+                        "baseaddr": "0x5e500000", 
+                        "filepath": "C:\\fwwmr\\bin\\monitor-x64.dll"
+                    }, 
+                    {
+                        "basename": "msvcrt.dll", 
+                        "imgsize": 647168, 
+                        "baseaddr": "0x7ff818dc0000", 
+                        "filepath": "C:\\WINDOWS\\System32\\msvcrt.dll"
+                    }
+                ], 
+                "time": 0, 
+                "tid": 3188, 
+                "first_seen": 1586881323.300255, 
+                "ppid": 5236, 
+                "type": "process"
+            }
+        ], 
+        "processtree": [
+            {
+                "track": false, 
+                "pid": 616, 
+                "process_name": "lsass.exe", 
+                "command_line": "C:\\WINDOWS\\system32\\lsass.exe", 
+                "first_seen": 1586881322.503374, 
+                "ppid": 476, 
+                "children": []
+            }, 
+            {
+                "track": true, 
+                "pid": 6924, 
+                "process_name": "ArtificialAgingMalware.exe", 
+                "command_line": "\"C:\\Users\\Student\\AppData\\Local\\Temp\\ArtificialAgingMalware.exe\" ", 
+                "first_seen": 1586881323.300255, 
+                "ppid": 5236, 
+                "children": []
+            }
+        ]
+    }, 
+    "debug": {
+        "action": [
+            "gatherer"
+        ], 
+        "dbgview": [], 
+        "errors": [], 
+        "log": [
+            "2020-04-14 16:22:02,009 [analyzer] DEBUG: Starting analyzer from: C:\\fwwmr\n", 
+            "2020-04-14 16:22:02,009 [analyzer] DEBUG: Pipe server name: \\??\\PIPE\\zaLAOymwtrCftkTgdMjXBIx\n", 
+            "2020-04-14 16:22:02,009 [analyzer] DEBUG: Log pipe server name: \\??\\PIPE\\KHVCNJLvTIsxLNuMFMeZbRhq\n", 
+            "2020-04-14 16:22:02,009 [analyzer] DEBUG: No analysis package specified, trying to detect it automagically.\n", 
+            "2020-04-14 16:22:02,010 [analyzer] INFO: Automatically selected analysis package \"exe\"\n", 
+            "2020-04-14 16:22:02,081 [analyzer] DEBUG: Started auxiliary module DbgView\n", 
+            "2020-04-14 16:22:02,378 [analyzer] DEBUG: Started auxiliary module Disguise\n", 
+            "2020-04-14 16:22:02,565 [analyzer] DEBUG: Loaded monitor into process with pid 616\n", 
+            "2020-04-14 16:22:02,565 [analyzer] DEBUG: Started auxiliary module DumpTLSMasterSecrets\n", 
+            "2020-04-14 16:22:02,565 [analyzer] DEBUG: Started auxiliary module Human\n", 
+            "2020-04-14 16:22:02,565 [analyzer] DEBUG: Started auxiliary module InstallCertificate\n", 
+            "2020-04-14 16:22:02,565 [analyzer] DEBUG: Started auxiliary module Reboot\n", 
+            "2020-04-14 16:22:02,581 [analyzer] DEBUG: Started auxiliary module RecentFiles\n", 
+            "2020-04-14 16:22:02,581 [analyzer] DEBUG: Started auxiliary module Screenshots\n", 
+            "2020-04-14 16:22:02,581 [analyzer] DEBUG: Started auxiliary module LoadZer0m0n\n", 
+            "2020-04-14 16:22:03,081 [lib.api.process] INFO: Successfully executed process from path u'C:\\\\Users\\\\Student\\\\AppData\\\\Local\\\\Temp\\\\ArtificialAgingMalware.exe' with arguments '' and pid 6924\n", 
+            "2020-04-14 16:22:03,397 [analyzer] DEBUG: Loaded monitor into process with pid 6924\n", 
+            "2020-04-14 16:24:04,023 [analyzer] INFO: Analysis timeout hit, terminating analysis.\n", 
+            "2020-04-14 16:24:04,023 [analyzer] INFO: Analysis completed.\n"
+        ], 
+        "cuckoo": [
+            "2020-04-14 16:22:09,791 [cuckoo.core.scheduler] INFO: Task #18: acquired machine physical1 (label=physical1)\n", 
+            "2020-04-14 16:22:09,792 [cuckoo.core.resultserver] DEBUG: Now tracking machine 192.168.202.169 for task #18\n", 
+            "2020-04-14 16:22:09,792 [cuckoo.core.plugins] DEBUG: Started auxiliary module: Replay\n", 
+            "2020-04-14 16:22:09,802 [cuckoo.auxiliary.sniffer] INFO: Started sniffer with PID 2763 (interface=ens160, host=192.168.202.169)\n", 
+            "2020-04-14 16:22:09,808 [cuckoo.core.plugins] DEBUG: Started auxiliary module: Sniffer\n", 
+            "2020-04-14 16:22:09,850 [cuckoo.machinery.physical] DEBUG: Checking if machine u'physical1' is running.\n", 
+            "2020-04-14 16:22:09,850 [cuckoo.machinery.physical] DEBUG: Getting status for machine: physical1.\n", 
+            "2020-04-14 16:22:09,859 [cuckoo.machinery.physical] DEBUG: Machine already running: physical1.\n", 
+            "2020-04-14 16:22:09,872 [cuckoo.core.guest] INFO: Starting analysis #18 on guest (id=physical1, ip=192.168.202.169)\n", 
+            "2020-04-14 16:22:09,881 [cuckoo.core.guest] DEBUG: physical1: waiting for status 0x0001\n", 
+            "2020-04-14 16:22:09,886 [cuckoo.core.guest] DEBUG: physical1: status ready\n", 
+            "2020-04-14 16:22:09,905 [cuckoo.core.guest] DEBUG: Uploading analyzer to guest (id=physical1, ip=192.168.202.169, monitor=latest, size=3884763)\n", 
+            "2020-04-14 16:22:10,317 [cuckoo.core.guest] DEBUG: physical1: analyzer started with PID 6012\n", 
+            "2020-04-14 16:22:10,326 [cuckoo.core.guest] DEBUG: physical1: waiting for completion\n", 
+            "2020-04-14 16:22:10,489 [cuckoo.core.resultserver] DEBUG: Task #18: live log analysis.log initialized.\n", 
+            "2020-04-14 16:22:10,997 [cuckoo.core.resultserver] DEBUG: Task #18 is sending a BSON stream\n", 
+            "2020-04-14 16:22:11,370 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:11,832 [cuckoo.core.resultserver] DEBUG: Task #18 is sending a BSON stream\n", 
+            "2020-04-14 16:22:12,216 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0001.jpg'\n", 
+            "2020-04-14 16:22:12,229 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 325351\n", 
+            "2020-04-14 16:22:12,375 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:13,381 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:13,408 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0002.jpg'\n", 
+            "2020-04-14 16:22:13,420 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 325806\n", 
+            "2020-04-14 16:22:14,389 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:14,603 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0003.jpg'\n", 
+            "2020-04-14 16:22:14,618 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 325570\n", 
+            "2020-04-14 16:22:15,395 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:15,806 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0004.jpg'\n", 
+            "2020-04-14 16:22:15,828 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 324569\n", 
+            "2020-04-14 16:22:16,400 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:16,991 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0005.jpg'\n", 
+            "2020-04-14 16:22:17,002 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 324652\n", 
+            "2020-04-14 16:22:17,407 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:18,166 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0006.jpg'\n", 
+            "2020-04-14 16:22:18,195 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 324540\n", 
+            "2020-04-14 16:22:18,412 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:19,370 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0007.jpg'\n", 
+            "2020-04-14 16:22:19,408 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 324589\n", 
+            "2020-04-14 16:22:19,417 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:20,422 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:20,583 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0008.jpg'\n", 
+            "2020-04-14 16:22:20,620 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 324723\n", 
+            "2020-04-14 16:22:21,428 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:21,772 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0009.jpg'\n", 
+            "2020-04-14 16:22:21,810 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 324836\n", 
+            "2020-04-14 16:22:22,434 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:22,966 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0010.jpg'\n", 
+            "2020-04-14 16:22:22,988 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 324616\n", 
+            "2020-04-14 16:22:23,441 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:24,143 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0011.jpg'\n", 
+            "2020-04-14 16:22:24,180 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 323443\n", 
+            "2020-04-14 16:22:24,446 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:25,327 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0012.jpg'\n", 
+            "2020-04-14 16:22:25,358 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 322048\n", 
+            "2020-04-14 16:22:25,451 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:26,458 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:26,543 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0013.jpg'\n", 
+            "2020-04-14 16:22:26,571 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 320434\n", 
+            "2020-04-14 16:22:27,464 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:27,707 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0014.jpg'\n", 
+            "2020-04-14 16:22:27,718 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 319566\n", 
+            "2020-04-14 16:22:28,469 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:28,876 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0015.jpg'\n", 
+            "2020-04-14 16:22:28,886 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 319424\n", 
+            "2020-04-14 16:22:29,476 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:30,068 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0016.jpg'\n", 
+            "2020-04-14 16:22:30,097 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 318785\n", 
+            "2020-04-14 16:22:30,483 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:31,235 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0017.jpg'\n", 
+            "2020-04-14 16:22:31,245 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 318452\n", 
+            "2020-04-14 16:22:31,489 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:32,402 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0018.jpg'\n", 
+            "2020-04-14 16:22:32,431 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 318351\n", 
+            "2020-04-14 16:22:32,496 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:33,503 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:33,599 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0019.jpg'\n", 
+            "2020-04-14 16:22:33,614 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 317749\n", 
+            "2020-04-14 16:22:34,509 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:34,771 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0020.jpg'\n", 
+            "2020-04-14 16:22:34,800 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 317644\n", 
+            "2020-04-14 16:22:35,516 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:35,969 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0021.jpg'\n", 
+            "2020-04-14 16:22:35,986 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 317357\n", 
+            "2020-04-14 16:22:36,523 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:37,121 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0022.jpg'\n", 
+            "2020-04-14 16:22:37,132 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 317053\n", 
+            "2020-04-14 16:22:37,531 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:38,306 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0023.jpg'\n", 
+            "2020-04-14 16:22:38,315 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 316940\n", 
+            "2020-04-14 16:22:38,538 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:39,478 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0024.jpg'\n", 
+            "2020-04-14 16:22:39,498 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 314963\n", 
+            "2020-04-14 16:22:39,545 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:40,552 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:40,669 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0025.jpg'\n", 
+            "2020-04-14 16:22:40,702 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 315219\n", 
+            "2020-04-14 16:22:41,560 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:41,859 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0026.jpg'\n", 
+            "2020-04-14 16:22:41,876 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 314468\n", 
+            "2020-04-14 16:22:42,568 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:43,576 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:44,585 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:45,591 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:46,598 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:47,604 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:48,610 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:49,618 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:50,626 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:51,634 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:52,656 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:53,666 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:54,672 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:55,678 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:56,684 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:57,690 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:58,698 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:22:59,705 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:00,712 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:01,718 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:02,726 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:03,733 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:04,739 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:05,746 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:06,753 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:07,761 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:08,769 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:09,776 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:10,782 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:11,788 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:12,794 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:13,802 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:14,811 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:15,819 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:16,828 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:17,834 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:18,845 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:19,855 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:20,863 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:21,869 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:22,876 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:23,883 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:24,891 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:25,899 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:26,906 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:27,912 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:28,918 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:29,926 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:30,934 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:31,940 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:32,947 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:33,955 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:34,967 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:35,976 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:36,982 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:37,988 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:38,995 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:40,004 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:41,010 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:42,017 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:43,024 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:44,034 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:45,040 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:46,047 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:47,055 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:48,062 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:49,068 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:50,075 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:51,080 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:52,087 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:53,097 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:54,106 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:55,115 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:56,121 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:57,127 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:58,136 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:23:59,144 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:00,152 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:01,158 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:02,165 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:03,173 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:04,179 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:05,188 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:06,198 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:07,204 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:08,211 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:09,217 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:10,226 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:11,233 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:12,239 [cuckoo.core.guest] DEBUG: physical1: analysis not completed yet (status=2)\n", 
+            "2020-04-14 16:24:13,245 [cuckoo.core.guest] INFO: physical1: analysis completed successfully\n", 
+            "2020-04-14 16:24:13,253 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Replay\n", 
+            "2020-04-14 16:24:13,290 [cuckoo.core.plugins] DEBUG: Stopped auxiliary module: Sniffer\n", 
+            "2020-04-14 16:24:13,291 [cuckoo.machinery.physical] DEBUG: Getting status for machine: physical1.\n", 
+            "2020-04-14 16:24:13,297 [cuckoo.machinery.physical] DEBUG: Rebooting machine: physical1.\n", 
+            "2020-04-14 16:24:13,405 [cuckoo.machinery.physical] DEBUG: Reboot success: physical1.\n", 
+            "2020-04-14 16:24:13,406 [cuckoo.machinery.physical] DEBUG: Getting status for machine: physical1.\n", 
+            "2020-04-14 16:24:13,440 [cuckoo.core.resultserver] DEBUG: Task #18: File upload for 'shots/0027.jpg'\n", 
+            "2020-04-14 16:24:13,455 [cuckoo.core.resultserver] DEBUG: Task #18 uploaded file length: 313786\n", 
+            "2020-04-14 16:24:13,466 [cuckoo.core.resultserver] DEBUG: Task #18 had connection reset for <Context for LOG>\n", 
+            "2020-04-14 16:24:14,420 [cuckoo.machinery.physical] DEBUG: Getting status for machine: physical1.\n", 
+            "2020-04-14 16:24:15,432 [cuckoo.machinery.physical] DEBUG: Getting status for machine: physical1.\n", 
+            "2020-04-14 16:24:16,444 [cuckoo.machinery.physical] DEBUG: Getting status for machine: physical1.\n", 
+            "2020-04-14 16:24:17,456 [cuckoo.machinery.physical] DEBUG: Getting status for machine: physical1.\n", 
+            "2020-04-14 16:24:18,464 [cuckoo.machinery.physical] DEBUG: Getting status for machine: physical1.\n", 
+            "2020-04-14 16:24:18,556 [cuckoo.machinery.physical] DEBUG: Agent unresponsive: 1 (192.168.202.169) (Error: [Errno 111] Co"
+        ]
+    }, 
+    "screenshots": [
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0001.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0002.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0003.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0004.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0005.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0006.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0007.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0008.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0009.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0010.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0011.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0012.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0013.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0014.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0015.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0016.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0017.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0018.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0019.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0020.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0021.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0022.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0023.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0024.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0025.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0026.jpg", 
+            "ocr": ""
+        }, 
+        {
+            "path": "/home/student/.cuckoo/storage/analyses/18/shots/0027.jpg", 
+            "ocr": ""
+        }
+    ], 
+    "strings": [
+        "!This program cannot be run in DOS mode.", 
+        "`.rsrc", 
+        "v4.0.30319", 
+        "#Strings", 
+        "<.ctor>b__10_0", 
+        "<>c__DisplayClass10_0", 
+        "<>9__13_0", 
+        "<FlattenExtractionResult>b__13_0", 
+        "NumPad0", 
+        "<>9__10_1", 
+        "<.ctor>b__10_1", 
+        "<>9__13_1", 
+        "<FlattenExtractionResult>b__13_1", 
+        "IComparable`1", 
+        "IEnumerable`1", 
+        "Predicate`1", 
+        "Action`1", 
+        "List`1", 
+        "NumPad1", 
+        "LaunchApplication1", 
+        "XButton1", 
+        "Oem102", 
+        "User32", 
+        "ReadInt32", 
+        "ToInt32", 
+        "<>9__10_2", 
+        "<.ctor>b__10_2", 
+        "Func`2", 
+        "NumPad2", 
+        "LaunchApplication2", 
+        "XButton2", 
+        "<.ctor>b__3", 
+        "Func`3", 
+        "NumPad3", 
+        "<.ctor>b__10_4", 
+        "NumPad4", 
+        "NumPad5", 
+        "NumPad6", 
+        "NumPad7", 
+        "NumPad8", 
+        "NumPad9", 
+        "<Module>", 
+        "ArtificialAgingMalware.Features.KeystrokeAPI", 
+        "WH_KEYBOARD_LL", 
+        "WH_MOUSE_LL", 
+        "WM_SYSKEYDOWN", 
+        "WM_KEYDOWN", 
+        "System.IO", 
+        "value__", 
+        "SelectMedia", 
+        "Oemcomma", 
+        "ExtractSystemData", 
+        "artifactsData", 
+        "ArtifactData", 
+        "mscorlib", 
+        "System.Collections.Generic", 
+        "dwThreadId", 
+        "currentModuleId", 
+        "globalKeyboardHookId", 
+        "GetWindowThreadProcessId", 
+        "thread", 
+        "LineFeed", 
+        "get_Enabled", 
+        "add_Elapsed", 
+        "capsLockPressed", 
+        "get_ShiftPressed", 
+        "set_ShiftPressed", 
+        "shiftPressed", 
+        "KeyPressed", 
+        "Synchronized", 
+        "<ShiftPressed>k__BackingField", 
+        "<KeyCode>k__BackingField", 
+        "<Name>k__BackingField", 
+        "<CapsLockOn>k__BackingField", 
+        "<Description>k__BackingField", 
+        "<Count>k__BackingField", 
+        "<KeyboardLayout>k__BackingField", 
+        "<CurrentWindow>k__BackingField", 
+        "<Category>k__BackingField", 
+        "DefaultExecThreshold", 
+        "execThreshold", 
+        "Append", 
+        "set_Method", 
+        "method", 
+        "OemPeriod", 
+        "BrowserForward", 
+        "get_StackTrace", 
+        "defaultInstance", 
+        "Divide", 
+        "Oemtilde", 
+        "get_KeyCode", 
+        "set_KeyCode", 
+        "virtualKeyCode", 
+        "keyCode", 
+        "HanjaMode", 
+        "JunjaMode", 
+        "KanaMode", 
+        "set_AutoScaleMode", 
+        "KanjiMode", 
+        "FinalMode", 
+        "HanguelMode", 
+        "HangulMode", 
+        "get_Message", 
+        "rtMessage", 
+        "IMEModeChange", 
+        "EndInvoke", 
+        "BeginInvoke", 
+        "Enumerable", 
+        "IDisposable", 
+        "ShiftCharacterIfItIsShiftable", 
+        "Double", 
+        "GetModuleHandle", 
+        "RuntimeTypeHandle", 
+        "GetTypeFromHandle", 
+        "ReadEmbeddedConfigurationFile", 
+        "ReadCommandConfigurationFile", 
+        "WriteKeyLoggerToFile", 
+        "Console", 
+        "CurrentWindowTitle", 
+        "get_MainModule", 
+        "ProcessModule", 
+        "get_Name", 
+        "set_Name", 
+        "KeyCaptureFileName", 
+        "GetTempFileName", 
+        "get_ModuleName", 
+        "lpModuleName", 
+        "NoName", 
+        "DateTime", 
+        "BrowserHome", 
+        "ReadLine", 
+        "WriteLine", 
+        "get_NewLine", 
+        "Escape", 
+        "OemPipe", 
+        "Compare", 
+        "ArtificialAgingMalware", 
+        "InitMalware", 
+        "System.Core", 
+        "get_Culture", 
+        "set_Culture", 
+        "resourceCulture", 
+        "ApplicationSettingsBase", 
+        "HttpWebResponse", 
+        "GetResponse", 
+        "Dispose", 
+        "TryParse", 
+        "MediaPlayPause", 
+        "Create", 
+        "HookKeyboardDelegate", 
+        "MulticastDelegate", 
+        "DebuggerBrowsableState", 
+        "EditorBrowsableState", 
+        "GetAsyncKeyState", 
+        "GetKeyState", 
+        "Delete", 
+        "VolumeMute", 
+        "STAThreadAttribute", 
+        "CompilerGeneratedAttribute", 
+        "GuidAttribute", 
+        "GeneratedCodeAttribute", 
+        "DebuggerNonUserCodeAttribute", 
+        "DebuggableAttribute", 
+        "DebuggerBrowsableAttribute", 
+        "EditorBrowsableAttribute", 
+        "ComVisibleAttribute", 
+        "AssemblyTitleAttribute", 
+        "AssemblyTrademarkAttribute", 
+        "TargetFrameworkAttribute", 
+        "AssemblyFileVersionAttribute", 
+        "AssemblyConfigurationAttribute", 
+        "AssemblyDescriptionAttribute", 
+        "CompilationRelaxationsAttribute", 
+        "AssemblyProductAttribute", 
+        "AssemblyCopyrightAttribute", 
+        "AssemblyCompanyAttribute", 
+        "RuntimeCompatibilityAttribute", 
+        "Execute", 
+        "ArtificialAgingMalware.exe", 
+        "set_Size", 
+        "set_ClientSize", 
+        "EraseEof", 
+        "System.Runtime.Versioning", 
+        "BuildCompareString", 
+        "ToLongDateString", 
+        "ConvertKeyCodeToString", 
+        "add_FormClosing", 
+        "MalwareForm_FormClosing", 
+        "disposing", 
+        "System.Drawing", 
+        "BrowserSearch", 
+        "OemBackslash", 
+        "BrowserRefresh", 
+        "keyStrokeFilePath", 
+        "KeyCaptureFilePath", 
+        "malwareLogFilePath", 
+        "GetFolderPath", 
+        "get_Length", 
+        "StartsWith", 
+        "BrowserBack", 
+        "AsyncCallback", 
+        "keyPressedCallback", 
+        "callback", 
+        "MediaPreviousTrack", 
+        "MediaNextTrack", 
+        "NumLock", 
+        "CapsLock", 
+        "idHook", 
+        "CreateKeyboardHook", 
+        "LowLevelHook", 
+        "Marshal", 
+        "Decimal", 
+        "Capital", 
+        "KeystrokeTimeInterval", 
+        "Cancel", 
+        "ArtificialAgingMalware.Model", 
+        "ArtifactDataExtractor.Model", 
+        "System.ComponentModel", 
+        "LaunchMail", 
+        "kernel32.dll", 
+        "User32.dll", 
+        "user32.dll", 
+        "Scroll", 
+        "ContainerControl", 
+        "GetManifestResourceStream", 
+        "FileStream", 
+        "GetResponseStream", 
+        "get_EndOfStream", 
+        "lParam", 
+        "wParam", 
+        "Program", 
+        "System", 
+        "MalwareForm", 
+        "FirstBitIsTurnedOn", 
+        "get_CapsLockOn", 
+        "set_CapsLockOn", 
+        "capsLockOn", 
+        "resourceMan", 
+        "ToBoolean", 
+        "PrintScreen", 
+        "Application", 
+        "set_Location", 
+        "CommandFileLocation", 
+        "System.Configuration", 
+        "HookKeyboardCallbackImplementation", 
+        "System.Globalization", 
+        "System.Reflection", 
+        "ControlCollection", 
+        "set_StartPosition", 
+        "FormStartPosition", 
+        "Exception", 
+        "get_Description", 
+        "set_Description", 
+        "OemQuestion", 
+        "OemSemicolon", 
+        "StringComparison", 
+        "LButton", 
+        "MButton", 
+        "RButton", 
+        "Return", 
+        "PageDown", 
+        "VolumeDown", 
+        "CompareTo", 
+        "CultureInfo", 
+        "PageUp", 
+        "VolumeUp", 
+        "MediaStop", 
+        "BrowserStop", 
+        "System.Linq", 
+        "LatinKeyboardBar", 
+        "OemClear", 
+        "StreamReader", 
+        "TextReader", 
+        "StringBuilder", 
+        "SpecialFolder", 
+        "sender", 
+        "get_ResourceManager", 
+        "ElapsedEventHandler", 
+        "FormClosingEventHandler", 
+        "System.CodeDom.Compiler", 
+        "IContainer", 
+        "ToUpper", 
+        "KeyParser", 
+        "character", 
+        "ToLower", 
+        "set_Anchor", 
+        "Separator", 
+        "GetEnumerator", 
+        "ArtifactDataExtractor", 
+        "ArtifactExtractor", 
+        ".cctor", 
+        "ArtifactDataExtractor.Executor", 
+        "IntPtr", 
+        "System.Diagnostics", 
+        "commandArtifactThresholds", 
+        "mainArtifactThresholds", 
+        "defaultArtifactThresholds", 
+        "System.Runtime.InteropServices", 
+        "System.Runtime.CompilerServices", 
+        "System.Resources", 
+        "ArtificialAgingMalware.MalwareForm.resources", 
+        "ArtificialAgingMalware.Properties.Resources.resources", 
+        "DebuggingModes", 
+        "ArtifactCategories", 
+        "ArtificialAgingMalware.Features.KeystrokeAPI.Entities", 
+        "ArtificialAgingMalware.Properties", 
+        "EnableVisualStyles", 
+        "AnchorStyles", 
+        "ReadAllLines", 
+        "BrowserFavorites", 
+        "OemQuotes", 
+        "Settings", 
+        "ElapsedEventArgs", 
+        "FormClosingEventArgs", 
+        "Equals", 
+        "get_Controls", 
+        "System.Windows.Forms", 
+        "set_AutoScaleDimensions", 
+        "StringSplitOptions", 
+        "Modifiers", 
+        "System.Timers", 
+        "ArtificialAgingMalware.Features.KeystrokeAPI.Helpers", 
+        "proccess", 
+        "GetCurrentProcess", 
+        "get_Artifacts", 
+        "currentSystemArtifacts", 
+        "GeneratePropertiesDataFromArtifacts", 
+        "get_WearAndTearArtifacts", 
+        "ExtractArtifacts", 
+        "ArtificialAgingMalware.Features.KeystrokeAPI.Entities.CallbackObjects", 
+        "OemCloseBrackets", 
+        "OemOpenBrackets", 
+        "Constants", 
+        "components", 
+        "Exists", 
+        "Oemplus", 
+        "OemMinus", 
+        "Concat", 
+        "Format", 
+        "WearAndTearArtifact", 
+        "Subtract", 
+        "Object", 
+        "object", 
+        "Select", 
+        "System.Net", 
+        "Packet", 
+        "op_Explicit", 
+        "get_Default", 
+        "SetCompatibleTextRenderingDefault", 
+        "IAsyncResult", 
+        "FlattenExtractionResult", 
+        "extractionResult", 
+        "extResult", 
+        "result", 
+        "Environment", 
+        "InitializeComponent", 
+        "get_Current", 
+        "get_Count", 
+        "set_Count", 
+        "nMaxCount", 
+        "NumPadDot", 
+        "Snapshot", 
+        "IMEAccept", 
+        "IMEAceept", 
+        "Insert", 
+        "IMEConvert", 
+        "IMENonconvert", 
+        "HttpWebRequest", 
+        "ToList", 
+        "SuspendLayout", 
+        "get_KeyboardLayout", 
+        "set_KeyboardLayout", 
+        "GetKeyboardLayout", 
+        "GetCurrentKeyboardLayout", 
+        "keyboardLayout", 
+        "ResumeLayout", 
+        "MoveNext", 
+        "System.Text", 
+        "set_Text", 
+        "ReadAllText", 
+        "AppendAllText", 
+        "GetWindowText", 
+        "ArtificialAgingMalware.Configuration.PropConfiguration.txt", 
+        "get_Now", 
+        "GetForegroundWindow", 
+        "get_CurrentWindow", 
+        "set_CurrentWindow", 
+        "currentWindow", 
+        "UnhookWindowsHookEx", 
+        "SetWindowsHookEx", 
+        "CallNextHookEx", 
+        "set_TabIndex", 
+        "RichTextBox", 
+        "IsAlphabeticKey", 
+        "capturedKey", 
+        "LControlKey", 
+        "RControlKey", 
+        "ProcessKey", 
+        "LShiftKey", 
+        "RShiftKey", 
+        "get_Assembly", 
+        "GetExecutingAssembly", 
+        "Multiply", 
+        "SelectMany", 
+        "get_Category", 
+        "set_Category", 
+        "get_Capacity", 
+        "op_Equality", 
+        "WrapNonExceptionThrows", 
+        "ArtificialAgainMalware", 
+        "Copyright ", 
+        "  2020", 
+        "$6c6814a9-1379-44e8-a364-bce5552fb039", 
+        "1.0.0.0", 
+        ".NETFramework,Version=v4.7.2", 
+        "FrameworkDisplayName", 
+        ".NET Framework 4.7.2", 
+        "3System.Resources.Tools.StronglyTypedResourceBuilder", 
+        "16.0.0.0", 
+        "KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", 
+        "16.4.0.0", 
+        "lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet", 
+        "PADPADP", 
+        "lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet", 
+        "PADPADP", 
+        "action.command=0", 
+        "action.threshold=60", 
+        "Browser.browserNum=2", 
+        "Browser.totalCookies=6969", 
+        "Browser.uniqueCookieDomain=1777", 
+        "Browser.cookieDiffDays=182", 
+        "Browser.uniqueURLs=21814", 
+        "Browser.uniqueCookieDomain=277", 
+        "Browser.urlDiffDays=182", 
+        "Browser.totalDownloadedFiles=182", 
+        "Browser.totalBookmarks=2034", 
+        "Disk.tempFilesCount=3183", 
+        "Disk.tempFilesSize=912034700", 
+        "Disk.recycleBinCount=1", 
+        "Disk.recycleBinSize=207", 
+        "Disk.desktopFileCount=21", 
+        "Disk.miniDumpCount=0", 
+        "Disk.miniDumpSize=0", 
+        "Network.tcpConnections=58", 
+        "Network.ARPCacheEntries=24", 
+        "Network.dnsCacheEntries=7324", 
+        "Registry.uninstallCount=165", 
+        "Registry.autoRuncount=3", 
+        "Registry.fireruleCount=586", 
+        "Registry.regSize=260", 
+        "Registry.totalSharedDlls=228", 
+        "Registry.MUICacheEntries=27", 
+        "Registry.usrassistCount=9", 
+        "Registry.deviceClsCount=25", 
+        "Registry.USBStorCount=8", 
+        "Registry.totalMissingDlls=171", 
+        "Registry.totalActiveSetup=6", 
+        "System.totalProcesses=262", 
+        "System.winupdt=11", 
+        "System.sysevt=18254", 
+        "System.appevt=27002", 
+        "System.syssrc=43", 
+        "System.appsrc=37", 
+        "System.sysdiffdays=181", 
+        "System.appdiffdays=109", 
+        "C:\\Work\\Dropbox\\RIT\\Capstone Project\\Programs\\ArtificialAgingFactory\\ArtificialAgainMalware\\obj\\Debug\\ArtificialAgingMalware.pdb", 
+        "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>", 
+        "<assembly xmlns=\"urn:schemas-microsoft-com:asm.v1\" manifestVersion=\"1.0\">", 
+        "  <assemblyIdentity version=\"1.0.0.0\" name=\"MyApplication.app\"/>", 
+        "  <trustInfo xmlns=\"urn:schemas-microsoft-com:asm.v2\">", 
+        "    <security>", 
+        "      <requestedPrivileges xmlns=\"urn:schemas-microsoft-com:asm.v3\">", 
+        "        <requestedExecutionLevel level=\"asInvoker\" uiAccess=\"false\"/>", 
+        "      </requestedPrivileges>", 
+        "    </security>", 
+        "  </trustInfo>", 
+        "</assembly>", 
+        ">ABCDE", 
+        "OPQRSTUVWXYZ", 
+        "https://artificialagingfactory.s3.amazonaws.com/PropConfiguration.txt", 
+        "malwareKeyCapture.txt", 
+        "\\malware.log", 
+        "Malware initialization complete", 
+        "No configuration data found. Shutting down", 
+        "threshold", 
+        "Total artifact Count :", 
+        "Total Match Found :", 
+        "Threshold :", 
+        "%match :", 
+        "Going to run : ", 
+        "You are not Sandbox.. Lets Scan..", 
+        "OOPS.. Shutting down...", 
+        "Caught it. You are Sandbox.....", 
+        "{0}.{1}={2}", 
+        "ArtificialAgingMalware.Configuration.PropConfiguration.txt", 
+        "Error while reading embedded configuration file", 
+        "Embedded configuration file: Line Count = {0}, Total count = {1}", 
+        "File from internet: ", 
+        "Total record from aws command and control found: ", 
+        "error while reading from aws command and control center", 
+        "Writing capture text to file: ", 
+        "Error occured while writing captured text to file: ", 
+        "Message: ", 
+        " Exception: ", 
+        "Logging Error occured: msg: ", 
+        "Exception: ", 
+        "rtMessage", 
+        "MalwareForm", 
+        "ArtificialAgingMalware", 
+        "action", 
+        "ArtificialAgingMalware.Properties.Resources", 
+        "[Unknown]", 
+        "<print screen>", 
+        "<scroll>", 
+        "<pause>", 
+        "<insert>", 
+        "<home>", 
+        "<delete>", 
+        "<page up>", 
+        "<page down>", 
+        "<numlock>", 
+        "<backspace>", 
+        "<enter>", 
+        "<left>", 
+        "<right>", 
+        "<down>", 
+        "<capsLock>", 
+        "<ctrl>", 
+        "<shift>", 
+        "<volumeDown>", 
+        "<volumeUp>", 
+        "<volumeMute>", 
+        "VS_VERSION_INFO", 
+        "VarFileInfo", 
+        "Translation", 
+        "StringFileInfo", 
+        "000004b0", 
+        "Comments", 
+        "CompanyName", 
+        "FileDescription", 
+        "ArtificialAgainMalware", 
+        "FileVersion", 
+        "1.0.0.0", 
+        "InternalName", 
+        "ArtificialAgingMalware.exe", 
+        "LegalCopyright", 
+        "Copyright ", 
+        "  2020", 
+        "LegalTrademarks", 
+        "OriginalFilename", 
+        "ArtificialAgingMalware.exe", 
+        "ProductName", 
+        "ArtificialAgainMalware", 
+        "ProductVersion", 
+        "1.0.0.0", 
+        "Assembly Version", 
+        "1.0.0.0"
+    ], 
+    "metadata": {
+        "output": {
+            "pcap": {
+                "basename": "dump.pcap", 
+                "sha256": "0d98b7e11feee9bac2eee0c0993f4f9757a59be3ee33a81ff6dd654c65203cc0", 
+                "dirname": ""
+            }
+        }
+    }
+}

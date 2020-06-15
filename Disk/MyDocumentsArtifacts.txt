@@ -1,0 +1,861 @@
+COMMENT Column list: Type   Attribute   Date Created   Last Modified   Last Accessed   File size   FileName
+
+COMMENT	
+COMMENT	Computer: DESKTOP-VI4396B
+COMMENT	User: Student
+COMMENT	Prepared: 11:25 5/30/2020
+COMMENT	Folder: C:\Users\Student\Documents\Personal\
+COMMENT	Include Sub-Folders? Yes
+COMMENT	
+FOLDER	C:\Users\Student\Documents\Personal\	-------	4	0	0	0
+FOLDER	C:\Users\Student\Documents\Personal\Proposals\	-------	0	0	0	0
+TOTAL	C:\Users\Student\Documents\Personal\Proposals\	-------	0	0	0	0
+FOLDER	C:\Users\Student\Documents\Personal\Purchases\	-------	0	292	61,839,156	61,839,156
+FILE	---A----	4/14/2020 22:22	4/25/2020 04:46	4/25/2020 04:46	214,387	Amazon Order - dash cam.pdf
+FILE	---A----	4/14/2020 22:30	5/13/2020 05:01	5/13/2020 05:01	213,761	Home Depot - gaming pc.pdf
+FILE	---A----	4/14/2020 23:20	4/26/2020 05:02	4/26/2020 05:02	215,082	Amazon Order - bluetooth speakers.pdf
+FILE	---A----	4/14/2020 23:31	4/28/2020 00:01	4/28/2020 00:01	213,556	Amazon Order - prime video.pdf
+FILE	---A----	4/14/2020 23:40	5/14/2020 02:01	5/14/2020 02:01	213,460	NewEgg - iphone x.pdf
+FILE	---A----	4/14/2020 23:50	4/27/2020 22:16	4/27/2020 22:16	214,001	Best Buy - chromecast.pdf
+FILE	---A----	4/15/2020 00:01	4/28/2020 16:16	4/28/2020 16:16	214,240	Home Depot - fitbit.pdf
+FILE	---A----	4/15/2020 00:10	4/23/2020 21:02	4/23/2020 21:02	213,359	Amazon Order - kindle.pdf
+FILE	---A----	4/15/2020 00:20	5/28/2020 20:01	5/28/2020 20:01	213,309	NewEgg - huawei.pdf
+FILE	---A----	4/15/2020 00:30	4/21/2020 20:05	4/21/2020 23:39	213,499	Amazon Order - redmi 4.pdf
+FILE	---A----	4/15/2020 00:40	5/27/2020 20:01	5/27/2020 20:01	213,195	Amazon Order - mobile.pdf
+FILE	---A----	4/15/2020 00:50	4/27/2020 04:16	4/27/2020 04:16	212,615	Amazon Order - iphone 6 case.pdf
+FILE	---A----	4/15/2020 01:01	4/23/2020 13:15	4/23/2020 13:15	213,545	Amazon Order - smart watch.pdf
+FILE	---A----	4/15/2020 01:10	5/13/2020 14:15	5/13/2020 14:15	214,458	Best Buy - gtx 1080.pdf
+FILE	---A----	4/15/2020 01:20	5/14/2020 20:01	5/14/2020 20:01	212,896	NewEgg - power bank.pdf
+FILE	---A----	4/15/2020 01:30	5/18/2020 02:01	5/22/2020 08:38	213,934	Amazon Order - keyboard.pdf
+FILE	---A----	4/15/2020 01:40	4/30/2020 05:01	4/30/2020 05:01	213,689	NewEgg - office chair.pdf
+FILE	---A----	4/15/2020 01:50	4/23/2020 15:46	4/23/2020 15:46	211,630	Amazon Order - laptops.pdf
+FILE	---A----	4/15/2020 02:01	5/18/2020 17:01	5/22/2020 08:38	214,174	Amazon Order - monitor.pdf
+FILE	---A----	4/15/2020 02:10	4/27/2020 07:02	4/27/2020 07:02	213,977	Best Buy - fire stick.pdf
+FILE	---A----	4/15/2020 02:20	5/26/2020 23:01	5/26/2020 23:01	215,107	Best Buy - blender.pdf
+FILE	---A----	4/15/2020 02:40	4/29/2020 20:01	4/29/2020 20:01	214,262	Best Buy - desk.pdf
+FILE	---A----	4/15/2020 02:50	4/28/2020 06:31	4/28/2020 06:31	214,294	Best Buy - airpods.pdf
+FILE	---A----	4/15/2020 03:01	5/8/2020 17:01	5/8/2020 17:01	213,542	Amazon Order - iphone 6.pdf
+FILE	---A----	4/15/2020 03:10	4/27/2020 12:46	4/27/2020 12:46	213,484	NewEgg - iphone charger.pdf
+FILE	---A----	4/15/2020 03:20	4/15/2020 03:20	4/15/2020 03:20	212,813	Best Buy - echo dot.pdf
+FILE	---A----	4/15/2020 03:40	4/28/2020 04:16	4/28/2020 04:16	213,458	Home Depot - computer desk.pdf
+FILE	---A----	4/15/2020 03:50	4/27/2020 03:46	4/27/2020 03:46	214,327	NewEgg - iphone 7 plus case.pdf
+FILE	---A----	4/15/2020 04:00	5/3/2020 08:00	5/3/2020 08:00	213,914	Amazon Order - samsung galaxy s7.pdf
+FILE	---A----	4/15/2020 04:10	5/29/2020 11:01	5/29/2020 11:01	213,642	Best Buy - dash cam.pdf
+FILE	---A----	4/15/2020 04:20	4/26/2020 22:16	4/26/2020 22:16	213,481	Best Buy - gtx 1060.pdf
+FILE	---A----	4/15/2020 04:30	5/17/2020 08:02	5/17/2020 08:02	178,813	NewEgg - ps4.pdf
+FILE	---A----	4/15/2020 04:40	5/26/2020 17:01	5/26/2020 17:01	213,815	Lowes - star wars.pdf
+FILE	---A----	4/15/2020 04:50	4/25/2020 22:16	4/25/2020 22:16	213,620	Home Depot - drone.pdf
+FILE	---A----	4/15/2020 05:00	4/21/2020 22:05	4/21/2020 23:39	213,499	Amazon Order - desk.pdf
+FILE	---A----	4/15/2020 05:10	5/2/2020 11:01	5/2/2020 11:01	214,752	Amazon Order - ssd.pdf
+FILE	---A----	4/15/2020 05:20	4/26/2020 00:31	4/26/2020 00:31	213,501	Lowes - vacuum cleaner.pdf
+FILE	---A----	4/15/2020 05:41	5/26/2020 20:01	5/26/2020 20:01	214,446	Amazon Order - pokemon.pdf
+FILE	---A----	4/15/2020 05:50	5/4/2020 23:01	5/4/2020 23:01	212,633	Amazon Order - iphone 6s case.pdf
+FILE	---A----	4/15/2020 06:01	4/26/2020 10:31	4/26/2020 10:31	213,088	Home Depot - desk.pdf
+FILE	---A----	4/15/2020 06:11	5/24/2020 08:01	5/24/2020 08:01	214,311	Lowes - socks.pdf
+FILE	---A----	4/15/2020 06:20	5/21/2020 20:01	5/22/2020 08:38	214,382	Best Buy - echo.pdf
+FILE	---A----	4/15/2020 06:31	4/27/2020 14:31	4/27/2020 14:31	212,942	Amazon Order - gift card.pdf
+FILE	---A----	4/15/2020 06:41	5/10/2020 08:01	5/10/2020 08:01	215,044	NewEgg - iphone 8.pdf
+FILE	---A----	4/15/2020 07:01	5/1/2020 23:01	5/1/2020 23:01	214,766	Amazon Order - amazon.pdf
+FILE	---A----	4/15/2020 07:11	4/28/2020 09:31	4/28/2020 09:31	214,240	Lowes - switch.pdf
+FILE	---A----	4/15/2020 07:21	4/23/2020 19:02	4/23/2020 19:02	213,921	Lowes - tablet.pdf
+FILE	---A----	4/15/2020 07:31	5/28/2020 14:01	5/28/2020 14:01	214,571	NewEgg - samsung.pdf
+FILE	---A----	4/15/2020 07:40	4/28/2020 07:01	4/28/2020 07:01	212,520	Lowes - wireless mouse.pdf
+FILE	---A----	4/15/2020 07:51	5/23/2020 11:01	5/23/2020 11:01	212,612	Amazon Order - micro sd card.pdf
+FILE	---A----	4/15/2020 08:20	5/27/2020 05:02	5/27/2020 05:02	213,178	Amazon Order - earbuds.pdf
+FILE	---A----	4/15/2020 08:31	5/21/2020 23:01	5/22/2020 08:38	213,431	Best Buy - gaming mouse.pdf
+FILE	---A----	4/15/2020 08:40	5/15/2020 23:01	5/15/2020 23:01	178,813	Best Buy - amazon.pdf
+FILE	---A----	4/15/2020 08:50	4/26/2020 00:16	4/26/2020 00:16	214,391	Amazon Order - iphone x case.pdf
+FILE	---A----	4/15/2020 09:01	5/24/2020 17:01	5/24/2020 17:01	213,855	Amazon Order - iphone 7 case.pdf
+FILE	---A----	4/15/2020 09:11	5/5/2020 23:01	5/5/2020 23:01	214,528	NewEgg - kindle.pdf
+FILE	---A----	4/15/2020 09:21	4/23/2020 02:31	4/23/2020 02:31	213,796	Amazon Order - mouse.pdf
+FILE	---A----	4/15/2020 09:30	4/25/2020 02:16	4/25/2020 02:16	212,935	NewEgg - samsung galaxy s7.pdf
+FILE	---A----	4/15/2020 09:41	5/13/2020 23:01	5/13/2020 23:01	212,746	Home Depot - doctor who.pdf
+FILE	---A----	4/15/2020 09:51	5/27/2020 02:01	5/27/2020 02:01	213,139	Amazon Order - headphones.pdf
+FILE	---A----	4/15/2020 10:01	5/26/2020 14:01	5/26/2020 14:01	213,441	Amazon Order - water bottle.pdf
+FILE	---A----	4/15/2020 10:11	4/25/2020 09:01	4/25/2020 09:01	214,824	Best Buy - hdmi cable.pdf
+FILE	---A----	4/15/2020 10:20	4/28/2020 15:46	4/28/2020 15:46	214,240	Best Buy - air fryer.pdf
+FILE	---A----	4/15/2020 10:31	5/4/2020 08:01	5/4/2020 08:01	214,121	Amazon Order - iphone 8 plus case.pdf
+FILE	---A----	4/15/2020 10:41	5/22/2020 05:01	5/22/2020 08:38	215,111	Lowes - water bottle.pdf
+FILE	---A----	4/15/2020 11:21	4/28/2020 13:16	4/28/2020 13:16	214,240	Lowes - ssd.pdf
+FILE	---A----	4/15/2020 11:31	5/29/2020 23:01	5/29/2020 23:01	213,399	Amazon Order - iphone 7.pdf
+FILE	---A----	4/15/2020 11:40	4/23/2020 08:16	4/23/2020 08:16	213,145	NewEgg - monitor.pdf
+FILE	---A----	4/15/2020 12:01	4/28/2020 17:16	4/28/2020 17:16	214,240	NewEgg - printer.pdf
+FILE	---A----	4/15/2020 12:10	4/28/2020 05:02	4/28/2020 05:02	213,175	Best Buy - bluetooth earbuds.pdf
+FILE	---A----	4/15/2020 12:31	5/18/2020 23:01	5/22/2020 08:38	214,117	Lowes - vans.pdf
+FILE	---A----	4/15/2020 12:42	4/25/2020 19:46	4/25/2020 19:46	214,117	NewEgg - microwave.pdf
+FILE	---A----	4/15/2020 13:01	4/27/2020 21:32	4/27/2020 21:32	213,394	Amazon Order - backpack.pdf
+FILE	---A----	4/15/2020 13:11	5/1/2020 02:01	5/1/2020 02:01	214,592	NewEgg - iphone 6 case.pdf
+FILE	---A----	4/15/2020 13:31	5/22/2020 23:01	5/22/2020 23:01	215,234	NewEgg - paper towels.pdf
+FILE	---A----	4/15/2020 13:41	5/5/2020 20:01	5/5/2020 20:01	213,713	NewEgg - redmi 4.pdf
+FILE	---A----	4/15/2020 14:01	5/10/2020 02:01	5/10/2020 02:01	213,398	Amazon Order - external hard drive.pdf
+FILE	---A----	4/15/2020 14:21	5/16/2020 05:01	5/16/2020 05:01	178,813	Amazon Order - gaming pc.pdf
+FILE	---A----	4/15/2020 14:31	4/23/2020 07:31	4/23/2020 07:31	212,785	Amazon Order - gaming headset.pdf
+FILE	---A----	4/15/2020 14:41	4/26/2020 19:46	4/26/2020 19:46	213,295	Lowes - windows 10.pdf
+FILE	---A----	4/15/2020 14:50	5/23/2020 17:01	5/23/2020 17:01	214,161	Amazon Order - instant pot.pdf
+FILE	---A----	4/15/2020 15:02	5/20/2020 20:01	5/22/2020 08:38	213,404	NewEgg - mattress.pdf
+FILE	---A----	4/15/2020 15:11	4/28/2020 04:32	4/28/2020 04:32	213,533	Amazon Order - gaming chair.pdf
+FILE	---A----	4/15/2020 15:21	5/6/2020 08:01	5/6/2020 08:01	214,441	Amazon Order - microwave.pdf
+FILE	---A----	4/15/2020 15:51	5/4/2020 11:03	5/4/2020 11:03	213,412	NewEgg - pokemon.pdf
+FILE	---A----	4/15/2020 16:01	4/23/2020 10:16	4/23/2020 10:16	214,165	NewEgg - notebook.pdf
+FILE	---A----	4/15/2020 16:11	4/28/2020 10:16	4/28/2020 10:16	214,240	Amazon Order - yoga mat.pdf
+FILE	---A----	4/15/2020 16:21	5/12/2020 02:01	5/12/2020 02:01	213,499	Home Depot - gaming mouse.pdf
+FILE	---A----	4/15/2020 16:31	4/28/2020 16:46	4/28/2020 16:46	214,240	Home Depot - echo dot.pdf
+FILE	---A----	4/15/2020 17:01	5/20/2020 02:01	5/22/2020 08:38	213,945	NewEgg - iphone x case.pdf
+FILE	---A----	4/15/2020 17:11	4/28/2020 08:31	4/28/2020 08:31	214,240	Amazon Order - essential oils.pdf
+FILE	---A----	4/15/2020 17:21	5/17/2020 14:02	5/17/2020 14:02	178,813	Amazon Order - xiaomi.pdf
+FILE	---A----	4/15/2020 17:41	4/25/2020 14:46	4/25/2020 14:46	213,703	Home Depot - essential oils.pdf
+FILE	---A----	4/15/2020 18:11	5/15/2020 17:01	5/15/2020 17:01	178,813	Amazon Order - notebook.pdf
+FILE	---A----	4/15/2020 18:21	5/28/2020 17:01	5/28/2020 17:01	213,676	Lowes - toilet paper.pdf
+FILE	---A----	4/15/2020 18:31	5/19/2020 17:01	5/22/2020 08:38	212,849	Amazon Order - roku.pdf
+FILE	---A----	4/15/2020 19:31	4/15/2020 19:31	4/15/2020 19:31	213,461	Amazon Order - toilet paper.pdf
+FILE	---A----	4/15/2020 19:41	4/20/2020 13:31	4/21/2020 23:38	213,219	Home Depot - chromecast.pdf
+FILE	---A----	4/15/2020 20:01	4/26/2020 23:31	4/26/2020 23:31	213,709	Amazon Order - fire stick.pdf
+FILE	---A----	4/15/2020 20:11	5/21/2020 02:01	5/22/2020 08:38	213,542	Best Buy - camera.pdf
+FILE	---A----	4/15/2020 20:21	5/23/2020 05:01	5/23/2020 05:01	213,887	NewEgg - laptops.pdf
+FILE	---A----	4/15/2020 20:31	5/2/2020 20:00	5/2/2020 20:01	212,345	Best Buy - fitbit.pdf
+FILE	---A----	4/15/2020 20:41	5/28/2020 05:01	5/28/2020 05:01	213,056	NewEgg - iphone.pdf
+FILE	---A----	4/15/2020 21:01	4/24/2020 02:46	4/24/2020 02:46	213,521	Amazon Order - smartphone.pdf
+FILE	---A----	4/15/2020 21:11	5/10/2020 17:01	5/10/2020 17:01	214,382	NewEgg - iphone 6.pdf
+FILE	---A----	4/15/2020 21:21	5/25/2020 20:01	5/25/2020 20:01	213,625	Home Depot - external hard drive.pdf
+FILE	---A----	4/15/2020 21:31	5/9/2020 05:01	5/9/2020 05:01	214,758	Best Buy - books.pdf
+FILE	---A----	4/15/2020 21:41	5/24/2020 05:01	5/24/2020 05:01	212,838	Home Depot - gaming chair.pdf
+FILE	---A----	4/15/2020 22:01	4/28/2020 03:46	4/28/2020 03:46	213,921	NewEgg - prime video.pdf
+FILE	---A----	4/15/2020 22:11	4/26/2020 12:32	4/26/2020 12:32	212,866	Amazon Order - fidget spinner.pdf
+FILE	---A----	4/15/2020 22:31	5/12/2020 11:01	5/12/2020 11:01	214,030	Best Buy - gift cards for amazon.pdf
+FILE	---A----	4/15/2020 22:41	4/18/2020 17:31	4/18/2020 17:31	214,531	Home Depot - game of thrones.pdf
+FILE	---A----	4/15/2020 22:51	5/14/2020 14:10	5/14/2020 14:10	212,746	Best Buy - essential oils.pdf
+FILE	---A----	4/15/2020 23:01	4/26/2020 15:02	4/26/2020 15:02	178,813	Best Buy - drone.pdf
+FILE	---A----	4/15/2020 23:11	4/27/2020 22:46	4/27/2020 22:46	213,101	Amazon Order - playstation 4.pdf
+FILE	---A----	4/15/2020 23:41	4/28/2020 02:32	4/28/2020 02:32	212,681	Amazon Order - game of thrones.pdf
+FILE	---A----	4/16/2020 00:01	4/27/2020 18:32	4/27/2020 18:32	212,954	Amazon Order - harry potter.pdf
+FILE	---A----	4/16/2020 00:21	4/27/2020 16:16	4/27/2020 16:16	212,343	Amazon Order - echo dot.pdf
+FILE	---A----	4/16/2020 00:31	4/23/2020 15:01	4/23/2020 15:01	213,393	Amazon Order - chromebook.pdf
+FILE	---A----	4/16/2020 01:21	5/15/2020 20:01	5/15/2020 20:01	178,813	Best Buy - earbuds.pdf
+FILE	---A----	4/16/2020 01:41	4/27/2020 23:02	4/27/2020 23:02	214,069	Home Depot - gaming headset.pdf
+FILE	---A----	4/16/2020 02:01	5/22/2020 08:01	5/22/2020 08:01	214,491	Amazon Order - vacuum cleaner.pdf
+FILE	---A----	4/16/2020 02:21	5/21/2020 08:01	5/22/2020 08:38	214,265	Amazon Order - chromecast.pdf
+FILE	---A----	4/16/2020 02:31	4/21/2020 10:12	4/21/2020 23:38	213,523	Amazon Order - iphone se.pdf
+FILE	---A----	4/16/2020 02:41	5/18/2020 20:01	5/22/2020 08:38	213,943	Home Depot - dash cam.pdf
+FILE	---A----	4/16/2020 02:51	5/11/2020 02:01	5/11/2020 02:01	213,769	Home Depot - gift card.pdf
+FILE	---A----	4/16/2020 03:01	4/25/2020 10:31	4/25/2020 10:31	214,974	Amazon Order - ps4.pdf
+FILE	---A----	4/16/2020 03:31	5/20/2020 08:01	5/22/2020 08:38	213,910	Home Depot - gift cards for amazon.pdf
+FILE	---A----	4/16/2020 03:51	4/28/2020 04:01	4/28/2020 04:01	214,308	Amazon Order - iphone 6s.pdf
+FILE	---A----	4/16/2020 04:11	5/17/2020 02:01	5/17/2020 02:01	178,813	NewEgg - roku.pdf
+FILE	---A----	4/16/2020 04:51	5/19/2020 05:01	5/22/2020 08:38	213,504	NewEgg - sd card.pdf
+FILE	---A----	4/16/2020 05:01	4/20/2020 10:01	4/21/2020 23:38	214,531	Amazon Order - pop socket.pdf
+FILE	---A----	4/16/2020 05:11	5/26/2020 02:01	5/26/2020 02:01	212,703	Amazon Order - books.pdf
+FILE	---A----	4/16/2020 05:31	4/27/2020 20:16	4/27/2020 20:16	213,591	Amazon Order - star wars.pdf
+FILE	---A----	4/16/2020 05:41	5/4/2020 05:01	5/4/2020 05:01	213,381	Amazon Order - wireless mouse.pdf
+FILE	---A----	4/16/2020 05:51	4/28/2020 05:31	4/28/2020 05:31	214,349	Lowes - shoes.pdf
+FILE	---A----	4/16/2020 06:01	5/19/2020 08:01	5/22/2020 08:38	214,018	NewEgg - mouse pad.pdf
+FILE	---A----	4/16/2020 06:11	4/19/2020 00:01	4/19/2020 00:01	214,531	Amazon Order - alexa.pdf
+FILE	---A----	4/16/2020 06:41	5/8/2020 05:01	5/8/2020 05:01	213,025	NewEgg - iphone 7 case.pdf
+FILE	---A----	4/16/2020 07:11	4/27/2020 10:01	4/27/2020 10:01	214,295	Best Buy - alexa.pdf
+FILE	---A----	4/16/2020 07:41	5/26/2020 08:01	5/26/2020 08:01	214,190	Amazon Order - fan.pdf
+FILE	---A----	4/16/2020 07:51	5/6/2020 11:01	5/6/2020 11:01	213,002	Home Depot - echo.pdf
+FILE	---A----	4/16/2020 08:31	5/14/2020 17:01	5/14/2020 17:01	213,269	Home Depot - fidget spinner.pdf
+FILE	---A----	4/16/2020 08:41	5/13/2020 17:01	5/13/2020 17:01	213,808	Amazon Order - bluetooth headphones.pdf
+FILE	---A----	4/16/2020 09:31	4/29/2020 14:01	4/29/2020 14:01	214,541	Amazon Order - ps4 games.pdf
+FILE	---A----	4/16/2020 09:40	5/28/2020 11:01	5/28/2020 11:01	213,222	Amazon Order - iphone 7 plus.pdf
+FILE	---A----	4/16/2020 09:50	4/27/2020 01:31	4/27/2020 01:31	212,383	NewEgg - iphone 6s case.pdf
+FILE	---A----	4/16/2020 10:00	4/28/2020 12:31	4/28/2020 12:31	214,240	NewEgg - movies.pdf
+FILE	---A----	4/16/2020 10:20	4/19/2020 04:41	4/19/2020 04:41	214,531	Amazon Order - bluetooth earbuds.pdf
+FILE	---A----	4/16/2020 10:50	4/28/2020 08:46	4/28/2020 08:46	214,240	Amazon Order - hbo.pdf
+FILE	---A----	4/16/2020 11:01	4/20/2020 16:01	4/21/2020 23:38	213,925	Amazon Order - nike.pdf
+FILE	---A----	4/16/2020 11:20	5/26/2020 05:01	5/26/2020 05:01	213,368	Lowes - smart watch.pdf
+FILE	---A----	4/16/2020 11:30	5/22/2020 20:01	5/22/2020 20:01	213,577	NewEgg - nike.pdf
+FILE	---A----	4/16/2020 12:01	4/23/2020 17:01	4/23/2020 17:01	213,665	Amazon Order - apple watch.pdf
+FILE	---A----	4/16/2020 12:10	5/14/2020 11:14	5/14/2020 11:14	213,448	Amazon Order - protein powder.pdf
+FILE	---A----	4/16/2020 12:20	4/25/2020 09:46	4/25/2020 09:46	213,078	Amazon Order - coffee maker.pdf
+FILE	---A----	4/16/2020 12:31	5/27/2020 23:01	5/27/2020 23:01	213,964	Home Depot - fire stick.pdf
+FILE	---A----	4/16/2020 12:50	4/26/2020 13:16	4/26/2020 13:16	214,463	Amazon Order - xbox one controller.pdf
+FILE	---A----	4/16/2020 13:21	4/26/2020 08:46	4/26/2020 08:46	214,309	Best Buy - fidget spinner.pdf
+FILE	---A----	4/16/2020 13:41	5/30/2020 05:01	5/30/2020 05:01	213,488	Best Buy - gift card.pdf
+FILE	---A----	4/16/2020 13:50	5/20/2020 17:01	5/22/2020 08:38	214,100	Amazon Order - kindle fire.pdf
+FILE	---A----	4/16/2020 14:01	4/28/2020 00:46	4/28/2020 00:46	214,069	Lowes - shower curtain.pdf
+FILE	---A----	4/16/2020 14:31	5/29/2020 08:01	5/29/2020 08:01	213,617	Amazon Order - gtx 1060.pdf
+FILE	---A----	4/16/2020 14:40	5/7/2020 02:01	5/7/2020 02:01	213,375	Best Buy - earphones.pdf
+FILE	---A----	4/16/2020 15:00	5/20/2020 11:26	5/22/2020 08:38	213,776	Amazon Order - samsung.pdf
+FILE	---A----	4/16/2020 15:31	5/19/2020 11:01	5/22/2020 08:38	213,696	NewEgg - nintendo switch.pdf
+FILE	---A----	4/16/2020 17:51	5/27/2020 11:01	5/27/2020 11:01	213,482	Amazon Order - lego.pdf
+FILE	---A----	4/16/2020 18:11	5/11/2020 17:01	5/11/2020 17:01	213,494	Lowes - samsung galaxy s8.pdf
+FILE	---A----	4/16/2020 18:31	5/16/2020 17:01	5/16/2020 17:01	178,813	Home Depot - coffee.pdf
+FILE	---A----	4/16/2020 18:51	5/15/2020 11:01	5/15/2020 11:01	178,813	Amazon Order - ipad.pdf
+FILE	---A----	4/16/2020 19:01	5/26/2020 11:01	5/26/2020 11:01	213,216	Best Buy - flash drive.pdf
+FILE	---A----	4/16/2020 19:11	5/29/2020 17:01	5/29/2020 17:01	213,439	NewEgg - ps4 controller.pdf
+FILE	---A----	4/16/2020 19:31	5/27/2020 14:01	5/27/2020 14:01	214,027	NewEgg - kindle fire.pdf
+FILE	---A----	4/16/2020 20:01	5/17/2020 11:02	5/17/2020 11:02	178,813	Lowes - tv.pdf
+FILE	---A----	4/16/2020 20:41	5/12/2020 17:01	5/12/2020 17:01	213,926	Amazon Order - doctor who.pdf
+FILE	---A----	4/16/2020 21:01	5/1/2020 11:01	5/1/2020 11:01	213,162	Amazon Order - drone.pdf
+FILE	---A----	4/16/2020 21:11	5/25/2020 08:01	5/25/2020 08:01	215,513	Amazon Order - mattress.pdf
+FILE	---A----	4/16/2020 21:20	5/25/2020 14:01	5/25/2020 14:01	213,224	Amazon Order - computer desk.pdf
+FILE	---A----	4/16/2020 21:31	4/25/2020 22:46	4/25/2020 22:46	212,574	NewEgg - laptop.pdf
+FILE	---A----	4/16/2020 21:51	5/21/2020 17:01	5/22/2020 08:38	214,079	Amazon Order - hdmi cable.pdf
+FILE	---A----	4/16/2020 22:11	5/20/2020 05:01	5/22/2020 08:38	212,744	Amazon Order - nintendo switch.pdf
+FILE	---A----	4/16/2020 23:21	4/27/2020 09:16	4/27/2020 09:16	212,719	NewEgg - micro sd card.pdf
+FILE	---A----	4/16/2020 23:51	5/16/2020 20:01	5/16/2020 20:01	178,813	Lowes - wireless headphones.pdf
+FILE	---A----	4/17/2020 00:01	5/7/2020 08:01	5/7/2020 08:01	213,815	Amazon Order - ps4 controller.pdf
+FILE	---A----	4/17/2020 00:51	4/26/2020 06:46	4/26/2020 06:46	212,867	Amazon Order - tv.pdf
+FILE	---A----	4/17/2020 01:01	5/6/2020 23:01	5/6/2020 23:01	213,664	Best Buy - aa batteries.pdf
+FILE	---A----	4/17/2020 01:21	4/23/2020 13:31	4/23/2020 13:31	212,874	NewEgg - pop socket.pdf
+FILE	---A----	4/17/2020 01:31	4/25/2020 23:46	4/25/2020 23:46	212,635	Best Buy - gopro.pdf
+FILE	---A----	4/17/2020 01:41	5/7/2020 20:01	5/7/2020 20:01	213,283	Amazon Order - redmi 4a.pdf
+FILE	---A----	4/17/2020 01:50	5/23/2020 02:01	5/23/2020 02:01	213,431	Lowes - xbox one controller.pdf
+FILE	---A----	4/17/2020 02:10	5/25/2020 23:01	5/25/2020 23:01	213,930	Amazon Order - gaming mouse.pdf
+FILE	---A----	4/17/2020 03:20	4/26/2020 04:31	4/26/2020 04:31	211,219	Best Buy - gaming headset.pdf
+FILE	---A----	4/17/2020 04:01	4/28/2020 14:02	4/28/2020 14:02	214,240	Amazon Order - fitbit.pdf
+FILE	---A----	4/17/2020 04:11	5/25/2020 02:01	5/25/2020 02:01	214,063	Best Buy - computer desk.pdf
+FILE	---A----	4/17/2020 04:51	4/23/2020 18:46	4/23/2020 18:46	213,642	Lowes - sd card.pdf
+FILE	---A----	4/17/2020 05:11	5/27/2020 17:01	5/27/2020 17:01	214,155	Amazon Order - gtx 1070.pdf
+FILE	---A----	4/17/2020 06:11	5/2/2020 02:01	5/2/2020 02:01	213,713	NewEgg - mouse.pdf
+FILE	---A----	4/17/2020 07:01	4/27/2020 10:16	4/27/2020 10:16	214,431	Best Buy - anker.pdf
+FILE	---A----	4/17/2020 07:21	5/25/2020 17:01	5/25/2020 17:01	213,018	NewEgg - lego.pdf
+FILE	---A----	4/17/2020 09:31	4/25/2020 19:31	4/25/2020 19:31	213,264	Amazon Order - shower curtain.pdf
+FILE	---A----	4/17/2020 09:50	5/21/2020 14:01	5/22/2020 08:38	213,430	Home Depot - flash drive.pdf
+FILE	---A----	4/17/2020 10:51	5/30/2020 11:01	5/30/2020 11:01	213,859	Amazon Order - power bank.pdf
+FILE	---A----	4/17/2020 11:01	4/29/2020 02:01	4/29/2020 02:01	212,792	NewEgg - projector.pdf
+FILE	---A----	4/17/2020 12:21	4/28/2020 08:16	4/28/2020 08:16	214,240	Best Buy - gaming pc.pdf
+FILE	---A----	4/17/2020 12:41	5/19/2020 23:01	5/22/2020 08:38	213,059	Lowes - xiaomi.pdf
+FILE	---A----	4/17/2020 13:41	5/11/2020 20:01	5/11/2020 20:01	214,937	NewEgg - iphone 7.pdf
+FILE	---A----	4/17/2020 14:02	5/29/2020 14:01	5/29/2020 14:01	213,358	NewEgg - iphone se.pdf
+FILE	---A----	4/17/2020 15:11	4/20/2020 20:01	4/21/2020 23:38	212,867	Amazon Order - samsung galaxy s8.pdf
+FILE	---A----	4/17/2020 15:31	4/28/2020 12:16	4/28/2020 12:16	214,240	Amazon Order - iphone x.pdf
+FILE	---A----	4/17/2020 16:11	4/27/2020 12:02	4/27/2020 12:02	213,293	Lowes - watch.pdf
+FILE	---A----	4/17/2020 17:01	4/28/2020 00:16	4/28/2020 00:16	213,429	NewEgg - shoes.pdf
+FILE	---A----	4/17/2020 17:51	5/17/2020 20:01	5/22/2020 08:38	214,344	Amazon Order - huawei.pdf
+FILE	---A----	4/17/2020 18:21	4/26/2020 08:01	4/26/2020 08:01	213,857	Lowes - xbox one x.pdf
+FILE	---A----	4/17/2020 19:01	4/28/2020 11:16	4/28/2020 11:16	214,240	Home Depot - coffee maker.pdf
+FILE	---A----	4/17/2020 19:50	4/28/2020 10:31	4/28/2020 10:31	214,240	NewEgg - instant pot.pdf
+FILE	---A----	4/17/2020 20:01	4/25/2020 15:46	4/25/2020 15:46	213,900	Best Buy - hard drive.pdf
+FILE	---A----	4/17/2020 21:11	4/25/2020 00:48	4/25/2020 00:48	214,244	Best Buy - backpack.pdf
+FILE	---A----	4/17/2020 21:31	4/24/2020 04:31	4/24/2020 04:31	213,647	Amazon Order - gtx 1080.pdf
+FILE	---A----	4/17/2020 22:01	5/28/2020 02:01	5/28/2020 02:01	214,029	Amazon Order - coffee.pdf
+FILE	---A----	4/17/2020 22:20	5/3/2020 02:00	5/3/2020 02:00	213,519	Amazon Order - laptop.pdf
+FILE	---A----	4/17/2020 22:40	5/5/2020 05:01	5/5/2020 05:01	213,198	Amazon Order - tablet.pdf
+FILE	---A----	4/17/2020 22:50	5/9/2020 23:01	5/9/2020 23:01	213,128	Amazon Order - anker.pdf
+FILE	---A----	4/17/2020 23:11	5/29/2020 02:01	5/29/2020 02:01	213,286	Amazon Order - gopro.pdf
+FILE	---A----	4/17/2020 23:51	4/25/2020 07:02	4/25/2020 07:02	212,447	Lowes - smartphone.pdf
+FILE	---A----	4/18/2020 00:01	5/23/2020 20:01	5/23/2020 20:01	212,965	Amazon Order - iphone.pdf
+FILE	---A----	4/18/2020 00:31	5/28/2020 08:01	5/28/2020 08:01	214,623	Best Buy - harry potter.pdf
+FILE	---A----	4/18/2020 01:20	4/21/2020 06:51	4/21/2020 23:38	213,865	Amazon Order - paper towels.pdf
+FILE	---A----	4/18/2020 02:01	5/7/2020 23:01	5/7/2020 23:01	213,216	NewEgg - headphones.pdf
+FILE	---A----	4/18/2020 02:11	5/25/2020 11:01	5/25/2020 11:01	214,640	Lowes - yoga mat.pdf
+FILE	---A----	4/18/2020 02:51	5/6/2020 05:01	5/6/2020 05:01	213,914	Amazon Order - iphone charger.pdf
+FILE	---A----	4/18/2020 03:21	4/24/2020 02:01	4/24/2020 02:01	212,949	NewEgg - keyboard.pdf
+FILE	---A----	4/18/2020 06:21	5/27/2020 08:05	5/27/2020 08:05	213,679	Amazon Order - windows 10.pdf
+FILE	---A----	4/18/2020 07:51	5/15/2020 14:01	5/15/2020 14:01	178,813	Amazon Order - iphone 8.pdf
+FILE	---A----	4/18/2020 08:51	4/27/2020 11:46	4/27/2020 11:46	212,991	Amazon Order - printer.pdf
+FILE	---A----	4/18/2020 09:01	4/22/2020 19:16	4/22/2020 19:16	212,797	Amazon Order - iphone 7 plus case.pdf
+FILE	---A----	4/18/2020 09:41	4/27/2020 15:02	4/27/2020 15:02	213,561	Best Buy - gtx 1070.pdf
+FILE	---A----	4/18/2020 09:51	4/21/2020 03:11	4/21/2020 23:38	213,172	Best Buy - hbo.pdf
+FILE	---A----	4/18/2020 10:21	5/20/2020 23:01	5/22/2020 08:38	213,780	Lowes - samsung galaxy s7.pdf
+FILE	---A----	4/18/2020 10:41	5/12/2020 23:01	5/12/2020 23:01	213,060	Best Buy - bluetooth headphones.pdf
+FILE	---A----	4/18/2020 11:11	5/9/2020 11:01	5/9/2020 11:01	213,535	Best Buy - doctor who.pdf
+FILE	---A----	4/18/2020 11:21	5/2/2020 14:01	5/2/2020 14:01	213,107	Amazon Order - flash drive.pdf
+FILE	---A----	4/18/2020 11:31	5/18/2020 05:01	5/22/2020 08:38	213,776	Amazon Order - echo.pdf
+FILE	---A----	4/18/2020 11:41	4/27/2020 05:02	4/27/2020 05:02	213,566	NewEgg - iphone 6s.pdf
+FILE	---A----	4/18/2020 12:11	5/7/2020 05:01	5/7/2020 05:01	212,906	Amazon Order - socks.pdf
+FILE	---A----	4/18/2020 12:41	5/24/2020 14:01	5/24/2020 14:01	214,310	NewEgg - ps4 games.pdf
+FILE	---A----	4/18/2020 13:31	5/29/2020 20:01	5/29/2020 20:01	213,636	Lowes - samsung.pdf
+FILE	---A----	4/18/2020 14:31	4/27/2020 07:46	4/27/2020 07:46	213,529	Amazon Order - gift cards for amazon.pdf
+FILE	---A----	4/18/2020 15:21	4/27/2020 11:31	4/27/2020 11:31	213,683	NewEgg - playstation 4.pdf
+FILE	---A----	4/18/2020 16:01	4/30/2020 14:01	4/30/2020 14:01	213,668	Amazon Order - xbox one x.pdf
+FILE	---A----	4/18/2020 17:41	4/18/2020 17:41	4/18/2020 17:41	214,531	Amazon Order - office chair.pdf
+FILE	---A----	4/18/2020 20:21	5/30/2020 02:01	5/30/2020 02:01	213,629	Amazon Order - shoes.pdf
+FILE	---A----	4/18/2020 20:41	5/1/2020 14:01	5/1/2020 14:01	212,982	Amazon Order - blender.pdf
+FILE	---A----	4/18/2020 21:01	4/26/2020 21:31	4/26/2020 21:31	214,075	Home Depot - earphones.pdf
+FILE	---A----	4/18/2020 21:20	5/11/2020 08:01	5/11/2020 08:01	213,603	Amazon Order - switch.pdf
+FILE	---A----	4/19/2020 00:40	5/12/2020 20:01	5/12/2020 20:01	212,777	Best Buy - fan.pdf
+FILE	---A----	4/19/2020 01:11	4/25/2020 11:16	4/25/2020 11:16	213,855	NewEgg - protein powder.pdf
+FILE	---A----	4/19/2020 02:41	5/24/2020 02:01	5/24/2020 02:01	214,310	Best Buy - coffee maker.pdf
+FILE	---A----	4/19/2020 03:01	5/22/2020 02:01	5/22/2020 08:38	214,139	Amazon Order - wireless headphones.pdf
+FILE	---A----	4/19/2020 03:21	4/24/2020 15:15	4/24/2020 15:15	213,039	NewEgg - ps4 pro.pdf
+FILE	---A----	4/19/2020 06:11	5/16/2020 23:02	5/16/2020 23:02	178,813	NewEgg - iphone 7 plus.pdf
+FILE	---A----	4/19/2020 09:50	5/30/2020 08:01	5/30/2020 08:01	213,990	Best Buy - gaming chair.pdf
+FILE	---A----	4/19/2020 10:31	4/25/2020 03:16	4/25/2020 03:16	213,909	Amazon Order - movies.pdf
+FILE	---A----	4/19/2020 11:51	4/26/2020 21:46	4/26/2020 21:46	214,509	Amazon Order - xbox one s.pdf
+FILE	---A----	4/19/2020 13:01	4/27/2020 19:01	4/27/2020 19:01	213,593	Amazon Order - vans.pdf
+FILE	---A----	4/19/2020 16:31	5/24/2020 11:01	5/24/2020 11:01	213,122	Amazon Order - mouse pad.pdf
+FILE	---A----	4/19/2020 16:41	4/24/2020 19:01	4/24/2020 19:01	214,154	Best Buy - apple watch.pdf
+FILE	---A----	4/19/2020 16:51	4/21/2020 12:32	4/21/2020 23:38	213,010	NewEgg - ipad.pdf
+FILE	---A----	4/19/2020 17:01	5/19/2020 02:01	5/22/2020 08:38	214,102	Amazon Order - camera.pdf
+FILE	---A----	4/19/2020 19:41	5/15/2020 05:02	5/15/2020 05:02	178,813	NewEgg - iphone 8 plus case.pdf
+FILE	---A----	4/19/2020 19:51	4/26/2020 15:16	4/26/2020 15:16	214,113	Home Depot - fan.pdf
+FILE	---A----	4/19/2020 20:01	4/19/2020 20:01	4/19/2020 20:01	214,531	Lowes - xbox one s.pdf
+FILE	---A----	4/19/2020 20:21	5/6/2020 02:01	5/6/2020 02:01	214,018	Amazon Order - hard drive.pdf
+FILE	---A----	4/19/2020 23:11	5/19/2020 14:01	5/22/2020 08:38	214,079	Best Buy - chromebook.pdf
+FILE	---A----	4/20/2020 01:51	5/19/2020 20:01	5/22/2020 08:38	215,305	Amazon Order - airpods.pdf
+FILE	---A----	4/20/2020 02:01	4/27/2020 10:32	4/27/2020 10:32	213,891	Lowes - wireless earbuds.pdf
+FILE	---A----	4/20/2020 03:31	5/24/2020 20:01	5/24/2020 20:01	212,559	Amazon Order - wireless earbuds.pdf
+FILE	---A----	4/20/2020 05:51	4/28/2020 23:01	4/28/2020 23:01	213,279	NewEgg - redmi 4a.pdf
+FILE	---A----	4/20/2020 07:01	5/11/2020 23:01	5/11/2020 23:01	212,862	Amazon Order - ps4 pro.pdf
+FILE	---A----	4/20/2020 10:41	5/16/2020 14:02	5/16/2020 14:02	178,813	Home Depot - earbuds.pdf
+FILE	---A----	4/20/2020 17:11	5/8/2020 14:01	5/8/2020 14:01	213,224	Best Buy - bluetooth speakers.pdf
+FILE	---A----	4/20/2020 17:20	4/26/2020 02:46	4/26/2020 02:46	213,888	Lowes - xbox one.pdf
+FILE	---A----	4/21/2020 01:21	5/29/2020 05:01	5/29/2020 05:01	214,141	Best Buy - coffee.pdf
+FILE	---A----	4/21/2020 08:12	5/11/2020 11:01	5/11/2020 11:01	214,927	Amazon Order - sd card.pdf
+FILE	---A----	4/21/2020 22:43	5/28/2020 23:01	5/28/2020 23:01	213,632	Best Buy - external hard drive.pdf
+FILE	---A----	4/22/2020 19:46	5/4/2020 17:01	5/4/2020 17:01	213,439	NewEgg - samsung galaxy s8.pdf
+FILE	---A----	4/22/2020 20:31	4/22/2020 20:31	4/22/2020 20:31	213,441	NewEgg - mobile.pdf
+FILE	---A----	4/23/2020 04:01	4/24/2020 22:46	4/24/2020 22:46	212,835	Amazon Order - xbox one.pdf
+FILE	---A----	4/23/2020 04:16	4/25/2020 06:16	4/25/2020 06:16	214,664	Amazon Order - earphones.pdf
+FILE	---A----	4/24/2020 01:45	4/26/2020 03:46	4/26/2020 03:46	213,363	Amazon Order - projector.pdf
+FILE	---A----	4/24/2020 17:46	4/25/2020 14:31	4/25/2020 14:31	213,708	Best Buy - game of thrones.pdf
+FILE	---A----	4/25/2020 03:46	4/28/2020 20:01	4/28/2020 20:01	213,306	Amazon Order - air fryer.pdf
+FILE	---A----	5/1/2020 05:01	5/1/2020 05:01	5/1/2020 05:01	213,985	Amazon Order - watch.pdf
+TOTAL	C:\Users\Student\Documents\Personal\Purchases\	-------	0	292	61,839,156	61,839,156
+FOLDER	C:\Users\Student\Documents\Personal\Scripts\	-------	0	401	1,542,104	1,542,104
+FILE	---A----	4/14/2020 22:23	5/20/2020 08:01	5/22/2020 08:38	3,749	System.Diagnostics.TextWriterTraceListener-script.sql
+FILE	---A----	4/14/2020 22:30	5/29/2020 11:01	5/29/2020 11:01	3,593	UiPath.Studio.Core-script.sql
+FILE	---A----	4/14/2020 23:20	5/8/2020 14:01	5/8/2020 14:01	3,580	System.Runtime.Numerics-script.sql
+FILE	---A----	4/14/2020 23:31	4/27/2020 18:32	4/27/2020 18:32	3,707	AzureRM.Dns-script.ps
+FILE	---A----	4/14/2020 23:40	5/13/2020 17:01	5/13/2020 17:01	3,701	System.Security.Principal-script.sql
+FILE	---A----	4/14/2020 23:50	5/30/2020 11:01	5/30/2020 11:01	3,635	Microsoft.TeamFoundation.Chat.WebApi-script.txt
+FILE	---A----	4/15/2020 00:01	5/4/2020 20:01	5/4/2020 20:01	4,358	NuGet.Credentials-script.txt
+FILE	---A----	4/15/2020 00:10	5/27/2020 02:01	5/27/2020 02:01	3,740	ActiproSoftware.Ribbon.Wpf-script.txt
+FILE	---A----	4/15/2020 00:20	4/26/2020 05:31	4/26/2020 05:31	3,697	DeltaCompressionDotNet-script.txt
+FILE	---A----	4/15/2020 00:31	4/21/2020 07:22	4/21/2020 23:39	3,928	System.Net.Requests-script.sql
+FILE	---A----	4/15/2020 00:40	4/15/2020 00:40	4/15/2020 00:40	3,818	ActiproSoftware.Views.Wpf-script.txt
+FILE	---A----	4/15/2020 00:50	4/28/2020 13:32	4/28/2020 13:32	3,934	netstandard-script.txt
+FILE	---A----	4/15/2020 01:01	4/27/2020 18:02	4/27/2020 18:02	4,336	Microsoft.TeamFoundation.ProjectManagement-script.txt
+FILE	---A----	4/15/2020 01:10	5/12/2020 11:01	5/12/2020 11:01	3,708	System.Linq.Parallel-script.sql
+FILE	---A----	4/15/2020 01:20	4/24/2020 21:16	4/24/2020 21:16	3,673	System.Security.Principal.Windows-script.sql
+FILE	---A----	4/15/2020 01:31	5/27/2020 11:01	5/27/2020 11:01	3,436	NuGet-script.txt
+FILE	---A----	4/15/2020 01:40	4/27/2020 15:02	4/27/2020 15:02	3,966	PackageManagement-script.txt
+FILE	---A----	4/15/2020 01:50	4/30/2020 11:01	4/30/2020 11:01	4,265	System.Diagnostics.TraceSource-script.sql
+FILE	---A----	4/15/2020 02:01	4/24/2020 18:31	4/24/2020 18:31	4,212	System.Security.SecureString-script.sql
+FILE	---A----	4/15/2020 02:10	5/14/2020 23:01	5/14/2020 23:01	3,946	System.IO.MemoryMappedFiles-script.sql
+FILE	---A----	4/15/2020 02:20	5/24/2020 23:01	5/24/2020 23:01	3,589	System.Xml.XDocument-script.sql
+FILE	---A----	4/15/2020 02:31	5/8/2020 02:01	5/8/2020 02:01	3,838	NLog-script.txt
+FILE	---A----	4/15/2020 02:40	4/18/2020 17:41	4/18/2020 17:41	3,877	Microsoft.TeamFoundation.Lab.TestIntegration.Client-script.txt
+FILE	---A----	4/15/2020 02:50	4/27/2020 22:46	4/27/2020 22:46	3,703	System.Diagnostics.Tools-script.sql
+FILE	---A----	4/15/2020 03:01	5/2/2020 11:01	5/2/2020 11:01	3,537	UiPath.PackageExplorer.Core-script.sql
+FILE	---A----	4/15/2020 03:10	4/21/2020 10:32	4/21/2020 23:39	3,934	DotLiquid-script.txt
+FILE	---A----	4/15/2020 03:20	4/18/2020 03:11	4/18/2020 03:11	4,345	System.Threading.Timer-script.sql
+FILE	---A----	4/15/2020 03:31	4/27/2020 23:16	4/27/2020 23:16	3,718	AzureRM.ServiceBus-script.txt
+FILE	---A----	4/15/2020 04:10	4/26/2020 09:31	4/26/2020 09:31	4,019	System.Data.Common-script.sql
+FILE	---A----	4/15/2020 04:20	4/27/2020 03:31	4/27/2020 03:31	3,635	ClosedXML-script.txt
+FILE	---A----	4/15/2020 04:31	4/23/2020 10:31	4/23/2020 10:31	3,979	AzureRM.Insights-script.ps
+FILE	---A----	4/15/2020 04:40	4/25/2020 16:46	4/25/2020 16:46	3,591	fr-script.txt
+FILE	---A----	4/15/2020 04:50	4/23/2020 01:02	4/23/2020 01:02	3,319	AzureRM.ContainerRegistry-script.ps
+FILE	---A----	4/15/2020 05:01	4/27/2020 22:02	4/27/2020 22:02	3,655	UiPath.Robot.Core-script.sql
+FILE	---A----	4/15/2020 05:10	4/21/2020 00:51	4/21/2020 00:51	4,365	libglesv2-script.ps
+FILE	---A----	4/15/2020 05:20	4/18/2020 20:51	4/18/2020 20:51	3,877	Microsoft.TeamFoundation.Build2.WebApi-script.txt
+FILE	---A----	4/15/2020 05:31	4/22/2020 00:21	4/22/2020 00:21	3,641	chrome.exe-script.ps
+FILE	---A----	4/15/2020 05:41	5/13/2020 20:01	5/13/2020 20:01	3,643	UiPath.Service.Host-script.sql
+FILE	---A----	4/15/2020 05:50	4/25/2020 23:46	4/25/2020 23:46	3,968	resources-script.ps
+FILE	---A----	4/15/2020 06:01	4/15/2020 06:01	4/15/2020 06:01	3,607	Microsoft.AspNet.SignalR.Client-script.txt
+FILE	---A----	4/15/2020 06:11	4/18/2020 22:01	4/18/2020 22:01	3,877	UiPath.DiagTool.exe-script.sql
+FILE	---A----	4/15/2020 06:20	5/19/2020 17:01	5/22/2020 08:38	4,211	System.Threading.Tasks.Parallel-script.sql
+FILE	---A----	4/15/2020 06:31	4/28/2020 11:46	4/28/2020 11:46	3,934	Mono.Cecil.Pdb-script.txt
+FILE	---A----	4/15/2020 06:41	4/16/2020 07:41	4/16/2020 09:17	4,118	System.Xml.XPath-script.sql
+FILE	---A----	4/15/2020 06:51	5/27/2020 17:01	5/27/2020 17:01	3,780	System.Xml.ReaderWriter-script.sql
+FILE	---A----	4/15/2020 07:01	4/19/2020 23:51	4/21/2020 23:39	3,877	ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf-script.txt
+FILE	---A----	4/15/2020 07:11	4/26/2020 01:46	4/26/2020 01:46	3,843	System.Threading.Tasks.Extensions-script.sql
+FILE	---A----	4/15/2020 07:21	5/27/2020 23:01	5/27/2020 23:01	3,724	UiPath.Agent-script.sql
+FILE	---A----	4/15/2020 07:40	4/28/2020 14:16	4/28/2020 14:16	3,934	Humanizer-script.txt
+FILE	---A----	4/15/2020 07:51	5/1/2020 11:01	5/1/2020 11:01	4,092	Nito.AsyncEx.Concurrent-script.txt
+FILE	---A----	4/15/2020 08:01	4/28/2020 03:16	4/28/2020 03:16	3,697	AzureRM.CognitiveServices-script.ps
+FILE	---A----	4/15/2020 08:20	4/26/2020 10:16	4/26/2020 10:16	4,003	Microsoft.Extensions.Primitives-script.txt
+FILE	---A---X	4/15/2020 08:31	5/21/2020 17:01	5/22/2020 08:38	3,612	UiPath.Studio.TextDiff-script.cmd
+FILE	---A----	4/15/2020 08:40	5/20/2020 05:02	5/22/2020 08:38	3,927	UiPath.Studio.exe-script.sql
+FILE	---A----	4/15/2020 08:51	4/27/2020 11:02	4/27/2020 11:02	3,982	System.Net.Primitives-script.sql
+FILE	---A----	4/15/2020 09:01	4/20/2020 03:51	4/21/2020 23:39	3,877	System.Net.WebSockets.Client-script.sql
+FILE	---A----	4/15/2020 09:11	4/23/2020 08:01	4/23/2020 08:01	3,534	NuGet.DependencyResolver.Core-script.txt
+FILE	---A----	4/15/2020 09:21	4/21/2020 19:23	4/21/2020 23:39	3,789	AzureRM.Websites-script.txt
+FILE	---A----	4/15/2020 09:31	4/18/2020 20:31	4/18/2020 20:31	3,877	ActiproSoftware.MicroCharts.Wpf-script.txt
+FILE	---A----	4/15/2020 09:51	5/5/2020 08:01	5/5/2020 08:01	4,073	AzureRM.DataFactories-script.ps
+FILE	---A----	4/15/2020 10:01	4/28/2020 10:16	4/28/2020 10:16	3,934	Microsoft.ServiceBus-script.txt
+FILE	---A----	4/15/2020 10:20	4/19/2020 05:21	4/19/2020 05:21	3,877	Mono.Cecil.Mdb-script.txt
+FILE	---A----	4/15/2020 10:31	4/15/2020 10:31	4/15/2020 10:31	3,769	System.Dynamic.Runtime-script.sql
+FILE	---A----	4/15/2020 10:50	4/28/2020 10:32	4/28/2020 10:32	3,934	System.Diagnostics.Tracing-script.sql
+FILE	---A----	4/15/2020 11:01	4/25/2020 14:46	4/25/2020 14:46	3,654	NSwag.CodeGeneration.CSharp-script.txt
+FILE	---A----	4/15/2020 11:21	4/27/2020 07:32	4/27/2020 07:32	3,744	Page_inspector-script.ps
+FILE	---A----	4/15/2020 11:31	4/24/2020 22:31	4/24/2020 22:31	3,663	Packages-script.txt
+FILE	---A----	4/15/2020 11:51	4/28/2020 11:16	4/28/2020 11:16	3,934	AzureRM.Media-script.txt
+FILE	---A----	4/15/2020 12:01	5/13/2020 11:19	5/13/2020 11:19	4,114	UiPath.Explorer.Launcher-script.sql
+FILE	---A----	4/15/2020 12:11	4/21/2020 08:42	4/21/2020 23:39	3,378	System.IO-script.sql
+FILE	---A----	4/15/2020 12:21	4/26/2020 18:16	4/26/2020 18:16	3,957	AzureRM.Compute-script.ps
+FILE	---A----	4/15/2020 12:42	5/24/2020 20:01	5/24/2020 20:01	4,229	Microsoft.TeamFoundation.Lab.Common-script.txt
+FILE	---A---X	4/15/2020 12:50	5/8/2020 05:01	5/8/2020 05:01	3,794	UiPath.Workflow.Diff-script.cmd
+FILE	---A----	4/15/2020 13:01	4/27/2020 14:02	4/27/2020 14:02	3,805	Microsoft.WindowsAPICodePack-script.txt
+FILE	---A----	4/15/2020 13:11	4/20/2020 10:51	4/21/2020 23:39	3,811	Microsoft.Threading.Tasks.Extensions.Desktop-script.txt
+FILE	---A----	4/15/2020 13:21	4/23/2020 07:16	4/23/2020 07:16	4,039	ActiproSoftware.Editors.Wpf-script.txt
+FILE	---A----	4/15/2020 13:31	4/25/2020 19:32	4/25/2020 19:32	3,603	System.IdentityModel.Tokens.Jwt-script.sql
+FILE	---A----	4/15/2020 13:51	4/18/2020 21:41	4/18/2020 21:41	3,877	System.Collections.NonGeneric-script.txt
+FILE	---A----	4/15/2020 14:01	5/28/2020 08:01	5/28/2020 08:01	3,815	UiPath.Shared-script.sql
+FILE	---A----	4/15/2020 14:11	4/23/2020 11:01	4/23/2020 11:01	3,411	UiPath.DiagTool-script.sql
+FILE	---A----	4/15/2020 14:21	4/20/2020 22:21	4/21/2020 23:38	3,557	ActiproSoftware.Themes.Luna.Wpf-script.txt
+FILE	---A----	4/15/2020 14:31	5/9/2020 11:01	5/9/2020 11:01	4,105	System.Console-script.sql
+FILE	---A----	4/15/2020 14:51	5/9/2020 14:01	5/9/2020 14:01	4,160	System.ComponentModel.EventBasedAsync-script.txt
+FILE	---A----	4/15/2020 15:02	4/21/2020 20:42	4/21/2020 23:38	3,789	System.Text.Encoding.CodePages-script.sql
+FILE	---A----	4/15/2020 15:11	5/14/2020 02:01	5/14/2020 02:01	3,685	Microsoft.Web.XmlTransform-script.txt
+FILE	---A----	4/15/2020 15:21	4/17/2020 06:51	4/17/2020 06:51	3,791	NuGet.Packaging.Core-script.txt
+FILE	---A----	4/15/2020 15:41	4/22/2020 23:32	4/22/2020 23:32	3,473	AzureRM.ApiManagement-script.ps
+FILE	---A----	4/15/2020 15:51	5/18/2020 05:01	5/22/2020 08:38	3,950	AzureRM.RecoveryServices-script.txt
+FILE	---A----	4/15/2020 16:01	4/21/2020 04:21	4/21/2020 23:38	4,083	System.IO.Compression-script.sql
+FILE	---A----	4/15/2020 16:11	5/21/2020 11:02	5/22/2020 08:38	3,613	Microsoft.IdentityModel.Clients.ActiveDirectory.Platform-script.txt
+FILE	---A----	4/15/2020 16:21	5/26/2020 14:01	5/26/2020 14:01	4,291	UiPath.Studio.Plugin.Svn-script.sql
+FILE	---A----	4/15/2020 16:31	5/24/2020 05:01	5/24/2020 05:01	3,670	Microsoft.WindowsAPICodePack.Shell-script.txt
+FILE	---A----	4/15/2020 16:41	5/20/2020 17:01	5/22/2020 08:38	4,145	UiPath.ScaleCoordinates.exe-script.sql
+FILE	---A----	4/15/2020 17:01	5/11/2020 17:01	5/11/2020 17:01	3,645	Hardcodet.Wpf.TaskbarNotification-script.txt
+FILE	---A----	4/15/2020 17:11	5/22/2020 11:06	5/22/2020 11:06	3,784	System.Text.Encoding.Extensions-script.sql
+FILE	---A----	4/15/2020 17:21	4/27/2020 14:32	4/27/2020 14:32	3,849	SharpSvn-script.txt
+FILE	---A----	4/15/2020 17:31	4/29/2020 23:01	4/29/2020 23:01	4,006	de-script.txt
+FILE	---A----	4/15/2020 17:41	4/24/2020 19:46	4/24/2020 19:46	3,930	Mono.Cecil.Rocks-script.txt
+FILE	---A----	4/15/2020 17:51	5/26/2020 20:01	5/26/2020 20:01	4,235	Microsoft.TeamFoundation.DeleteTeamProject-script.txt
+FILE	---A---X	4/15/2020 18:11	5/25/2020 17:01	5/25/2020 17:01	3,930	x64-script.cmd
+FILE	---A----	4/15/2020 18:21	5/29/2020 08:01	5/29/2020 08:01	3,850	AzureRM.TrafficManager-script.txt
+FILE	---A----	4/15/2020 18:31	4/27/2020 08:01	4/27/2020 08:01	3,975	ActiproSoftware.Text.Wpf-script.txt
+FILE	---A----	4/15/2020 18:41	4/21/2020 12:24	4/21/2020 12:24	3,599	notification_helper-script.ps
+FILE	---A----	4/15/2020 18:51	4/20/2020 00:51	4/20/2020 00:51	3,877	AzureRM.AnalysisServices-script.ps
+FILE	---A----	4/15/2020 19:01	5/25/2020 02:01	5/25/2020 02:01	3,662	System.Text.Encoding-script.sql
+FILE	---A----	4/15/2020 19:21	5/24/2020 14:01	5/24/2020 14:01	3,971	UiPath.Licensing-script.sql
+FILE	---A----	4/15/2020 19:31	4/26/2020 02:16	4/26/2020 02:16	3,934	UiPath.Activities.Contracts-script.sql
+FILE	---A----	4/15/2020 19:51	4/26/2020 12:01	4/26/2020 12:01	3,990	System.ComponentModel.Primitives-script.txt
+FILE	---A----	4/15/2020 20:01	4/26/2020 18:46	4/26/2020 18:46	3,733	DocumentFormat.OpenXml-script.txt
+FILE	---A----	4/15/2020 20:11	5/22/2020 17:01	5/22/2020 17:01	3,556	Nito.AsyncEx-script.txt
+FILE	---A----	4/15/2020 20:21	4/26/2020 10:46	4/26/2020 10:46	4,049	System.Reflection.Primitives-script.sql
+FILE	---A---X	4/15/2020 20:31	4/28/2020 09:31	4/28/2020 09:31	3,934	UiRobot.exe-script.cmd
+FILE	---A----	4/15/2020 20:51	4/15/2020 20:51	4/15/2020 20:51	3,769	AzureRM-script.ps
+FILE	---A----	4/15/2020 21:01	4/23/2020 06:16	4/23/2020 06:16	4,083	System.Windows.Interactivity-script.sql
+FILE	---A----	4/15/2020 21:11	4/27/2020 20:02	4/27/2020 20:02	3,779	System.Memory-script.sql
+FILE	---A----	4/15/2020 21:21	5/28/2020 02:01	5/28/2020 02:01	4,063	ActiproSoftware.Gauge.Wpf-script.txt
+FILE	---A----	4/15/2020 21:41	5/29/2020 05:01	5/29/2020 05:01	3,941	AzureRM.Automation-script.ps
+FILE	---A----	4/15/2020 21:51	5/14/2020 05:01	5/14/2020 05:01	3,613	System.Runtime.CompilerServices.Unsafe-script.sql
+FILE	---A----	4/15/2020 22:21	4/25/2020 18:02	4/25/2020 18:02	3,611	System.ComponentModel.TypeConverter-script.txt
+FILE	---A----	4/15/2020 22:51	4/25/2020 20:02	4/25/2020 20:02	3,806	System.Security.Cryptography.Csp-script.sql
+FILE	---A----	4/15/2020 23:01	5/14/2020 14:11	5/14/2020 14:11	3,816	Microsoft.Expression.Interactions-script.txt
+FILE	---A----	4/15/2020 23:21	4/21/2020 06:32	4/21/2020 23:38	3,749	NuGet.Commands-script.txt
+FILE	---A----	4/15/2020 23:41	5/12/2020 14:01	5/12/2020 14:01	3,648	NJsonSchema.CodeGeneration-script.txt
+FILE	---A----	4/15/2020 23:51	5/11/2020 23:01	5/11/2020 23:01	4,042	Microsoft.CodeAnalysis-script.txt
+FILE	---A----	4/16/2020 00:11	4/26/2020 22:16	4/26/2020 22:16	3,517	System.Security.Cryptography.Encoding-script.sql
+FILE	---A----	4/16/2020 00:21	5/8/2020 20:01	5/8/2020 20:01	4,173	Microsoft.TeamFoundation.Discussion.Client-script.txt
+FILE	---A----	4/16/2020 00:31	4/28/2020 05:46	4/28/2020 05:46	4,055	AzureRM.MachineLearning-script.ps
+FILE	---A----	4/16/2020 01:01	5/29/2020 14:01	5/29/2020 14:01	4,041	UiPath.ActivityCompiler-script.sql
+FILE	---A----	4/16/2020 01:11	4/27/2020 08:46	4/27/2020 08:46	3,807	System.Security.Cryptography.X509Certificates-script.sql
+FILE	---A----	4/16/2020 01:21	4/25/2020 11:01	4/25/2020 11:01	4,274	System.Resources.Reader-script.sql
+FILE	---A----	4/16/2020 01:41	5/28/2020 05:01	5/28/2020 05:01	4,096	UiPath.Agent.VisualElementsManifest-script.sql
+FILE	---A----	4/16/2020 02:11	4/27/2020 06:02	4/27/2020 06:02	3,681	System.Diagnostics.StackTrace-script.sql
+FILE	---A----	4/16/2020 02:21	5/7/2020 20:01	5/7/2020 20:01	4,026	UiPath.Studio.SourceControl.Shared-script.sql
+FILE	---A----	4/16/2020 02:41	5/8/2020 08:02	5/8/2020 08:02	3,580	Microsoft.Threading.Tasks.Extensions-script.txt
+FILE	---A----	4/16/2020 03:02	4/25/2020 08:01	4/25/2020 08:01	3,594	System.Collections.Concurrent-script.txt
+FILE	---A----	4/16/2020 03:21	4/27/2020 17:02	4/27/2020 17:02	3,597	Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage-script.txt
+FILE	---A----	4/16/2020 03:31	4/18/2020 08:51	4/18/2020 08:51	3,907	System.Security.Permissions-script.sql
+FILE	---A----	4/16/2020 03:41	4/24/2020 19:01	4/24/2020 19:01	3,868	AzureRM.Relay-script.txt
+FILE	---A----	4/16/2020 03:51	5/24/2020 08:01	5/24/2020 08:01	4,374	System.Runtime.Serialization.Xml-script.sql
+FILE	---A----	4/16/2020 04:01	4/23/2020 15:46	4/23/2020 15:46	3,847	System.Threading.ThreadPool-script.sql
+FILE	---A----	4/16/2020 04:11	5/13/2020 08:18	5/13/2020 08:18	3,704	ja-script.txt
+FILE	---A----	4/16/2020 04:21	5/6/2020 14:02	5/6/2020 14:02	4,405	System.IO.UnmanagedMemoryStream-script.sql
+FILE	---A----	4/16/2020 04:31	4/23/2020 22:53	4/23/2020 22:53	4,032	ActiproSoftware.Wizard.Wpf-script.txt
+FILE	---A----	4/16/2020 04:41	4/27/2020 01:32	4/27/2020 01:32	3,658	UiPath.NuGet-script.sql
+FILE	---A----	4/16/2020 04:51	5/7/2020 14:01	5/7/2020 14:01	4,089	DiffLib-script.txt
+FILE	---A----	4/16/2020 05:02	4/22/2020 19:01	4/22/2020 19:01	3,682	Snippets-script.txt
+FILE	---A----	4/16/2020 05:41	4/28/2020 17:16	4/28/2020 17:16	3,934	Microsoft.TeamFoundation.Test.WebApi-script.txt
+FILE	---A----	4/16/2020 05:51	5/22/2020 02:01	5/22/2020 08:38	3,739	CredentialManagement-script.txt
+FILE	---A----	4/16/2020 06:02	4/27/2020 11:16	4/27/2020 11:16	3,679	UiPath.Service-script.sql
+FILE	---A---X	4/16/2020 06:21	4/27/2020 08:32	4/27/2020 08:32	3,658	xaml-file-script.cmd
+FILE	---A----	4/16/2020 06:32	4/25/2020 18:16	4/25/2020 18:16	3,698	Microsoft.TeamFoundation.VersionControl.Common-script.txt
+FILE	---A----	4/16/2020 06:41	4/30/2020 14:01	4/30/2020 14:01	3,845	UiPath.Studio.CommandLine.exe-script.sql
+FILE	---A----	4/16/2020 07:12	4/24/2020 16:46	4/24/2020 16:46	3,694	AzureRM.MachineLearningCompute-script.ps
+FILE	---A----	4/16/2020 07:22	5/29/2020 20:01	5/29/2020 20:01	3,801	System.Xml.XPath.XDocument-script.sql
+FILE	---A----	4/16/2020 07:32	4/28/2020 02:16	4/28/2020 02:16	3,538	AzureRM.RedisCache-script.txt
+FILE	---A----	4/16/2020 07:52	4/27/2020 00:31	4/27/2020 00:31	3,836	System.Xml.XmlSerializer-script.sql
+FILE	---A----	4/16/2020 08:02	4/27/2020 19:32	4/27/2020 19:32	3,748	System.Runtime.Serialization.Formatters-script.sql
+FILE	---A----	4/16/2020 08:32	5/8/2020 11:01	5/8/2020 11:01	3,664	AzureRM.EventGrid-script.ps
+FILE	---A----	4/16/2020 08:52	5/10/2020 20:01	5/10/2020 20:01	3,749	ActiproSoftware.Themes.Office.Wpf-script.txt
+FILE	---A----	4/16/2020 09:02	4/28/2020 12:32	4/28/2020 12:32	3,934	System.Globalization.Extensions-script.sql
+FILE	---A----	4/16/2020 09:12	4/26/2020 02:02	4/26/2020 02:02	3,520	v8_context_snapshot-script.ps
+FILE	---A----	4/16/2020 09:21	5/22/2020 08:01	5/22/2020 08:01	3,456	System.Threading.Overlapped-script.sql
+FILE	---A----	4/16/2020 09:31	5/2/2020 23:01	5/2/2020 23:01	4,075	UiPath.ScaleCoordinates-script.sql
+FILE	---A----	4/16/2020 09:41	4/23/2020 23:31	4/23/2020 23:31	3,776	System.Numerics.Vectors-script.sql
+FILE	---A----	4/16/2020 10:01	5/29/2020 02:01	5/29/2020 02:01	4,245	System.Web.Http-script.sql
+FILE	---A----	4/16/2020 10:20	4/23/2020 00:01	4/23/2020 00:01	3,933	Pester-script.txt
+FILE	---A----	4/16/2020 11:01	4/27/2020 13:46	4/27/2020 13:46	4,166	AzureRM.Backup-script.ps
+FILE	---A---X	4/16/2020 11:10	4/20/2020 08:51	4/21/2020 23:38	3,877	UiRobot-script.cmd
+FILE	---A----	4/16/2020 11:20	5/10/2020 05:01	5/10/2020 05:01	3,675	UiPath.Studio.Shared-script.sql
+FILE	---A----	4/16/2020 11:31	4/30/2020 17:01	4/30/2020 17:01	3,806	System.Security.Cryptography.Algorithms-script.sql
+FILE	---A----	4/16/2020 11:50	4/20/2020 22:41	4/21/2020 23:38	3,815	UiPath.ActivityCompiler.CommandLine.exe-script.sql
+FILE	---A----	4/16/2020 12:10	5/6/2020 17:01	5/6/2020 17:01	3,656	chrome.dll-script.ps
+FILE	---A----	4/16/2020 12:31	4/24/2020 01:31	4/24/2020 01:31	3,838	AzureRM.DataLakeAnalytics-script.ps
+FILE	---A----	4/16/2020 12:40	5/12/2020 20:01	5/12/2020 20:01	3,808	System.Resources.ResourceManager-script.sql
+FILE	---A----	4/16/2020 13:01	4/27/2020 09:02	4/27/2020 09:02	4,113	UiPath.PackageExplorer.UI-script.sql
+FILE	---A----	4/16/2020 13:11	5/27/2020 14:01	5/27/2020 14:01	3,339	UiPath.Executor.Core-script.sql
+FILE	---A----	4/16/2020 13:31	4/16/2020 13:31	4/16/2020 13:31	3,543	DeltaCompressionDotNet.MsDelta-script.txt
+FILE	---A----	4/16/2020 13:41	5/8/2020 17:01	5/8/2020 17:01	4,060	chrome_child.dll-script.ps
+FILE	---A----	4/16/2020 13:51	4/21/2020 18:54	4/21/2020 18:54	3,789	AzureRM.LogicApp-script.ps
+FILE	---A----	4/16/2020 14:01	5/17/2020 20:01	5/22/2020 08:38	3,389	ActiproSoftware.Docking.Wpf-script.txt
+FILE	---A----	4/16/2020 14:11	5/25/2020 14:01	5/25/2020 14:01	3,887	AzureRM.Storage-script.txt
+FILE	---A----	4/16/2020 14:31	4/20/2020 09:41	4/20/2020 09:41	3,877	natives_blob-script.ps
+FILE	---A----	4/16/2020 14:51	4/22/2020 19:32	4/22/2020 19:32	3,936	System.Collections.Immutable-script.txt
+FILE	---A----	4/16/2020 15:31	4/28/2020 07:01	4/28/2020 07:01	3,337	UiPath.Studio.Plugin.Workflow-script.sql
+FILE	---A----	4/16/2020 15:41	5/24/2020 11:01	5/24/2020 11:01	3,429	System.Net.WebHeaderCollection-script.sql
+FILE	---A----	4/16/2020 15:51	5/17/2020 23:01	5/22/2020 08:38	3,722	CommandLine-script.txt
+FILE	---A----	4/16/2020 16:31	5/13/2020 23:01	5/13/2020 23:01	3,745	NuGet.Configuration-script.txt
+FILE	---A----	4/16/2020 17:11	4/28/2020 02:46	4/28/2020 02:46	4,072	Mixpanel-script.txt
+FILE	---A----	4/16/2020 17:31	4/25/2020 17:16	4/25/2020 17:16	4,084	lib-script.txt
+FILE	---A----	4/16/2020 17:41	5/26/2020 02:01	5/26/2020 02:01	3,729	NuGet.Common-script.txt
+FILE	---A----	4/16/2020 17:51	4/26/2020 00:01	4/26/2020 00:01	3,742	FontAwesome.WPF-script.txt
+FILE	---A----	4/16/2020 18:21	4/27/2020 23:46	4/27/2020 23:46	3,673	AzureRM.Scheduler-script.txt
+FILE	---A---X	4/16/2020 18:51	5/13/2020 05:02	5/13/2020 05:02	3,819	YamlDotNet-script.cmd
+FILE	---A----	4/16/2020 20:01	5/2/2020 20:01	5/2/2020 20:01	3,874	System.Net.Security-script.sql
+FILE	---A----	4/16/2020 20:31	4/26/2020 09:01	4/26/2020 09:01	4,419	ActiproSoftware.Editors.Interop.DataGrid.Wpf-script.txt
+FILE	---A----	4/16/2020 20:41	5/13/2020 14:16	5/13/2020 14:16	3,460	Microsoft.WITDataStore32-script.txt
+FILE	---A----	4/16/2020 20:51	5/22/2020 05:01	5/22/2020 08:38	4,208	UiPath.Executor-script.sql
+FILE	---A----	4/16/2020 21:11	5/21/2020 23:01	5/21/2020 23:01	3,697	Azure-script.ps
+FILE	---A----	4/16/2020 21:21	4/27/2020 20:16	4/27/2020 20:16	3,921	AzureRM.StreamAnalytics-script.txt
+FILE	---A----	4/16/2020 21:31	5/28/2020 17:01	5/28/2020 17:01	3,590	AzureRM.RecoveryServices.SiteRecovery-script.txt
+FILE	---A----	4/16/2020 21:41	4/17/2020 16:51	4/17/2020 16:51	3,584	chrome_200_percent-script.ps
+FILE	---A----	4/16/2020 22:01	5/18/2020 11:01	5/22/2020 08:38	3,597	Microsoft.VisualStudio.Services.Common-script.txt
+FILE	---A----	4/16/2020 22:21	4/24/2020 00:16	4/24/2020 00:16	4,263	Autofac-script.txt
+FILE	---A---X	4/16/2020 22:31	4/28/2020 05:02	4/28/2020 05:02	3,840	x86-script.cmd
+FILE	---A----	4/16/2020 22:51	4/25/2020 04:02	4/25/2020 04:02	4,324	NJsonSchema.Yaml-script.txt
+FILE	---A----	4/16/2020 23:01	4/26/2020 20:32	4/26/2020 20:32	3,890	NuGet.Protocol-script.txt
+FILE	---A----	4/16/2020 23:31	4/28/2020 05:16	4/28/2020 05:16	3,783	Microsoft.VisualStudio.Services.Client-script.txt
+FILE	---A----	4/16/2020 23:51	4/28/2020 01:46	4/28/2020 01:46	3,889	AzureRM.KeyVault-script.ps
+FILE	---A----	4/17/2020 00:21	4/28/2020 06:31	4/28/2020 06:31	3,757	AzureRM.NotificationHubs-script.txt
+FILE	---A----	4/17/2020 00:31	4/18/2020 17:01	4/18/2020 17:01	3,877	chrome_100_percent-script.ps
+FILE	---A----	4/17/2020 00:51	4/21/2020 00:21	4/21/2020 23:38	4,338	System.IO.FileSystem.DriveInfo-script.sql
+FILE	---A----	4/17/2020 01:21	4/21/2020 11:51	4/21/2020 23:38	3,933	System.Reflection.Extensions-script.sql
+FILE	---A----	4/17/2020 01:41	5/21/2020 02:01	5/22/2020 08:38	3,384	Nito.AsyncEx.Enlightenment-script.txt
+FILE	---A----	4/17/2020 02:21	5/24/2020 17:01	5/24/2020 17:01	4,182	ActiproSoftware.Editors.Interop.Grids.Wpf-script.txt
+FILE	---A----	4/17/2020 02:41	4/25/2020 20:46	4/25/2020 20:46	3,944	System.Drawing.Primitives-script.sql
+FILE	---A----	4/17/2020 03:01	4/21/2020 17:55	4/21/2020 23:38	3,789	ActiproSoftware.Navigation.Wpf-script.txt
+FILE	---A----	4/17/2020 03:11	4/24/2020 05:31	4/24/2020 05:31	3,970	AsyncEnumerable-script.txt
+FILE	---A----	4/17/2020 03:20	4/26/2020 07:16	4/26/2020 07:16	3,659	UiPath.Studio-script.sql
+FILE	---A----	4/17/2020 03:31	4/27/2020 21:16	4/27/2020 21:16	3,544	System.Reflection.Metadata-script.sql
+FILE	---A----	4/17/2020 04:01	5/10/2020 11:01	5/10/2020 11:01	3,815	AzureRM.RecoveryServices.Backup-script.txt
+FILE	---A----	4/17/2020 05:31	4/28/2020 13:46	4/28/2020 13:46	3,934	UiPath.Studio.Plugin.Git-script.sql
+FILE	---A----	4/17/2020 06:01	5/9/2020 02:01	5/9/2020 02:01	3,946	chrome_elf-script.ps
+FILE	---A----	4/17/2020 06:31	5/6/2020 23:01	5/6/2020 23:01	3,789	AzureRM.MarketplaceOrdering-script.ps
+FILE	---A----	4/17/2020 07:01	4/28/2020 08:16	4/28/2020 08:16	3,934	Microsoft.TeamFoundation.WorkItemTracking.WebApi-script.txt
+FILE	---A----	4/17/2020 07:11	4/24/2020 21:31	4/24/2020 21:31	3,973	AzureRM.IotHub-script.ps
+FILE	---A----	4/17/2020 07:21	5/3/2020 17:01	5/3/2020 17:01	4,091	AzureRM.Resources-script.txt
+FILE	---A----	4/17/2020 07:41	5/1/2020 14:01	5/1/2020 14:01	4,007	NuGet.Frameworks-script.txt
+FILE	---A----	4/17/2020 07:51	5/2/2020 08:01	5/2/2020 08:01	3,677	GongSolutions.Wpf.DragDrop-script.txt
+FILE	---A----	4/17/2020 08:11	5/3/2020 20:02	5/3/2020 20:02	3,405	UiPath.Explorer.Launcher.exe-script.sql
+FILE	---A----	4/17/2020 08:31	5/7/2020 17:01	5/7/2020 17:01	3,902	Newtonsoft.Json-script.txt
+FILE	---A----	4/17/2020 08:52	5/4/2020 05:01	5/4/2020 05:01	3,899	NDesk.Options-script.txt
+FILE	---A----	4/17/2020 09:31	4/28/2020 09:46	4/28/2020 09:46	3,934	UiPath.Studio.Contracts-script.sql
+FILE	---A----	4/17/2020 11:01	4/21/2020 16:32	4/21/2020 23:38	3,789	Microsoft.CodeAnalysis.Scripting-script.txt
+FILE	---A----	4/17/2020 11:21	4/23/2020 09:31	4/23/2020 09:31	4,131	AzureRM.PowerBIEmbedded-script.txt
+FILE	---A----	4/17/2020 11:31	4/17/2020 11:31	4/17/2020 11:31	3,419	System.Text.RegularExpressions-script.sql
+FILE	---A----	4/17/2020 11:41	5/5/2020 23:01	5/5/2020 23:01	3,787	System.Collections.Specialized-script.txt
+FILE	---A----	4/17/2020 11:51	5/20/2020 11:27	5/22/2020 08:38	3,725	System.Threading.Tasks-script.sql
+FILE	---A----	4/17/2020 12:21	4/17/2020 12:21	4/17/2020 12:21	3,652	System.Globalization.Calendars-script.sql
+FILE	---A----	4/17/2020 12:31	4/27/2020 22:16	4/27/2020 22:16	4,196	Microsoft.AspNetCore.Cryptography.KeyDerivation-script.txt
+FILE	---A----	4/17/2020 13:01	4/26/2020 07:32	4/26/2020 07:32	3,280	System.Linq-script.sql
+FILE	---A----	4/17/2020 13:11	4/26/2020 00:16	4/26/2020 00:16	3,847	AzureRM.ServiceFabric-script.txt
+FILE	---A----	4/17/2020 13:31	4/26/2020 05:16	4/26/2020 05:16	3,841	NJsonSchema-script.txt
+FILE	---A----	4/17/2020 14:31	5/14/2020 20:02	5/14/2020 20:02	3,948	AzureRM.Consumption-script.ps
+FILE	---A----	4/17/2020 14:41	5/10/2020 17:01	5/10/2020 17:01	3,869	AzureRM.Cdn-script.ps
+FILE	---A----	4/17/2020 14:51	4/28/2020 15:02	4/28/2020 15:02	3,934	Microsoft.TeamFoundation.Diff-script.txt
+FILE	---A----	4/17/2020 15:31	5/12/2020 02:01	5/12/2020 02:01	4,241	UiPath.Service.Api-script.sql
+FILE	---A----	4/17/2020 15:41	5/3/2020 02:01	5/3/2020 02:01	3,435	System.Threading.Thread-script.sql
+FILE	---A----	4/17/2020 16:11	5/21/2020 20:01	5/22/2020 08:38	4,201	Microsoft.TeamFoundation.TestImpact.Client-script.txt
+FILE	---A----	4/17/2020 16:21	5/10/2020 08:01	5/10/2020 08:01	3,726	UiPath-script.sql
+FILE	---A----	4/17/2020 16:31	4/26/2020 06:46	4/26/2020 06:46	3,691	AzureRM.Billing-script.ps
+FILE	---A----	4/17/2020 16:41	5/23/2020 02:01	5/23/2020 02:01	3,931	Microsoft.PowerShell.Operation.Validation-script.txt
+FILE	---A----	4/17/2020 17:11	5/11/2020 08:01	5/11/2020 08:01	3,791	NuGet.Versioning-script.txt
+FILE	---A----	4/17/2020 17:31	5/30/2020 02:01	5/30/2020 02:01	3,763	System.Collections-script.txt
+FILE	---A----	4/17/2020 19:01	5/7/2020 02:01	5/7/2020 02:01	3,509	UiPath.Service.Core-script.sql
+FILE	---A----	4/17/2020 19:11	5/6/2020 11:01	5/6/2020 11:01	4,042	System.IO.FileSystem.Watcher-script.sql
+FILE	---A----	4/17/2020 19:51	4/26/2020 22:02	4/26/2020 22:02	3,442	license-script.txt
+FILE	---A----	4/17/2020 22:11	5/5/2020 17:01	5/5/2020 17:01	4,350	Microsoft.TeamFoundation.VersionControl.Common.Integration-script.txt
+FILE	---A----	4/17/2020 23:01	5/6/2020 02:01	5/6/2020 02:01	3,503	Microsoft.Extensions.Caching.Memory-script.txt
+FILE	---A----	4/17/2020 23:21	4/20/2020 20:51	4/21/2020 23:38	3,720	AzureRM.Profile-script.txt
+FILE	---A----	4/17/2020 23:31	4/18/2020 22:41	4/18/2020 22:41	3,877	UiPath.Licensing.Library-script.sql
+FILE	---A----	4/17/2020 23:40	4/26/2020 11:46	4/26/2020 11:46	3,924	System.Net.Http-script.sql
+FILE	---A----	4/18/2020 00:01	4/21/2020 10:12	4/21/2020 23:38	3,970	Microsoft.TeamFoundation.Client-script.txt
+FILE	---A----	4/18/2020 00:21	4/24/2020 06:31	4/24/2020 06:31	3,797	AzureRM.UsageAggregates-script.txt
+FILE	---A----	4/18/2020 00:31	4/18/2020 02:21	4/18/2020 02:21	3,919	Microsoft.TeamFoundation.WorkItemTracking.Proxy-script.txt
+FILE	---A----	4/18/2020 01:01	4/28/2020 10:02	4/28/2020 10:02	3,934	UiPath.Studio.Plugin.Tfs-script.sql
+FILE	---A----	4/18/2020 01:11	5/20/2020 02:01	5/22/2020 08:38	3,980	System.IO.FileSystem-script.sql
+FILE	---A----	4/18/2020 01:41	4/23/2020 14:16	4/23/2020 14:16	4,007	ReflectionMagic-script.txt
+FILE	---A----	4/18/2020 03:31	4/26/2020 13:46	4/26/2020 13:46	3,451	ActiproSoftware.SyntaxEditor.Wpf-script.txt
+FILE	---A----	4/18/2020 03:41	4/27/2020 01:02	4/27/2020 01:02	4,021	ProjectTemplates-script.txt
+FILE	---A----	4/18/2020 05:41	4/26/2020 04:32	4/26/2020 04:32	4,322	ru-script.txt
+FILE	---A----	4/18/2020 06:01	4/25/2020 06:46	4/25/2020 06:46	3,600	System.Configuration.ConfigurationManager-script.sql
+FILE	---A----	4/18/2020 06:31	4/27/2020 17:16	4/27/2020 17:16	3,765	System.Security.AccessControl-script.sql
+FILE	---A----	4/18/2020 07:31	4/19/2020 03:11	4/19/2020 03:11	3,877	System.Management.Automation-script.sql
+FILE	---A----	4/18/2020 07:51	4/27/2020 11:31	4/27/2020 11:31	3,766	Microsoft.TeamFoundation.Git.Client-script.txt
+FILE	---A----	4/18/2020 08:21	4/27/2020 02:46	4/27/2020 02:46	4,119	Microsoft.TeamFoundation.Build.Client-script.txt
+FILE	---A----	4/18/2020 08:41	4/28/2020 05:31	4/28/2020 05:31	3,626	System.Net.NameResolution-script.sql
+FILE	---A----	4/18/2020 09:02	5/9/2020 20:01	5/9/2020 20:01	4,070	AzureRM.DataFactoryV2-script.ps
+FILE	---A----	4/18/2020 11:21	4/28/2020 17:02	4/28/2020 17:02	3,934	UiPath.Service.UserHost-script.sql
+FILE	---A----	4/18/2020 11:41	4/21/2020 05:32	4/21/2020 23:38	4,039	ActiproSoftware.Text.Addons.DotNet.Wpf-script.txt
+FILE	---A----	4/18/2020 12:11	5/2/2020 17:01	5/2/2020 17:01	4,072	AzureRM.OperationalInsights-script.txt
+FILE	---A----	4/18/2020 13:21	4/23/2020 09:01	4/23/2020 09:01	3,777	ActiproSoftware.BarCode.Wpf-script.txt
+FILE	---A----	4/18/2020 13:32	5/18/2020 14:01	5/22/2020 08:38	4,336	ActiproSoftware.SyntaxEditor.Addons.Xml.Wpf-script.txt
+FILE	---A----	4/18/2020 14:01	5/20/2020 20:01	5/22/2020 08:38	3,807	Microsoft.CodeAnalysis.CSharp-script.txt
+FILE	---A----	4/18/2020 14:11	5/11/2020 11:01	5/11/2020 11:01	3,925	System.Net.Sockets-script.sql
+FILE	---A----	4/18/2020 14:31	5/22/2020 23:01	5/22/2020 23:01	3,921	Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader-script.txt
+FILE	---A----	4/18/2020 17:21	4/24/2020 07:02	4/24/2020 07:02	4,153	AzureRM.Tags-script.txt
+FILE	---A----	4/18/2020 19:21	5/22/2020 20:01	5/22/2020 20:01	3,747	Profiles-script.txt
+FILE	---A----	4/18/2020 19:41	5/1/2020 17:01	5/1/2020 17:01	3,565	System.Linq.Expressions-script.sql
+FILE	---A----	4/18/2020 19:51	5/14/2020 08:13	5/14/2020 08:13	3,731	LibGit2Sharp-script.txt
+FILE	---A----	4/18/2020 20:21	5/25/2020 08:01	5/25/2020 08:01	3,906	System.Xml.XmlDocument-script.sql
+FILE	---A----	4/18/2020 21:01	4/24/2020 23:16	4/24/2020 23:16	4,317	eventlog_provider-script.ps
+FILE	---A----	4/18/2020 21:51	5/27/2020 05:02	5/27/2020 05:02	3,908	Microsoft.Threading.Tasks-script.txt
+FILE	---A----	4/18/2020 22:11	4/20/2020 20:01	4/21/2020 23:38	3,737	System.Runtime.InteropServices-script.sql
+FILE	---A----	4/19/2020 01:01	4/26/2020 23:01	4/26/2020 23:01	3,687	System.Security.Claims-script.sql
+FILE	---A----	4/19/2020 01:31	4/20/2020 10:11	4/21/2020 23:38	3,877	System.Runtime.Serialization.Json-script.sql
+FILE	---A----	4/19/2020 01:41	4/25/2020 03:02	4/25/2020 03:02	3,762	ActiproSoftware.Shared.Wpf-script.txt
+FILE	---A----	4/19/2020 02:01	5/1/2020 05:01	5/1/2020 05:01	3,897	Azure.Storage-script.ps
+FILE	---A----	4/19/2020 02:21	5/19/2020 05:01	5/22/2020 08:38	3,394	UiPath.Studio.SourceControl.Contracts-script.sql
+FILE	---A----	4/19/2020 03:01	5/24/2020 02:01	5/24/2020 02:01	3,823	Microsoft.TeamFoundation.Core.WebApi-script.txt
+FILE	---A----	4/19/2020 03:31	4/28/2020 16:16	4/28/2020 16:16	3,934	icudtl-script.ps
+FILE	---A----	4/19/2020 03:41	4/28/2020 08:31	4/28/2020 08:31	3,934	System.Buffers-script.txt
+FILE	---A----	4/19/2020 03:51	4/28/2020 11:31	4/28/2020 11:31	3,934	System.Net.WebSockets-script.sql
+FILE	---A----	4/19/2020 04:01	5/25/2020 20:01	5/25/2020 20:01	3,938	Microsoft.Extensions.Caching.Abstractions-script.txt
+FILE	---A----	4/19/2020 04:51	5/19/2020 20:01	5/22/2020 08:38	3,932	NuGet.LibraryModel-script.txt
+FILE	---A----	4/19/2020 05:01	4/28/2020 16:02	4/28/2020 16:02	3,934	UiPath.Project-script.sql
+FILE	---A----	4/19/2020 05:11	4/21/2020 03:02	4/21/2020 23:38	4,204	Microsoft.TeamFoundation.WorkItemTracking.Client-script.txt
+FILE	---A----	4/19/2020 06:02	5/26/2020 11:01	5/26/2020 11:01	3,946	Microsoft.CodeAnalysis.CSharp.Scripting-script.txt
+FILE	---A----	4/19/2020 07:11	4/25/2020 19:16	4/25/2020 19:16	3,790	AzureRM.ContainerInstance-script.ps
+FILE	---A----	4/19/2020 08:51	5/10/2020 14:01	5/10/2020 14:01	3,697	System.Diagnostics.Contracts-script.sql
+FILE	---A----	4/19/2020 09:01	5/26/2020 23:01	5/26/2020 23:01	3,864	NetDiff-script.txt
+FILE	---A----	4/19/2020 09:41	4/29/2020 05:01	4/29/2020 05:01	3,526	chrome_child-script.ps
+FILE	---A----	4/19/2020 09:51	4/24/2020 01:01	4/24/2020 01:01	3,944	AzureRM.HDInsight-script.ps
+FILE	---A----	4/19/2020 10:31	4/19/2020 10:31	4/19/2020 10:31	3,877	UiPath.ActivityCompiler.CommandLine-script.sql
+FILE	---A----	4/19/2020 10:41	4/22/2020 18:37	4/22/2020 18:37	4,221	System.Runtime.Extensions-script.sql
+FILE	---A----	4/19/2020 10:51	5/3/2020 08:00	5/3/2020 08:00	3,430	System.AppContext-script.txt
+FILE	---A----	4/19/2020 13:11	5/30/2020 05:01	5/30/2020 05:01	3,946	AzureRM.EventHub-script.ps
+FILE	---A----	4/19/2020 13:31	5/12/2020 08:01	5/12/2020 08:01	3,395	ActiproSoftware.Text.Addons.Xml.Wpf-script.txt
+FILE	---A----	4/19/2020 15:21	5/7/2020 05:01	5/7/2020 05:01	3,717	System.IO.Pipes-script.sql
+FILE	---A----	4/19/2020 15:41	4/26/2020 08:31	4/26/2020 08:31	4,213	NSwag.Core.Yaml-script.txt
+FILE	---A----	4/19/2020 16:21	4/26/2020 19:31	4/26/2020 19:31	4,132	System.Reflection.TypeExtensions-script.sql
+FILE	---A----	4/19/2020 17:11	4/27/2020 21:46	4/27/2020 21:46	4,089	System.Runtime.CompilerServices.VisualC-script.sql
+FILE	---A----	4/19/2020 17:21	4/19/2020 17:21	4/19/2020 17:21	3,877	System.Diagnostics.FileVersionInfo-script.sql
+FILE	---A----	4/19/2020 17:41	4/23/2020 23:16	4/23/2020 23:16	3,791	System.IO.Compression.ZipFile-script.sql
+FILE	---A----	4/19/2020 19:02	5/8/2020 23:01	5/8/2020 23:01	4,100	UiPath.Executor.exe-script.sql
+FILE	---A----	4/19/2020 19:12	5/18/2020 08:01	5/18/2020 08:01	3,954	AzureRM.DevTestLabs-script.ps
+FILE	---A----	4/19/2020 20:41	4/23/2020 03:31	4/23/2020 03:31	3,849	Microsoft.Extensions.Options-script.txt
+FILE	---A----	4/19/2020 21:21	4/20/2020 14:51	4/21/2020 23:38	3,938	AzureRM.SiteRecovery-script.txt
+FILE	---A----	4/19/2020 21:51	4/20/2020 02:31	4/21/2020 23:38	3,877	Microsoft.TeamFoundation.Lab.Client-script.txt
+FILE	---A----	4/19/2020 22:11	5/25/2020 05:01	5/25/2020 05:01	4,217	Microsoft.WindowsAzure.Configuration-script.txt
+FILE	---A----	4/19/2020 23:21	4/23/2020 05:16	4/23/2020 05:16	3,712	Microsoft.TeamFoundation.Lab.WorkflowIntegration.Client-script.txt
+FILE	---A----	4/19/2020 23:31	4/20/2020 02:01	4/21/2020 23:38	3,877	PowerShellGet-script.txt
+FILE	---A----	4/20/2020 00:11	4/30/2020 20:01	4/30/2020 20:01	3,953	System.Threading-script.sql
+FILE	---A----	4/20/2020 00:31	4/20/2020 00:31	4/21/2020 23:38	3,877	AzureRM.Network-script.txt
+FILE	---A----	4/20/2020 00:41	4/27/2020 21:02	4/27/2020 21:02	3,672	AzureRM.ApplicationInsights-script.ps
+FILE	---A----	4/20/2020 01:51	5/26/2020 17:01	5/26/2020 17:01	4,136	NSwag.Core-script.txt
+FILE	---A----	4/20/2020 02:21	5/21/2020 08:01	5/22/2020 08:38	3,980	LiteDB-script.txt
+FILE	---A----	4/20/2020 03:21	4/23/2020 23:46	4/23/2020 23:46	3,825	d3dcompiler_47-script.ps
+FILE	---A----	4/20/2020 04:11	4/23/2020 16:31	4/23/2020 16:31	3,876	Microsoft.AspNetCore.Cryptography.Internal-script.txt
+FILE	---A----	4/20/2020 04:31	4/20/2020 04:31	4/20/2020 04:31	3,877	chrome_watcher-script.ps
+FILE	---A----	4/20/2020 04:51	5/29/2020 23:01	5/29/2020 23:01	3,886	Microsoft.Extensions.DependencyInjection.Abstractions-script.txt
+FILE	---A----	4/20/2020 06:02	4/27/2020 13:31	4/27/2020 13:31	4,115	System.IO.Abstractions-script.sql
+FILE	---A----	4/20/2020 07:11	4/20/2020 07:11	4/21/2020 23:38	3,877	Microsoft.VisualStudio.Services.WebApi-script.txt
+FILE	---A----	4/20/2020 07:41	5/23/2020 05:01	5/23/2020 05:01	4,296	NJsonSchema.CodeGeneration.CSharp-script.txt
+FILE	---A----	4/20/2020 08:11	4/27/2020 10:32	4/27/2020 10:32	3,608	System.ComponentModel.Annotations-script.txt
+FILE	---A----	4/20/2020 10:02	4/26/2020 23:16	4/26/2020 23:16	3,520	Ploeh.AutoFixture-script.txt
+FILE	---A----	4/20/2020 10:21	4/20/2020 10:21	4/21/2020 23:38	3,877	ActiproSoftware.Text.LLParser.Wpf-script.txt
+FILE	---A----	4/20/2020 17:21	4/24/2020 02:46	4/24/2020 02:46	3,670	Microsoft.IdentityModel.JsonWebTokens-script.txt
+FILE	---A----	4/20/2020 19:11	5/9/2020 05:01	5/9/2020 05:01	4,119	Microsoft.TeamFoundation.Build.Common-script.txt
+FILE	---A----	4/20/2020 19:31	5/30/2020 08:01	5/30/2020 08:01	3,567	System.Runtime.InteropServices.RuntimeInformation-script.sql
+FILE	---A----	4/20/2020 22:32	4/25/2020 05:32	4/25/2020 05:32	3,800	Squirrel-script.txt
+FILE	---A----	4/20/2020 23:11	5/23/2020 23:01	5/23/2020 23:01	3,672	System.Net.NetworkInformation-script.sql
+FILE	---A----	4/20/2020 23:32	5/26/2020 08:01	5/26/2020 08:01	3,788	UiPath.Studio.CommandLine-script.sql
+FILE	---A----	4/21/2020 01:11	5/1/2020 02:01	5/1/2020 02:01	3,722	ActiproSoftware.Shell.Wpf-script.txt
+FILE	---A----	4/21/2020 03:11	4/21/2020 03:11	4/21/2020 23:38	3,697	SharpSvn.UI-script.txt
+FILE	---A---X	4/21/2020 05:12	4/27/2020 20:46	4/27/2020 20:46	4,247	zh-CN-script.cmd
+FILE	---A----	4/21/2020 07:52	5/5/2020 02:01	5/5/2020 02:01	3,823	AzureRM.Batch-script.ps
+FILE	---A----	4/21/2020 09:12	5/18/2020 23:01	5/22/2020 08:38	3,824	AzureRM.ServerManagement-script.txt
+FILE	---A----	4/21/2020 12:52	4/28/2020 23:01	4/28/2020 23:01	3,926	System.Security.Cryptography.Primitives-script.sql
+FILE	---A----	4/21/2020 13:53	4/21/2020 13:53	4/21/2020 13:53	3,789	AzureRM.DataLakeStore-script.ps
+FILE	---A----	4/21/2020 14:13	4/21/2020 18:43	4/21/2020 23:38	3,789	System.Runtime-script.sql
+FILE	---A----	4/21/2020 15:33	4/28/2020 09:16	4/28/2020 09:16	3,934	System.Runtime.Handles-script.sql
+FILE	---A----	4/21/2020 15:43	4/28/2020 13:01	4/28/2020 13:01	3,934	ActiproSoftware.DataGrid.Contrib.Wpf-script.txt
+FILE	---A----	4/21/2020 20:15	5/28/2020 14:01	5/28/2020 14:01	3,926	Topshelf-script.sql
+FILE	---A----	4/22/2020 00:31	4/22/2020 00:31	4/22/2020 16:44	4,464	System.Net.Http.Formatting-script.sql
+FILE	---A----	4/22/2020 17:31	5/25/2020 23:01	5/25/2020 23:01	3,972	Microsoft.IdentityModel.Tokens-script.txt
+FILE	---A----	4/22/2020 20:16	5/19/2020 23:01	5/22/2020 08:38	3,922	NuGet.ProjectModel-script.txt
+FILE	---A----	4/22/2020 20:46	4/24/2020 16:31	4/24/2020 16:31	3,460	AzureRM.Sql-script.txt
+FILE	---A----	4/22/2020 21:46	4/22/2020 21:46	4/22/2020 21:46	3,527	Splat-script.txt
+FILE	---A----	4/22/2020 22:16	4/28/2020 10:46	4/28/2020 10:46	3,934	Microsoft.TeamFoundation.TestManagement.Client-script.txt
+FILE	---A----	4/22/2020 22:31	5/18/2020 02:01	5/22/2020 08:38	3,664	DeltaCompressionDotNet.PatchApi-script.txt
+FILE	---A----	4/22/2020 22:46	5/26/2020 05:01	5/26/2020 05:01	3,639	Microsoft.IdentityModel.Logging-script.txt
+FILE	---A----	4/23/2020 02:16	4/27/2020 03:16	4/27/2020 03:16	3,645	ActiproSoftware.Charts.Wpf-script.txt
+FILE	---A----	4/23/2020 06:01	4/23/2020 06:01	4/23/2020 06:01	3,457	System.Net.Ping-script.sql
+FILE	---A----	4/23/2020 09:46	5/29/2020 17:01	5/29/2020 17:01	3,886	Microsoft.TeamFoundation.VersionControl.Client-script.txt
+FILE	---A----	4/23/2020 13:16	5/5/2020 14:01	5/5/2020 14:01	3,632	System.ObjectModel-script.sql
+FILE	---A----	4/23/2020 17:46	5/5/2020 05:01	5/5/2020 05:01	3,776	Azure.AnalysisServices-script.ps
+FILE	---A----	4/23/2020 18:02	4/28/2020 12:02	4/28/2020 12:02	3,934	Microsoft.TeamFoundation.WorkItemTracking.Common-script.txt
+FILE	---A----	4/23/2020 21:02	4/23/2020 21:02	4/23/2020 21:02	3,574	Mono.Cecil-script.txt
+FILE	---A----	4/24/2020 04:01	4/25/2020 23:02	4/25/2020 23:02	3,432	System.Linq.Queryable-script.sql
+FILE	---A----	4/24/2020 15:16	5/9/2020 08:01	5/9/2020 08:01	3,707	System.Diagnostics.Process-script.sql
+FILE	---A----	4/24/2020 16:16	5/19/2020 14:01	5/22/2020 08:38	4,299	Microsoft.TeamFoundation.Common-script.txt
+FILE	---A----	4/24/2020 18:16	4/28/2020 12:46	4/28/2020 12:46	3,934	Microsoft.TeamFoundation.SourceControl.WebApi-script.txt
+FILE	---A----	4/24/2020 22:03	4/25/2020 21:46	4/25/2020 21:46	4,351	Microsoft.WITDataStore64-script.txt
+FILE	---A----	4/25/2020 07:16	4/28/2020 04:32	4/28/2020 04:32	3,854	ActiproSoftware.Grids.Wpf-script.txt
+FILE	---A----	4/25/2020 23:16	4/25/2020 23:16	4/25/2020 23:16	4,103	elevation_service-script.ps
+FILE	---A----	4/26/2020 02:46	4/26/2020 02:46	4/26/2020 02:46	3,590	UiPath.Agent.exe-script.sql
+FILE	---A----	4/26/2020 08:01	4/26/2020 17:46	4/26/2020 17:46	3,775	Microsoft.TeamFoundation.TestManagement.WebApi-script.txt
+FILE	---A----	4/26/2020 14:16	5/1/2020 23:01	5/1/2020 23:01	3,641	System.ValueTuple-script.sql
+FILE	---A----	4/26/2020 16:16	5/4/2020 14:01	5/4/2020 14:01	3,605	Microsoft.TeamFoundation.SharePointReporting.Integration-script.txt
+FILE	---A----	4/27/2020 00:46	4/27/2020 00:46	4/27/2020 00:46	3,805	System.Diagnostics.Debug-script.sql
+FILE	---A----	4/27/2020 09:16	4/27/2020 09:16	4/27/2020 09:16	3,868	Microsoft.TeamFoundation.TestManagement.Common-script.txt
+FILE	---A----	4/27/2020 11:46	4/28/2020 07:46	4/28/2020 07:46	3,931	Microsoft.TeamFoundation.Policy.WebApi-script.txt
+FILE	---A----	4/27/2020 14:16	4/27/2020 14:16	4/27/2020 14:16	3,666	SharpCompress-script.txt
+FILE	---A----	4/27/2020 14:46	4/27/2020 14:46	4/27/2020 14:46	3,891	System.Globalization-script.sql
+FILE	---A----	4/28/2020 00:46	4/28/2020 00:46	4/28/2020 00:46	4,179	Microsoft.TeamFoundation.Work.WebApi-script.txt
+FILE	---A----	4/28/2020 04:46	4/28/2020 04:46	4/28/2020 04:46	3,351	NuGet.Squirrel-script.txt
+FILE	---A----	4/28/2020 07:16	5/7/2020 23:01	5/7/2020 23:01	3,892	System.IO.FileSystem.Primitives-script.sql
+FILE	---A----	4/28/2020 14:46	5/14/2020 11:14	5/14/2020 11:14	3,743	nacl_irt_x86_64-script.ps
+FILE	---A----	5/4/2020 11:03	5/28/2020 11:01	5/28/2020 11:01	4,009	Microsoft.IdentityModel.Clients.ActiveDirectory-script.txt
+FILE	---A----	5/10/2020 23:01	5/12/2020 17:01	5/12/2020 17:01	3,421	System.Reflection-script.sql
+FILE	---A----	5/12/2020 05:01	5/18/2020 17:01	5/22/2020 08:38	3,934	ActiproSoftware.Text.LanguageGeneration.Wpf-script.txt
+TOTAL	C:\Users\Student\Documents\Personal\Scripts\	-------	0	401	1,542,104	1,542,104
+FOLDER	C:\Users\Student\Documents\Personal\Statements\	-------	0	149	1,991,270	1,991,270
+FILE	---A----	4/14/2020 22:24	4/14/2020 22:24	5/13/2020 01:37	13,470	KeyBank-Statement-4-2016.docx
+FILE	---A----	4/14/2020 22:29	4/14/2020 22:29	4/14/2020 22:29	13,349	BestBuy-Statement-2-2015.docx
+FILE	---A----	4/14/2020 22:30	4/14/2020 22:30	4/14/2020 22:30	13,506	BestBuy-Statement-1-2015.docx
+FILE	---A----	4/14/2020 23:21	4/14/2020 23:21	4/14/2020 23:21	13,541	Lowes-Statement-7-2017.docx
+FILE	---A----	4/14/2020 23:31	4/14/2020 23:31	4/14/2020 23:31	13,607	Lowes-Statement-4-2016.docx
+FILE	---A----	4/14/2020 23:41	4/14/2020 23:41	4/14/2020 23:41	13,454	Lowes-Statement-9-2018.docx
+FILE	---A----	4/14/2020 23:51	4/14/2020 23:51	4/14/2020 23:51	13,377	Lowes-Statement-1-2015.docx
+FILE	---A----	4/15/2020 00:01	4/15/2020 00:01	4/15/2020 00:01	13,525	MandT-Statement-3-2015.docx
+FILE	---A----	4/15/2020 00:11	4/15/2020 00:10	4/15/2020 00:11	13,437	AmericanExpress-Statement-5-2017.docx
+FILE	---A----	4/15/2020 00:21	4/15/2020 00:20	4/15/2020 00:21	13,620	MandT-Statement-8-2018.docx
+FILE	---A----	4/15/2020 00:31	4/15/2020 00:31	4/15/2020 00:31	13,430	BestBuy-Statement-5-2017.docx
+FILE	---A----	4/15/2020 00:40	4/15/2020 00:40	4/15/2020 00:40	13,404	AmericanExpress-Statement-10-2019.docx
+FILE	---A----	4/15/2020 00:51	4/15/2020 00:51	4/15/2020 00:51	13,591	KeyBank-Statement-9-2018.docx
+FILE	---A----	4/15/2020 01:01	4/15/2020 01:01	4/15/2020 01:01	13,323	AmericanExpress-Statement-6-2017.docx
+FILE	---A----	4/15/2020 01:20	4/15/2020 01:20	4/15/2020 01:20	13,564	KeyBank-Statement-7-2018.docx
+FILE	---A----	4/15/2020 01:31	4/15/2020 01:31	4/15/2020 01:31	13,342	BestBuy-Statement-8-2018.docx
+FILE	---A----	4/15/2020 02:10	4/15/2020 02:10	4/15/2020 02:10	13,419	AmericanExpress-Statement-11-2019.docx
+FILE	---A----	4/15/2020 02:50	4/15/2020 02:50	4/15/2020 02:50	13,422	BestBuy-Statement-6-2017.docx
+FILE	---A----	4/15/2020 03:31	4/15/2020 03:31	4/15/2020 03:31	13,340	KeyBank-Statement-6-2017.docx
+FILE	---A----	4/15/2020 03:50	4/15/2020 03:50	4/15/2020 03:50	13,472	Lowes-Statement-2-2015.docx
+FILE	---A----	4/15/2020 04:01	4/15/2020 04:01	4/15/2020 04:01	13,351	KeyBank-Statement-2-2015.docx
+FILE	---A----	4/15/2020 04:11	4/15/2020 04:11	4/15/2020 04:11	13,487	AmericanExpress-Statement-7-2018.docx
+FILE	---A----	4/15/2020 04:20	4/15/2020 04:20	4/15/2020 04:20	13,598	MandT-Statement-4-2016.docx
+FILE	---A----	4/15/2020 04:50	4/15/2020 04:50	4/15/2020 04:50	13,326	Lowes-Statement-5-2017.docx
+FILE	---A----	4/15/2020 05:01	4/15/2020 05:01	4/15/2020 05:01	13,368	AmericanExpress-Statement-9-2018.docx
+FILE	---A----	4/15/2020 05:10	4/15/2020 05:10	4/15/2020 05:10	13,346	KeyBank-Statement-11-2019.docx
+FILE	---A----	4/15/2020 05:20	4/15/2020 05:20	4/15/2020 05:20	13,685	AmericanExpress-Statement-8-2018.docx
+FILE	---A----	4/15/2020 05:31	4/15/2020 05:31	4/15/2020 05:31	13,418	MandT-Statement-1-2015.docx
+FILE	---A----	4/15/2020 05:41	4/15/2020 05:41	4/15/2020 05:41	13,324	MandT-Statement-11-2019.docx
+FILE	---A----	4/15/2020 05:51	4/15/2020 05:51	4/15/2020 05:51	13,380	BestBuy-Statement-10-2019.docx
+FILE	---A----	4/15/2020 06:01	4/15/2020 06:01	4/15/2020 06:01	13,660	Lowes-Statement-6-2017.docx
+FILE	---A----	4/15/2020 06:11	4/15/2020 06:11	4/15/2020 06:11	13,539	MandT-Statement-6-2017.docx
+FILE	---A----	4/15/2020 06:21	4/15/2020 06:21	4/15/2020 06:21	13,499	Lowes-Statement-3-2016.docx
+FILE	---A----	4/15/2020 06:41	4/15/2020 06:41	4/15/2020 06:41	13,529	Lowes-Statement-7-2018.docx
+FILE	---A----	4/15/2020 07:11	4/15/2020 07:11	4/15/2020 07:11	13,154	MandT-Statement-3-2016.docx
+FILE	---A----	4/15/2020 07:51	4/15/2020 07:51	4/15/2020 07:51	13,261	Lowes-Statement-8-2018.docx
+FILE	---A----	4/15/2020 08:01	4/15/2020 08:01	4/15/2020 08:01	13,300	BestBuy-Statement-11-2019.docx
+FILE	---A----	4/15/2020 08:11	4/15/2020 08:11	4/15/2020 08:11	13,297	KeyBank-Statement-1-2015.docx
+FILE	---A----	4/15/2020 08:21	4/15/2020 08:21	4/15/2020 08:21	13,589	AmericanExpress-Statement-1-2015.docx
+FILE	---A----	4/15/2020 08:31	4/15/2020 08:31	4/15/2020 08:31	13,676	Lowes-Statement-10-2019.docx
+FILE	---A----	4/15/2020 08:41	4/15/2020 08:41	4/15/2020 08:41	13,359	AmericanExpress-Statement-5-2016.docx
+FILE	---A----	4/15/2020 08:51	4/15/2020 08:51	4/15/2020 08:51	13,354	MandT-Statement-9-2018.docx
+FILE	---A----	4/15/2020 10:31	4/15/2020 10:31	4/15/2020 10:31	13,511	BestBuy-Statement-5-2016.docx
+FILE	---A----	4/15/2020 10:41	4/15/2020 10:41	4/15/2020 10:41	13,329	MandT-Statement-5-2017.docx
+FILE	---A----	4/15/2020 11:51	4/15/2020 11:51	4/15/2020 11:51	13,370	KeyBank-Statement-5-2017.docx
+FILE	---A----	4/15/2020 12:51	4/15/2020 12:51	4/15/2020 12:51	13,371	KeyBank-Statement-10-2019.docx
+FILE	---A----	4/15/2020 13:21	4/15/2020 13:21	4/15/2020 13:21	13,462	AmericanExpress-Statement-4-2016.docx
+FILE	---A----	4/15/2020 13:41	4/15/2020 13:41	4/15/2020 13:41	13,609	MandT-Statement-2-2015.docx
+FILE	---A----	4/15/2020 14:31	4/15/2020 14:31	4/15/2020 14:31	13,374	AmericanExpress-Statement-2-2015.docx
+FILE	---A----	4/15/2020 14:51	4/15/2020 14:51	4/15/2020 14:51	13,242	BestBuy-Statement-4-2016.docx
+FILE	---A----	4/15/2020 15:41	4/15/2020 15:41	4/15/2020 15:41	13,278	MandT-Statement-5-2016.docx
+FILE	---A----	4/15/2020 15:51	4/15/2020 15:51	4/15/2020 15:51	13,398	KeyBank-Statement-3-2016.docx
+FILE	---A----	4/15/2020 16:11	4/15/2020 16:11	4/15/2020 16:11	13,629	BestBuy-Statement-7-2017.docx
+FILE	---A----	4/15/2020 16:31	4/15/2020 16:31	4/15/2020 16:31	13,593	BestBuy-Statement-9-2019.docx
+FILE	---A----	4/15/2020 16:51	4/15/2020 16:51	4/15/2020 16:51	13,428	AmericanExpress-Statement-7-2017.docx
+FILE	---A----	4/15/2020 19:11	4/15/2020 19:11	4/15/2020 19:11	13,408	MandT-Statement-7-2017.docx
+FILE	---A----	4/15/2020 20:31	4/15/2020 20:31	4/15/2020 20:31	13,599	BestBuy-Statement-7-2018.docx
+FILE	---A----	4/15/2020 20:41	4/15/2020 20:41	4/22/2020 19:14	13,638	KeyBank-Statement-8-2018.docx
+FILE	---A----	4/15/2020 21:51	4/15/2020 21:51	4/15/2020 21:51	13,601	MandT-Statement-10-2019.docx
+FILE	---A----	4/15/2020 23:51	4/15/2020 23:51	4/15/2020 23:51	13,395	BestBuy-Statement-3-2015.docx
+FILE	---A----	4/16/2020 03:12	4/16/2020 03:12	4/16/2020 03:12	13,417	AmericanExpress-Statement-3-2016.docx
+FILE	---A----	4/16/2020 04:02	4/16/2020 04:02	4/16/2020 04:02	13,233	Lowes-Statement-5-2016.docx
+FILE	---A----	4/16/2020 05:12	4/16/2020 05:12	4/16/2020 05:12	13,528	Lowes-Statement-11-2019.docx
+FILE	---A----	4/16/2020 05:52	4/16/2020 05:52	4/16/2020 05:52	13,631	BestBuy-Statement-9-2018.docx
+FILE	---A----	4/16/2020 07:32	4/16/2020 07:32	4/16/2020 09:17	13,390	BestBuy-Statement-3-2016.docx
+FILE	---A----	4/16/2020 08:22	4/16/2020 08:22	4/16/2020 08:22	13,339	MandT-Statement-9-2019.docx
+FILE	---A----	4/16/2020 09:12	4/16/2020 09:12	4/16/2020 09:12	13,419	Lowes-Statement-3-2015.docx
+FILE	---A----	4/16/2020 13:01	4/16/2020 13:01	4/16/2020 13:01	13,391	KeyBank-Statement-5-2016.docx
+FILE	---A----	4/16/2020 16:21	4/16/2020 16:21	4/16/2020 16:21	13,592	MandT-Statement-7-2018.docx
+FILE	---A----	4/16/2020 18:02	4/16/2020 18:01	4/16/2020 18:02	13,325	AmericanExpress-Statement-9-2019.docx
+FILE	---A----	4/16/2020 20:21	4/16/2020 20:21	4/16/2020 20:21	13,277	AmericanExpress-Statement-3-2015.docx
+FILE	---A----	4/17/2020 14:31	4/17/2020 14:31	4/17/2020 14:31	13,363	KeyBank-Statement-9-2019.docx
+FILE	---A----	4/17/2020 22:41	4/17/2020 22:41	4/17/2020 22:41	13,652	KeyBank-Statement-7-2017.docx
+FILE	---A----	4/18/2020 03:41	4/18/2020 03:41	4/18/2020 03:41	13,339	KeyBank-Statement-3-2015.docx
+FILE	---A----	4/18/2020 14:51	4/18/2020 14:51	4/18/2020 14:51	13,562	Lowes-Statement-9-2019.docx
+FILE	---A----	4/22/2020 19:32	5/29/2020 20:01	5/29/2020 20:01	13,385	Lowes-Statement-6-6-2017.docx
+FILE	---A----	4/22/2020 19:46	5/22/2020 02:01	5/22/2020 08:38	13,309	MandT-Statement-1-1-2015.docx
+FILE	---A----	4/22/2020 20:01	5/9/2020 02:01	5/9/2020 02:01	13,381	Lowes-Statement-7-7-2017.docx
+FILE	---A----	4/22/2020 20:16	5/30/2020 08:01	5/30/2020 08:01	13,392	KeyBank-Statement-5-5-2017.docx
+FILE	---A----	4/22/2020 20:32	5/13/2020 11:19	5/13/2020 11:19	13,383	AmericanExpress-Statement-7-7-2017.docx
+FILE	---A----	4/22/2020 20:46	5/29/2020 11:01	5/29/2020 11:01	13,346	KeyBank-Statement-9-9-2018.docx
+FILE	---A----	4/22/2020 21:16	5/16/2020 11:03	5/16/2020 11:03	11,345	Lowes-Statement-11-11-2019.docx
+FILE	---A----	4/22/2020 21:32	4/27/2020 17:02	4/27/2020 17:02	13,323	MandT-Statement-5-5-2016.docx
+FILE	---A----	4/22/2020 21:46	5/28/2020 14:01	5/28/2020 14:01	13,319	Lowes-Statement-4-4-2016.docx
+FILE	---A----	4/22/2020 22:02	5/24/2020 17:01	5/24/2020 17:01	13,435	BestBuy-Statement-1-1-2015.docx
+FILE	---A----	4/22/2020 22:16	5/25/2020 08:01	5/25/2020 08:01	13,557	MandT-Statement-6-6-2017.docx
+FILE	---A----	4/22/2020 22:31	5/28/2020 20:01	5/28/2020 20:01	13,490	KeyBank-Statement-4-4-2016.docx
+FILE	---A----	4/22/2020 22:46	5/25/2020 23:01	5/25/2020 23:01	13,472	AmericanExpress-Statement-2-2-2015.docx
+FILE	---A----	4/22/2020 23:01	5/25/2020 05:01	5/25/2020 05:01	13,451	KeyBank-Statement-1-1-2015.docx
+FILE	---A----	4/22/2020 23:16	5/12/2020 11:01	5/12/2020 11:01	13,432	MandT-Statement-10-10-2019.docx
+FILE	---A----	4/22/2020 23:32	5/27/2020 20:01	5/27/2020 20:01	13,456	KeyBank-Statement-6-6-2017.docx
+FILE	---A----	4/23/2020 00:02	5/28/2020 11:01	5/28/2020 11:02	13,270	AmericanExpress-Statement-3-3-2016.docx
+FILE	---A----	4/23/2020 00:16	5/15/2020 20:02	5/15/2020 20:03	11,342	BestBuy-Statement-10-10-2019.docx
+FILE	---A----	4/23/2020 00:32	5/29/2020 05:01	5/29/2020 05:01	13,382	BestBuy-Statement-9-9-2018.docx
+FILE	---A----	4/23/2020 01:02	5/19/2020 23:01	5/22/2020 08:38	13,413	Lowes-Statement-10-10-2019.docx
+FILE	---A----	4/23/2020 01:32	5/16/2020 20:03	5/16/2020 20:03	11,347	AmericanExpress-Statement-10-10-2019.docx
+FILE	---A----	4/23/2020 01:46	5/17/2020 11:03	5/17/2020 11:03	11,340	AmericanExpress-Statement-7-7-2018.docx
+FILE	---A----	4/23/2020 02:16	5/29/2020 02:01	5/29/2020 02:01	13,464	MandT-Statement-2-2-2015.docx
+FILE	---A----	4/23/2020 02:46	5/5/2020 11:01	5/5/2020 11:01	13,485	BestBuy-Statement-7-7-2017.docx
+FILE	---A----	4/23/2020 03:02	5/26/2020 20:01	5/26/2020 20:01	13,459	AmericanExpress-Statement-4-4-2016.docx
+FILE	---A----	4/23/2020 03:46	5/25/2020 17:01	5/25/2020 17:01	13,462	Lowes-Statement-8-8-2018.docx
+FILE	---A----	4/23/2020 04:16	5/9/2020 08:01	5/9/2020 08:01	13,562	AmericanExpress-Statement-1-1-2015.docx
+FILE	---A----	4/23/2020 05:02	5/15/2020 05:03	5/15/2020 05:03	11,342	Lowes-Statement-1-1-2015.docx
+FILE	---A----	4/23/2020 05:16	5/28/2020 23:01	5/28/2020 23:01	13,725	KeyBank-Statement-2-2-2015.docx
+FILE	---A----	4/23/2020 05:46	5/27/2020 11:01	5/27/2020 11:01	13,321	BestBuy-Statement-3-3-2016.docx
+FILE	---A----	4/23/2020 06:02	5/28/2020 17:01	5/28/2020 17:01	13,450	KeyBank-Statement-3-3-2016.docx
+FILE	---A----	4/23/2020 06:16	5/21/2020 14:01	5/22/2020 08:38	13,548	AmericanExpress-Statement-11-11-2019.docx
+FILE	---A----	4/23/2020 06:46	5/27/2020 02:01	5/27/2020 02:01	13,423	KeyBank-Statement-7-7-2018.docx
+FILE	---A----	4/23/2020 07:16	5/19/2020 08:02	5/22/2020 08:38	13,418	KeyBank-Statement-8-8-2018.docx
+FILE	---A----	4/23/2020 08:16	4/28/2020 07:31	4/28/2020 07:31	13,178	Lowes-Statement-9-9-2018.docx
+FILE	---A----	4/23/2020 08:46	5/24/2020 23:01	5/24/2020 23:01	13,394	BestBuy-Statement-4-4-2016.docx
+FILE	---A----	4/23/2020 10:46	5/21/2020 08:01	5/22/2020 08:38	13,358	MandT-Statement-9-9-2018.docx
+FILE	---A----	4/23/2020 11:01	5/24/2020 20:01	5/24/2020 20:01	13,295	KeyBank-Statement-11-11-2019.docx
+FILE	---A----	4/23/2020 11:16	5/21/2020 23:01	5/22/2020 08:38	13,375	Lowes-Statement-5-5-2017.docx
+FILE	---A----	4/23/2020 12:02	5/25/2020 11:01	5/25/2020 11:01	13,388	BestBuy-Statement-5-5-2017.docx
+FILE	---A----	4/23/2020 12:16	5/18/2020 05:01	5/22/2020 08:38	13,321	MandT-Statement-11-11-2019.docx
+FILE	---A----	4/23/2020 13:46	5/25/2020 02:01	5/25/2020 02:01	13,536	BestBuy-Statement-6-6-2017.docx
+FILE	---A----	4/23/2020 15:31	5/25/2020 20:01	5/25/2020 20:01	13,180	AmericanExpress-Statement-5-5-2017.docx
+FILE	---A----	4/23/2020 16:32	5/27/2020 05:02	5/27/2020 05:02	13,270	BestBuy-Statement-7-7-2018.docx
+FILE	---A----	4/23/2020 17:16	5/3/2020 20:02	5/3/2020 20:02	13,397	Lowes-Statement-3-3-2016.docx
+FILE	---A----	4/23/2020 17:46	5/24/2020 05:01	5/24/2020 05:01	13,451	MandT-Statement-4-4-2016.docx
+FILE	---A----	4/23/2020 18:32	5/26/2020 11:01	5/26/2020 11:01	13,307	BestBuy-Statement-2-2-2015.docx
+FILE	---A----	4/23/2020 20:46	5/24/2020 08:01	5/24/2020 08:01	13,477	AmericanExpress-Statement-6-6-2017.docx
+FILE	---A----	4/23/2020 22:02	5/20/2020 05:02	5/22/2020 08:38	13,370	MandT-Statement-5-5-2017.docx
+FILE	---A----	4/23/2020 22:16	5/27/2020 17:01	5/27/2020 17:01	13,497	KeyBank-Statement-10-10-2019.docx
+FILE	---A----	4/23/2020 23:02	5/29/2020 23:01	5/29/2020 23:01	13,243	Lowes-Statement-2-2-2015.docx
+FILE	---A----	4/24/2020 00:02	5/26/2020 17:01	5/26/2020 17:01	13,543	MandT-Statement-8-8-2018.docx
+FILE	---A----	4/24/2020 01:31	5/27/2020 23:01	5/27/2020 23:01	13,459	MandT-Statement-9-9-2019.docx
+FILE	---A----	4/24/2020 02:46	5/23/2020 08:01	5/23/2020 08:01	13,435	AmericanExpress-Statement-9-9-2018.docx
+FILE	---A----	4/24/2020 03:02	5/17/2020 20:02	5/22/2020 08:38	13,514	AmericanExpress-Statement-3-3-2015.docx
+FILE	---A----	4/24/2020 04:32	4/28/2020 06:32	4/28/2020 06:32	13,440	Lowes-Statement-9-9-2019.docx
+FILE	---A----	4/24/2020 05:16	5/26/2020 14:01	5/26/2020 14:01	13,233	BestBuy-Statement-11-11-2019.docx
+FILE	---A----	4/24/2020 05:31	5/22/2020 11:06	5/22/2020 11:06	13,600	KeyBank-Statement-5-5-2016.docx
+FILE	---A----	4/24/2020 06:32	5/30/2020 11:01	5/30/2020 11:01	13,670	AmericanExpress-Statement-8-8-2018.docx
+FILE	---A----	4/24/2020 16:31	5/29/2020 17:01	5/29/2020 17:01	13,430	Lowes-Statement-5-5-2016.docx
+FILE	---A----	4/24/2020 17:02	5/30/2020 02:01	5/30/2020 02:01	13,364	BestBuy-Statement-9-9-2019.docx
+FILE	---A----	4/25/2020 00:39	5/28/2020 08:01	5/28/2020 08:01	13,586	MandT-Statement-3-3-2016.docx
+FILE	---A----	4/25/2020 09:16	5/6/2020 14:02	5/6/2020 14:02	13,456	AmericanExpress-Statement-5-5-2016.docx
+FILE	---A----	4/25/2020 11:02	5/21/2020 20:01	5/22/2020 08:38	13,459	MandT-Statement-7-7-2018.docx
+FILE	---A----	4/25/2020 11:46	5/28/2020 05:01	5/28/2020 05:01	13,570	BestBuy-Statement-8-8-2018.docx
+FILE	---A----	4/25/2020 18:46	4/27/2020 05:17	4/27/2020 05:17	13,352	BestBuy-Statement-3-3-2015.docx
+FILE	---A----	4/25/2020 22:02	5/6/2020 02:01	5/6/2020 02:01	13,300	Lowes-Statement-3-3-2015.docx
+FILE	---A----	4/26/2020 13:16	5/7/2020 14:01	5/7/2020 14:01	13,374	MandT-Statement-7-7-2017.docx
+FILE	---A----	4/26/2020 16:03	5/30/2020 05:01	5/30/2020 05:01	13,382	Lowes-Statement-7-7-2018.docx
+FILE	---A----	4/26/2020 16:46	5/29/2020 08:01	5/29/2020 08:01	13,362	KeyBank-Statement-7-7-2017.docx
+FILE	---A----	4/27/2020 06:46	4/27/2020 09:16	4/27/2020 09:16	13,567	KeyBank-Statement-9-9-2019.docx
+FILE	---A----	4/27/2020 11:32	5/10/2020 20:01	5/10/2020 20:01	13,377	BestBuy-Statement-5-5-2016.docx
+FILE	---A----	4/27/2020 17:16	5/29/2020 14:01	5/29/2020 14:01	13,589	KeyBank-Statement-3-3-2015.docx
+FILE	---A----	4/27/2020 22:46	4/28/2020 02:32	4/28/2020 02:32	13,556	MandT-Statement-3-3-2015.docx
+TOTAL	C:\Users\Student\Documents\Personal\Statements\	-------	0	149	1,991,270	1,991,270
+TOTAL	C:\Users\Student\Documents\Personal\	-------	4	842	65,372,530	65,372,530

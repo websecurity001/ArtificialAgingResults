@@ -1,0 +1,41 @@
+
+Windows IP Configuration
+
+    play.google.com
+    ----------------------------------------
+    Record Name . . . . . : play.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 22
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.11.46
+
+
+    clients4.google.com
+    ----------------------------------------
+    Record Name . . . . . : clients4.google.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 50
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : clients.l.google.com
+
+
+    Record Name . . . . . : clients.l.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 50
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.10.46
+
+
+    addons-pa.clients6.google.com
+    ----------------------------------------
+    Record Name . . . . . : addons-pa.clients6.google.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 33
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 172.217.12.138
+
+

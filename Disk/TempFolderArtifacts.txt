@@ -1,0 +1,262 @@
+COMMENT Column list: Type   Attribute   Date Created   Last Modified   Last Accessed   File size   FileName
+
+COMMENT	
+COMMENT	Computer: DESKTOP-VI4396B
+COMMENT	User: Student
+COMMENT	Prepared: 11:36 5/30/2020
+COMMENT	Folder: C:\Users\Student\AppData\Local\Temp\
+COMMENT	Include Sub-Folders? Yes
+COMMENT	
+FOLDER	C:\Users\Student\AppData\Local\Temp\	-------	22	200	98,204,840	98,204,840
+FILE	---A----	4/3/2020 11:50	5/30/2020 11:29	5/30/2020 11:29	53	18e190413af045db88dfbd29609eb877.db.ses
+FILE	---A----	4/4/2020 10:53	5/30/2020 11:02	5/30/2020 11:10	2,457,600	History
+FILE	---A----	4/12/2020 14:42	5/30/2020 09:07	5/30/2020 09:07	344,629	AdobeARM.log
+FILE	---A----	5/7/2020 15:24	5/7/2020 15:24	5/29/2020 03:16	526	wct3E0D.tmp
+FILE	---A----	5/7/2020 15:24	5/7/2020 15:24	5/30/2020 01:24	526	wct84C.tmp
+FILE	---A----	5/7/2020 15:24	5/7/2020 15:24	5/24/2020 03:36	526	wctA162.tmp
+FILE	---A----	5/7/2020 15:24	5/7/2020 15:24	5/27/2020 01:15	526	wctA808.tmp
+FILE	---A----	5/7/2020 15:24	5/7/2020 15:24	5/25/2020 03:00	526	wctE789.tmp
+FILE	---A----	5/7/2020 15:24	5/7/2020 15:24	5/26/2020 02:27	526	wctEDBA.tmp
+FILE	---A----	5/7/2020 15:24	5/7/2020 15:24	5/28/2020 00:05	526	wctF1BF.tmp
+FILE	--------	5/17/2020 19:55	5/17/2020 19:55	5/17/2020 19:55	470	aria-debug-6680.log
+FILE	--------	5/17/2020 19:55	5/17/2020 19:55	5/17/2020 19:55	470,016	dd494218-6896-4024-95fb-b23042116eeb.tmp.node
+FILE	---A----	5/22/2020 16:40	5/22/2020 16:40	5/24/2020 03:36	27,947	wctA019.tmp
+FILE	---A----	5/22/2020 16:40	5/22/2020 16:40	5/25/2020 03:00	27,947	wctE64F.tmp
+FILE	---A----	5/22/2020 16:40	5/22/2020 16:40	5/26/2020 02:27	27,947	wctEC90.tmp
+FILE	---A----	5/23/2020 08:01	5/23/2020 08:01	5/23/2020 08:01	0	mat-debug-3176.log
+FILE	---A---X	5/23/2020 08:01	5/23/2020 08:01	5/23/2020 08:01	262,144	53yveksk.szc-AAF-Bot.exe
+FILE	---A---X	5/23/2020 08:01	5/23/2020 08:01	5/23/2020 08:01	786,432	y5jkfbsr.qk2-AAF-Bot.msi
+FILE	---A----	5/23/2020 11:00	5/23/2020 11:00	5/23/2020 11:00	0	mat-debug-9412.log
+FILE	---A---X	5/23/2020 11:01	5/23/2020 11:01	5/23/2020 11:01	262,144	cnb0bzps.v20-AAF-Bot.exe
+FILE	---A---X	5/23/2020 11:01	5/23/2020 11:01	5/23/2020 11:01	262,144	ku2kgzth.hbc-AAF-Bot.exe
+FILE	---A----	5/23/2020 14:00	5/23/2020 14:00	5/23/2020 14:00	0	mat-debug-4696.log
+FILE	---A---X	5/23/2020 14:01	5/23/2020 14:01	5/23/2020 14:01	524,288	vwvf1gaj.fp4-AAF-Bot.dll
+FILE	---A----	5/23/2020 14:01	5/23/2020 14:01	5/23/2020 14:01	1,310,720	wagwfdgo.4qx-AAF-Bot.pdf
+FILE	---A----	5/23/2020 17:00	5/23/2020 17:00	5/23/2020 17:00	0	mat-debug-4308.log
+FILE	---A---X	5/23/2020 17:01	5/23/2020 17:01	5/23/2020 17:01	1,048,576	5zuyyrop.x3w-AAF-Bot.doc
+FILE	---A---X	5/23/2020 17:01	5/23/2020 17:01	5/23/2020 17:01	524,288	suvnhr1w.usc-AAF-Bot.dll
+FILE	---A----	5/23/2020 20:00	5/23/2020 20:00	5/23/2020 20:00	0	mat-debug-9424.log
+FILE	---A---X	5/23/2020 20:01	5/23/2020 20:01	5/23/2020 20:01	786,432	dfdgzeh4.d2n-AAF-Bot.msi
+FILE	---A---X	5/23/2020 20:01	5/23/2020 20:01	5/23/2020 20:01	1,048,576	gvzyfu5q.zrz-AAF-Bot.doc
+FILE	---A----	5/23/2020 23:00	5/23/2020 23:00	5/23/2020 23:00	0	mat-debug-11972.log
+FILE	---A---X	5/23/2020 23:01	5/23/2020 23:01	5/23/2020 23:01	262,144	e2zuqleq.o1i-AAF-Bot.exe
+FILE	---A---X	5/23/2020 23:01	5/23/2020 23:01	5/23/2020 23:01	1,048,576	ocjg3lkm.0sj-AAF-Bot.doc
+FILE	---A----	5/24/2020 02:00	5/24/2020 02:00	5/24/2020 02:00	0	mat-debug-11608.log
+FILE	---A----	5/24/2020 02:01	5/24/2020 02:01	5/24/2020 02:01	1,310,720	q3jgco4w.1cu-AAF-Bot.pdf
+FILE	---A----	5/24/2020 02:01	5/24/2020 02:01	5/24/2020 02:01	1,310,720	rwvblkaf.qw0-AAF-Bot.pdf
+FILE	---A----	5/24/2020 05:00	5/26/2020 08:01	5/26/2020 08:01	0	mat-debug-12232.log
+FILE	---A---X	5/24/2020 05:01	5/24/2020 05:01	5/24/2020 05:01	1,048,576	ecagdndn.sjv-AAF-Bot.doc
+FILE	---A---X	5/24/2020 05:01	5/24/2020 05:01	5/24/2020 05:01	1,048,576	odst1cft.del-AAF-Bot.doc
+FILE	---A----	5/24/2020 08:00	5/24/2020 08:00	5/24/2020 08:00	0	mat-debug-6236.log
+FILE	---A---X	5/24/2020 08:01	5/24/2020 08:01	5/24/2020 08:01	786,432	lbmqho4x.uma-AAF-Bot.msi
+FILE	---A---X	5/24/2020 08:01	5/24/2020 08:01	5/24/2020 08:01	1,048,576	wxkwo00n.n2e-AAF-Bot.doc
+FILE	---A----	5/24/2020 11:01	5/24/2020 11:01	5/24/2020 11:01	0	mat-debug-3748.log
+FILE	---A---X	5/24/2020 11:01	5/24/2020 11:01	5/24/2020 11:01	1,048,576	cw2jm55i.ku5-AAF-Bot.doc
+FILE	---A---X	5/24/2020 11:01	5/24/2020 11:01	5/24/2020 11:01	262,144	hzx4jymr.okm-AAF-Bot.exe
+FILE	---A----	5/24/2020 14:00	5/24/2020 14:00	5/24/2020 14:00	0	mat-debug-12532.log
+FILE	---A---X	5/24/2020 14:01	5/24/2020 14:01	5/24/2020 14:01	262,144	lratwp1r.iki-AAF-Bot.exe
+FILE	---A----	5/24/2020 14:01	5/24/2020 14:01	5/24/2020 14:01	1,310,720	p3av5udu.0sp-AAF-Bot.pdf
+FILE	---A----	5/24/2020 17:00	5/24/2020 17:00	5/24/2020 17:00	0	mat-debug-11148.log
+FILE	---A----	5/24/2020 17:01	5/24/2020 17:01	5/24/2020 17:01	1,310,720	31v5wijo.dxn-AAF-Bot.pdf
+FILE	---A---X	5/24/2020 17:01	5/24/2020 17:01	5/24/2020 17:01	1,048,576	ovuoucdj.2gi-AAF-Bot.doc
+FILE	---A----	5/24/2020 20:01	5/24/2020 20:01	5/24/2020 20:01	0	mat-debug-4740.log
+FILE	---A----	5/24/2020 20:01	5/24/2020 20:01	5/24/2020 20:01	1,310,720	patorqct.xgl-AAF-Bot.pdf
+FILE	---A---X	5/24/2020 20:01	5/24/2020 20:01	5/24/2020 20:01	1,048,576	yj4sdly4.iu1-AAF-Bot.doc
+FILE	---A----	5/24/2020 23:00	5/24/2020 23:00	5/24/2020 23:00	0	mat-debug-9028.log
+FILE	---A---X	5/24/2020 23:01	5/24/2020 23:01	5/24/2020 23:01	786,432	2aozrzph.wm2-AAF-Bot.msi
+FILE	---A---X	5/24/2020 23:01	5/24/2020 23:01	5/24/2020 23:01	262,144	rsgliuwg.ne2-AAF-Bot.exe
+FILE	---A----	5/25/2020 02:01	5/25/2020 02:01	5/25/2020 02:01	0	mat-debug-3908.log
+FILE	---A---X	5/25/2020 02:01	5/25/2020 02:01	5/25/2020 02:01	1,048,576	d1fcldiy.pyv-AAF-Bot.doc
+FILE	---A----	5/25/2020 02:01	5/25/2020 02:01	5/25/2020 02:01	1,310,720	kucpwlxc.itl-AAF-Bot.pdf
+FILE	---A----	5/25/2020 05:00	5/25/2020 05:00	5/25/2020 05:00	0	mat-debug-11880.log
+FILE	---A---X	5/25/2020 05:01	5/25/2020 05:01	5/25/2020 05:01	786,432	j3hf5e21.jtl-AAF-Bot.msi
+FILE	---A---X	5/25/2020 05:01	5/25/2020 05:01	5/25/2020 05:01	786,432	mnq4r5pu.e1a-AAF-Bot.msi
+FILE	---A----	5/25/2020 08:01	5/25/2020 08:01	5/25/2020 08:01	0	mat-debug-7660.log
+FILE	---A---X	5/25/2020 08:01	5/25/2020 08:01	5/25/2020 08:01	786,432	0yuhryr4.vk5-AAF-Bot.msi
+FILE	---A---X	5/25/2020 08:01	5/25/2020 08:01	5/25/2020 08:01	786,432	is4znjh2.uk2-AAF-Bot.msi
+FILE	---A----	5/25/2020 11:01	5/25/2020 11:01	5/25/2020 11:01	0	mat-debug-492.log
+FILE	---A---X	5/25/2020 11:01	5/25/2020 11:01	5/25/2020 11:01	262,144	debrphhu.n24-AAF-Bot.exe
+FILE	---A---X	5/25/2020 11:01	5/25/2020 11:01	5/25/2020 11:01	1,048,576	htpaibdr.3p4-AAF-Bot.doc
+FILE	---A----	5/25/2020 14:00	5/25/2020 14:00	5/25/2020 14:00	0	mat-debug-9744.log
+FILE	---A---X	5/25/2020 14:01	5/25/2020 14:01	5/25/2020 14:01	262,144	5ziuiu1v.4o2-AAF-Bot.exe
+FILE	---A---X	5/25/2020 14:01	5/25/2020 14:01	5/25/2020 14:01	786,432	qld4bfcr.dna-AAF-Bot.msi
+FILE	---A----	5/25/2020 17:01	5/25/2020 17:01	5/25/2020 17:01	0	mat-debug-10104.log
+FILE	---A---X	5/25/2020 17:01	5/25/2020 17:01	5/25/2020 17:01	786,432	dn3i4c14.o45-AAF-Bot.msi
+FILE	---A---X	5/25/2020 17:01	5/25/2020 17:01	5/25/2020 17:01	786,432	lztvitj2.rs5-AAF-Bot.msi
+FILE	---A----	5/25/2020 20:01	5/25/2020 20:01	5/25/2020 20:01	0	mat-debug-3532.log
+FILE	---A---X	5/25/2020 20:01	5/25/2020 20:01	5/25/2020 20:01	1,048,576	ocds3fnj.e5y-AAF-Bot.doc
+FILE	---A---X	5/25/2020 20:01	5/25/2020 20:01	5/25/2020 20:01	786,432	ztzrcl2f.e22-AAF-Bot.msi
+FILE	---A----	5/25/2020 23:00	5/25/2020 23:00	5/25/2020 23:00	0	mat-debug-12188.log
+FILE	---A---X	5/25/2020 23:01	5/25/2020 23:01	5/25/2020 23:01	1,048,576	1nrkwtnq.ekt-AAF-Bot.doc
+FILE	---A---X	5/25/2020 23:01	5/25/2020 23:01	5/25/2020 23:01	524,288	5oaoosbo.3wx-AAF-Bot.dll
+FILE	---A----	5/26/2020 02:01	5/26/2020 02:01	5/26/2020 02:01	0	mat-debug-12920.log
+FILE	---A---X	5/26/2020 02:01	5/26/2020 02:01	5/26/2020 02:01	1,048,576	fokfuwby.p50-AAF-Bot.doc
+FILE	---A---X	5/26/2020 02:01	5/26/2020 02:01	5/26/2020 02:01	1,048,576	ktmzf1rj.ibb-AAF-Bot.doc
+FILE	---A----	5/26/2020 05:01	5/26/2020 05:01	5/26/2020 05:01	0	mat-debug-648.log
+FILE	---A---X	5/26/2020 05:01	5/26/2020 05:01	5/26/2020 05:01	1,048,576	gcmnpggz.y44-AAF-Bot.doc
+FILE	---A---X	5/26/2020 05:01	5/26/2020 05:01	5/26/2020 05:01	1,048,576	jishjcpr.dl0-AAF-Bot.doc
+FILE	---A---X	5/26/2020 08:01	5/26/2020 08:01	5/26/2020 08:01	1,048,576	k1zowf2s.5j3-AAF-Bot.doc
+FILE	---A---X	5/26/2020 08:01	5/26/2020 08:01	5/26/2020 08:01	1,048,576	k2xtow3m.dz2-AAF-Bot.doc
+FILE	---A----	5/26/2020 11:01	5/26/2020 11:01	5/26/2020 11:01	0	mat-debug-11980.log
+FILE	---A---X	5/26/2020 11:01	5/26/2020 11:01	5/30/2020 11:35	262,144	4phzcbhe.f5d-AAF-Bot.exe
+FILE	---A----	5/26/2020 11:01	5/26/2020 11:01	5/26/2020 11:01	1,310,720	bi5ed0vx.3xh-AAF-Bot.pdf
+FILE	---A----	5/26/2020 14:00	5/26/2020 14:00	5/26/2020 14:00	0	mat-debug-12380.log
+FILE	---A---X	5/26/2020 14:01	5/26/2020 14:01	5/26/2020 14:01	786,432	23jlhe3w.3j5-AAF-Bot.msi
+FILE	---A---X	5/26/2020 14:01	5/26/2020 14:01	5/26/2020 14:01	262,144	ibuc1s1k.2e3-AAF-Bot.exe
+FILE	---A----	5/26/2020 16:10	5/26/2020 16:10	5/27/2020 01:15	27,946	wctA6CE.tmp
+FILE	---A----	5/26/2020 17:00	5/26/2020 17:00	5/26/2020 17:00	0	mat-debug-4660.log
+FILE	---A---X	5/26/2020 17:01	5/26/2020 17:01	5/26/2020 17:01	1,048,576	2pwijdib.is0-AAF-Bot.doc
+FILE	---A---X	5/26/2020 17:01	5/26/2020 17:01	5/26/2020 17:01	786,432	ychli0ma.xds-AAF-Bot.msi
+FILE	---A----	5/26/2020 19:56	5/26/2020 19:56	5/26/2020 19:56	0	mat-debug-6092.log
+FILE	---A----	5/26/2020 19:59	5/26/2020 19:59	5/26/2020 19:59	0	mat-debug-11476.log
+FILE	---A---X	5/26/2020 20:01	5/26/2020 20:01	5/30/2020 11:35	262,144	0ljpil25.znj-AAF-Bot.exe
+FILE	---A----	5/26/2020 20:01	5/26/2020 20:01	5/26/2020 20:01	1,310,720	ockyqmck.ear-AAF-Bot.pdf
+FILE	---A----	5/26/2020 23:01	5/26/2020 23:01	5/26/2020 23:01	0	mat-debug-13616.log
+FILE	---A---X	5/26/2020 23:01	5/26/2020 23:01	5/26/2020 23:01	1,048,576	g1unev1c.yud-AAF-Bot.doc
+FILE	---A---X	5/26/2020 23:01	5/26/2020 23:01	5/26/2020 23:01	1,048,576	ih5os1tx.pwm-AAF-Bot.doc
+FILE	---A----	5/27/2020 02:00	5/27/2020 02:00	5/27/2020 02:00	0	mat-debug-7260.log
+FILE	---A---X	5/27/2020 02:01	5/27/2020 02:01	5/27/2020 02:01	1,048,576	151quegb.vlk-AAF-Bot.doc
+FILE	---A---X	5/27/2020 02:01	5/27/2020 02:01	5/27/2020 02:01	1,048,576	ualef2ys.fls-AAF-Bot.doc
+FILE	---A----	5/27/2020 05:01	5/27/2020 05:01	5/27/2020 05:01	0	mat-debug-11404.log
+FILE	---A---X	5/27/2020 05:02	5/27/2020 05:02	5/30/2020 11:35	262,144	3wgkvp50.k0v-AAF-Bot.exe
+FILE	---A---X	5/27/2020 05:02	5/27/2020 05:02	5/27/2020 05:02	1,048,576	4jtnx5rz.tcy-AAF-Bot.doc
+FILE	---A----	5/27/2020 08:05	5/27/2020 08:05	5/27/2020 08:05	0	mat-debug-10056.log
+FILE	---A---X	5/27/2020 08:05	5/27/2020 08:05	5/27/2020 08:05	786,432	eqsemnwa.ucs-AAF-Bot.msi
+FILE	---A---X	5/27/2020 08:05	5/27/2020 08:05	5/27/2020 08:05	262,144	ux5jeqda.lk2-AAF-Bot.exe
+FILE	---A----	5/27/2020 11:00	5/27/2020 11:00	5/27/2020 11:00	0	mat-debug-5928.log
+FILE	---A---X	5/27/2020 11:01	5/27/2020 11:01	5/27/2020 11:01	786,432	55wxgl3m.yrs-AAF-Bot.msi
+FILE	---A---X	5/27/2020 11:01	5/27/2020 11:01	5/27/2020 11:01	262,144	mqtvrqaf.24x-AAF-Bot.exe
+FILE	---A----	5/27/2020 14:00	5/27/2020 14:00	5/27/2020 14:00	0	mat-debug-11940.log
+FILE	---A---X	5/27/2020 14:01	5/27/2020 14:01	5/27/2020 14:01	786,432	ftukvxb4.qvq-AAF-Bot.msi
+FILE	---A----	5/27/2020 14:01	5/27/2020 14:01	5/27/2020 14:01	1,310,720	jo1byzen.sws-AAF-Bot.pdf
+FILE	---A----	5/27/2020 15:45	5/27/2020 15:45	5/28/2020 00:05	27,947	wctF095.tmp
+FILE	---A----	5/27/2020 17:00	5/27/2020 17:00	5/27/2020 17:00	0	mat-debug-10864.log
+FILE	---A---X	5/27/2020 17:01	5/27/2020 17:01	5/27/2020 17:01	1,048,576	brg3vgeh.fap-AAF-Bot.doc
+FILE	---A----	5/27/2020 17:01	5/27/2020 17:01	5/27/2020 17:01	1,310,720	fmzijdl0.sz0-AAF-Bot.pdf
+FILE	---A----	5/27/2020 20:01	5/27/2020 20:01	5/27/2020 20:01	0	mat-debug-10724.log
+FILE	---A---X	5/27/2020 20:01	5/27/2020 20:01	5/27/2020 20:01	1,048,576	e30kpw2h.10u-AAF-Bot.doc
+FILE	---A---X	5/27/2020 20:01	5/27/2020 20:01	5/27/2020 20:01	524,288	k4i1llhq.wxj-AAF-Bot.dll
+FILE	---A----	5/27/2020 23:00	5/27/2020 23:00	5/27/2020 23:00	0	mat-debug-9332.log
+FILE	---A---X	5/27/2020 23:01	5/27/2020 23:01	5/27/2020 23:01	1,048,576	4ha0x3fd.fqr-AAF-Bot.doc
+FILE	---A---X	5/27/2020 23:01	5/27/2020 23:01	5/27/2020 23:01	1,048,576	mihteoyb.hh4-AAF-Bot.doc
+FILE	---A----	5/28/2020 02:00	5/28/2020 02:00	5/28/2020 02:00	0	mat-debug-12224.log
+FILE	---A---X	5/28/2020 02:01	5/28/2020 02:01	5/28/2020 02:01	262,144	p5quvoiu.q0j-AAF-Bot.exe
+FILE	---A----	5/28/2020 02:01	5/28/2020 02:01	5/28/2020 02:01	1,310,720	yyljhhx2.4kk-AAF-Bot.pdf
+FILE	---A----	5/28/2020 05:00	5/28/2020 05:00	5/28/2020 05:00	0	mat-debug-13368.log
+FILE	---A---X	5/28/2020 05:01	5/28/2020 05:01	5/28/2020 05:01	1,048,576	1jbapmkw.2ar-AAF-Bot.doc
+FILE	---A---X	5/28/2020 05:01	5/28/2020 05:01	5/28/2020 05:01	262,144	nyi4mbuf.g5b-AAF-Bot.exe
+FILE	---A----	5/28/2020 08:01	5/28/2020 08:01	5/28/2020 08:01	0	mat-debug-676.log
+FILE	---A---X	5/28/2020 08:01	5/28/2020 08:01	5/28/2020 08:01	524,288	cyk5f4bx.som-AAF-Bot.dll
+FILE	---A---X	5/28/2020 08:01	5/28/2020 08:01	5/28/2020 08:01	786,432	sy4vzk4o.tbo-AAF-Bot.msi
+FILE	---A----	5/28/2020 11:01	5/28/2020 11:01	5/28/2020 11:01	0	mat-debug-14032.log
+FILE	---A---X	5/28/2020 11:02	5/28/2020 11:02	5/28/2020 11:02	786,432	1sftgb0g.h11-AAF-Bot.msi
+FILE	---A---X	5/28/2020 11:02	5/28/2020 11:02	5/28/2020 11:02	262,144	qallc4lt.lha-AAF-Bot.exe
+FILE	---A----	5/28/2020 14:01	5/28/2020 14:01	5/28/2020 14:01	0	mat-debug-9748.log
+FILE	---A---X	5/28/2020 14:01	5/28/2020 14:01	5/28/2020 14:01	262,144	hhawi1vi.ta0-AAF-Bot.exe
+FILE	---A---X	5/28/2020 14:01	5/28/2020 14:01	5/28/2020 14:01	262,144	ohfhdhl3.tiw-AAF-Bot.exe
+FILE	---A----	5/28/2020 17:00	5/28/2020 17:00	5/28/2020 17:00	0	mat-debug-12496.log
+FILE	---A----	5/28/2020 17:01	5/28/2020 17:01	5/28/2020 17:01	1,310,720	evsh2jks.2je-AAF-Bot.pdf
+FILE	---A---X	5/28/2020 17:01	5/28/2020 17:01	5/28/2020 17:01	1,048,576	q1fn5f4u.ncc-AAF-Bot.doc
+FILE	---A----	5/28/2020 17:50	5/28/2020 17:50	5/29/2020 03:16	27,949	wct3CE3.tmp
+FILE	---A----	5/28/2020 17:50	5/28/2020 17:50	5/30/2020 01:24	27,949	wct713.tmp
+FILE	---A----	5/28/2020 20:00	5/28/2020 20:00	5/28/2020 20:00	0	mat-debug-1608.log
+FILE	---A---X	5/28/2020 20:01	5/28/2020 20:01	5/30/2020 11:35	262,144	3cm54qdh.g2n-AAF-Bot.exe
+FILE	---A---X	5/28/2020 20:01	5/28/2020 20:01	5/28/2020 20:01	1,048,576	cgch4cev.u3r-AAF-Bot.doc
+FILE	---A----	5/28/2020 23:01	5/28/2020 23:01	5/28/2020 23:01	0	mat-debug-12356.log
+FILE	---A---X	5/28/2020 23:01	5/28/2020 23:01	5/28/2020 23:01	1,048,576	beg0flwe.ng2-AAF-Bot.doc
+FILE	---A----	5/28/2020 23:01	5/28/2020 23:01	5/28/2020 23:01	1,310,720	fntun4jy.jm4-AAF-Bot.pdf
+FILE	---A----	5/29/2020 02:00	5/29/2020 02:00	5/29/2020 02:00	0	mat-debug-13112.log
+FILE	---A---X	5/29/2020 02:01	5/29/2020 02:01	5/29/2020 02:01	262,144	s5myi5m1.23q-AAF-Bot.exe
+FILE	---A---X	5/29/2020 02:01	5/29/2020 02:01	5/29/2020 02:01	524,288	suejapxs.wgm-AAF-Bot.dll
+FILE	---A----	5/29/2020 05:00	5/29/2020 05:00	5/29/2020 05:00	0	mat-debug-8808.log
+FILE	---A----	5/29/2020 05:01	5/29/2020 05:01	5/29/2020 05:01	1,310,720	awpihlbd.czg-AAF-Bot.pdf
+FILE	---A---X	5/29/2020 05:01	5/29/2020 05:01	5/29/2020 05:01	524,288	mbzhbszp.o2e-AAF-Bot.dll
+FILE	---A----	5/29/2020 08:01	5/29/2020 08:01	5/29/2020 08:01	0	mat-debug-1736.log
+FILE	---A---X	5/29/2020 08:01	5/29/2020 08:01	5/29/2020 08:01	524,288	icvb22vy.vem-AAF-Bot.dll
+FILE	---A---X	5/29/2020 08:01	5/29/2020 08:01	5/29/2020 08:01	524,288	tl0h4z4a.0ih-AAF-Bot.dll
+FILE	---A----	5/29/2020 11:01	5/29/2020 11:01	5/29/2020 11:01	0	mat-debug-7500.log
+FILE	---A----	5/29/2020 11:01	5/29/2020 11:01	5/29/2020 11:01	1,310,720	1fw1gbmu.cgw-AAF-Bot.pdf
+FILE	---A---X	5/29/2020 11:01	5/29/2020 11:01	5/29/2020 11:01	524,288	gqjyjqgx.x55-AAF-Bot.dll
+FILE	---A----	5/29/2020 14:00	5/29/2020 14:00	5/29/2020 14:00	0	mat-debug-11532.log
+FILE	---A----	5/29/2020 14:01	5/29/2020 14:01	5/29/2020 14:01	1,310,720	5zuqscmp.kds-AAF-Bot.pdf
+FILE	---A---X	5/29/2020 14:01	5/29/2020 14:01	5/29/2020 14:01	1,048,576	k22r0io2.x2o-AAF-Bot.doc
+FILE	---A----	5/29/2020 17:00	5/29/2020 17:00	5/29/2020 17:00	0	mat-debug-12644.log
+FILE	---A---X	5/29/2020 17:01	5/29/2020 17:01	5/29/2020 17:01	1,048,576	ld3fv1sz.jv2-AAF-Bot.doc
+FILE	---A---X	5/29/2020 17:01	5/29/2020 17:01	5/29/2020 17:01	262,144	vyh1dfxg.dzh-AAF-Bot.exe
+FILE	---A----	5/29/2020 20:00	5/29/2020 20:00	5/29/2020 20:00	0	mat-debug-10656.log
+FILE	---A---X	5/29/2020 20:01	5/29/2020 20:01	5/29/2020 20:01	1,048,576	ofa3n4o2.5ri-AAF-Bot.doc
+FILE	---A---X	5/29/2020 20:01	5/29/2020 20:01	5/29/2020 20:01	524,288	oyjpjbam.2p4-AAF-Bot.dll
+FILE	---A----	5/29/2020 23:00	5/29/2020 23:00	5/29/2020 23:00	0	mat-debug-3456.log
+FILE	---A---X	5/29/2020 23:01	5/29/2020 23:01	5/29/2020 23:01	786,432	2g0nitu3.ykf-AAF-Bot.msi
+FILE	---A---X	5/29/2020 23:01	5/29/2020 23:01	5/29/2020 23:01	786,432	b3jfpiil.wsj-AAF-Bot.msi
+FILE	---A----	5/30/2020 01:24	5/30/2020 01:24	5/30/2020 01:24	470	aria-debug-15372.log
+FILE	---A----	5/30/2020 02:00	5/30/2020 02:00	5/30/2020 02:00	0	mat-debug-15692.log
+FILE	---A---X	5/30/2020 02:01	5/30/2020 02:01	5/30/2020 02:01	524,288	4wghepsa.k3e-AAF-Bot.dll
+FILE	---A---X	5/30/2020 02:01	5/30/2020 02:01	5/30/2020 02:01	524,288	i45ff5c0.wpj-AAF-Bot.dll
+FILE	---A----	5/30/2020 05:00	5/30/2020 05:00	5/30/2020 05:00	0	mat-debug-7800.log
+FILE	---A---X	5/30/2020 05:01	5/30/2020 05:01	5/30/2020 05:01	1,048,576	l4awwram.xtq-AAF-Bot.doc
+FILE	---A---X	5/30/2020 05:01	5/30/2020 05:01	5/30/2020 05:01	786,432	pg2v50xx.xez-AAF-Bot.msi
+FILE	---A----	5/30/2020 08:00	5/30/2020 08:00	5/30/2020 08:00	0	mat-debug-4396.log
+FILE	---A---X	5/30/2020 08:01	5/30/2020 08:01	5/30/2020 08:01	786,432	o0evmndy.ejo-AAF-Bot.msi
+FILE	---A---X	5/30/2020 08:01	5/30/2020 08:01	5/30/2020 08:01	786,432	rhnaylu5.rvy-AAF-Bot.msi
+FILE	---A----	5/30/2020 08:26	5/30/2020 08:26	5/30/2020 08:26	0	mat-debug-8564.log
+FILE	---A----	5/30/2020 08:29	5/30/2020 08:29	5/30/2020 08:29	0	mat-debug-15432.log
+FILE	---A----	5/30/2020 11:01	5/30/2020 11:01	5/30/2020 11:01	0	mat-debug-15456.log
+FILE	---A---X	5/30/2020 11:01	5/30/2020 11:01	5/30/2020 11:01	524,288	101iwn4z.3ot-AAF-Bot.dll
+FILE	---A----	5/30/2020 11:01	5/30/2020 11:01	5/30/2020 11:01	1,310,720	kmxtwdx1.dyp-AAF-Bot.pdf
+FILE	---A----	5/30/2020 11:14	5/30/2020 11:14	5/30/2020 11:14	0	mat-debug-15884.log
+FILE	---A----	5/30/2020 11:23	5/30/2020 11:23	5/30/2020 11:23	49,152	~DFF83CF14E692506CC.TMP
+FILE	---A----	5/30/2020 11:29	5/30/2020 11:29	5/30/2020 11:29	0	mat-debug-11064.log
+FILE	---A----	5/30/2020 11:30	5/30/2020 11:30	5/30/2020 11:30	49,152	~DFC723DA3E548BC798.TMP
+FOLDER	C:\Users\Student\AppData\Local\Temp\8B35E94C-ABB9-49E5-B826-3651F5202ED4\	-------	1	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\8B35E94C-ABB9-49E5-B826-3651F5202ED4\en-US\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\8B35E94C-ABB9-49E5-B826-3651F5202ED4\en-US\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\8B35E94C-ABB9-49E5-B826-3651F5202ED4\	-------	1	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\CR_10D69.tmp\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\CR_10D69.tmp\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\TelemetryClient\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\TelemetryClient\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\NuGetScratch\	-------	1	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\NuGetScratch\lock\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\NuGetScratch\lock\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\NuGetScratch\	-------	1	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\Adobe_ADMLogs\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\Adobe_ADMLogs\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\acrord32_sbx\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\acrord32_sbx\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\acrocef_low\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\acrocef_low\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\MSIABF.tmp-\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\MSIABF.tmp-\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\MSIBCA.tmp-\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\MSIBCA.tmp-\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\MSI684E.tmp-\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\MSI684E.tmp-\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\MSICCA6.tmp-\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\MSICCA6.tmp-\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\MSIAF3.tmp-\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\MSIAF3.tmp-\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\MSI196D.tmp-\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\MSI196D.tmp-\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\VBE\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\VBE\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\32E27C83-E123-476B-9632-FB0C41D0D74E\	-------	1	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\32E27C83-E123-476B-9632-FB0C41D0D74E\en-US\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\32E27C83-E123-476B-9632-FB0C41D0D74E\en-US\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\32E27C83-E123-476B-9632-FB0C41D0D74E\	-------	1	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\msdt\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\msdt\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\msdtadmin\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\msdtadmin\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\chrome_BITS_6244_239816049\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\chrome_BITS_6244_239816049\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\chrome_BITS_1900_863306949\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\chrome_BITS_1900_863306949\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\fogm2q4w\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\fogm2q4w\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\WebInstaller\	-------	0	0	0	0
+TOTAL	C:\Users\Student\AppData\Local\Temp\WebInstaller\	-------	0	0	0	0
+FOLDER	C:\Users\Student\AppData\Local\Temp\chrome_BITS_14820_1366862226\	-------	0	1	21,508	21,508
+FILE	-H-A----	5/29/2020 16:16	5/29/2020 16:16	5/29/2020 16:16	21,508	BIT2FC4.tmp
+TOTAL	C:\Users\Student\AppData\Local\Temp\chrome_BITS_14820_1366862226\	-------	0	1	21,508	21,508
+TOTAL	C:\Users\Student\AppData\Local\Temp\	-------	25	201	98,226,348	98,226,348
